@@ -1,0 +1,173 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color_1"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/background_color_1"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.9"
+            android:background="@color/background_color_1"
+            android:orientation="horizontal"
+            android:paddingBottom="2dp"
+            android:paddingLeft="0dp"
+            android:paddingRight="0dp"
+            android:paddingTop="0dp">
+
+            <ImageButton
+                android:id="@+id/btn_settings"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:layout_gravity="left"
+                android:adjustViewBounds="false"
+                android:background="@color/chitchato_mebratu_cyan"
+                android:cropToPadding="false"
+                android:scaleType="fitCenter" />
+
+            <TextView
+                android:id="@+id/tv_empty_bar_aboutscreen"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="@color/chitchato_mebratu_cyan"
+                android:gravity="center"
+                android:text="Local Bootstrapper"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="@color/white_overlay"
+                android:textSize="25sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linear1"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.1"
+            android:background="@color/background_color_1"
+            android:orientation="vertical"
+            android:paddingBottom="0dp"
+            android:paddingTop="2dp"
+            tools:context=".MainActivity">
+
+            <LinearLayout
+                android:id="@+id/linear1_1_________________"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.1"
+                android:background="@color/cust_color_1"
+                android:orientation="vertical"
+                android:paddingBottom="0dp"
+                android:paddingLeft="0dp"
+                android:paddingTop="2dp"
+                tools:context=".MainActivity">
+
+                <LinearLayout
+                    android:id="@+id/linear2________________________"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.2"
+                    android:background="@color/cust_color_1"
+                    android:gravity="center"
+                    android:paddingBottom="10dp"
+                    android:paddingRight="10dp"
+                    android:paddingTop="10dp"
+                    android:scrollbarAlwaysDrawVerticalTrack="true"
+                    android:scrollbarStyle="outsideOverlay"
+                    android:scrollbars="vertical|horizontal"
+                    android:showDividers="none|beginning|middle|end">
+
+                    <TextView
+                        android:id="@+id/choices_btn"
+                        android:layout_width="300dp"
+                        android:layout_height="300dp"
+                        android:layout_gravity="center"
+                        android:background="@drawable/circlebtn_red_with_border_large_screen"
+                        android:enabled="true"
+                        android:gravity="center"
+                        android:text="START"
+                        android:textColor="@color/chitchato_mebratu_blue"
+                        android:textSize="35sp" />
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:id="@+id/ll_staller_dialog"
+                    android:layout_width="fill_parent"
+                    android:layout_height="30dp"
+                    android:layout_gravity="center"
+                    android:background="@color/background_color_1"
+                    android:gravity="center"
+                    android:minHeight="30dp"
+                    android:minWidth="500dp"
+                    android:orientation="horizontal"
+                    android:visibility="gone">
+
+                    <TextView
+                        android:id="@+id/tv_staller_dialog"
+                        android:layout_width="fill_parent"
+                        android:layout_height="20dp"
+                        android:layout_gravity="center"
+                        android:background="@color/chitchato_mebratu_cyan"
+                        android:gravity="center"
+                        android:minHeight="20dp"
+                        android:minWidth="200dp" />
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.8"
+                    android:background="@color/background_color_1"
+                    android:gravity="right|bottom"
+                    android:orientation="horizontal"
+                    android:paddingBottom="2dp">
+
+                    <EditText
+                        android:id="@+id/edt_box"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:background="@color/cust_color_1"
+                        android:clickable="false"
+                        android:paddingLeft="30dp"
+                        android:paddingRight="30dp"
+                        android:editable="false"
+                        android:ems="0"
+                        android:gravity="top|left"
+                        android:inputType="none"
+                        android:paddingTop="0dp"
+                        android:text="Note: A bootstrap Node initiates the platform. Once initiated no need to rerun. "
+                        android:textAlignment="gravity"
+                        android:textColor="@color/chitchato_mebratu_blue"
+                        android:textSize="12sp">
+
+                    </EditText>
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_gravity="bottom"
+                android:layout_weight="0.9"
+                android:background="@color/chitchato_mebratu_cyan"
+                android:orientation="horizontal"
+                android:paddingBottom="2dp"
+                android:paddingLeft="15dp"
+                android:paddingRight="15dp"
+                android:paddingTop="0dp"></LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

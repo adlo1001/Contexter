@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <EditTextPreference
+        android:defaultValue="unknown_user"
+        android:dialogMessage="peer_name"
+        android:dialogTitle="peer_name"
+        android:key="peer_name" />
+    <EditTextPreference
+        android:defaultValue="unknown_nick_name"
+        android:dialogMessage="peer_sex"
+        android:dialogTitle="peer_nick_name"
+        android:key="peer_nick_name" />
+    <EditTextPreference
+        android:defaultValue="unknown_sex"
+        android:dialogMessage="peer_sex"
+        android:dialogTitle="peer_sex"
+        android:key="peer_sex" />
+    <EditTextPreference
+        android:defaultValue="-1"
+        android:dialogMessage="-1"
+        android:dialogTitle="peer_age"
+        android:key="peer_age" 
+        
+        
+        />
+
+</PreferenceScreen>

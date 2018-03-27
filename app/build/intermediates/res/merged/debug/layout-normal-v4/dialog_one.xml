@@ -1,0 +1,79 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/rectangletv_5"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/linear1_1_dialog_0"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center"
+        android:layout_weight="0.5"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingBottom="0dp"
+        android:paddingLeft="0dp"
+        android:paddingTop="20dp"
+        tools:context=".MainActivity">
+
+        <LinearLayout
+            android:id="@+id/linear1_1_dialog_1_1"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center"
+            android:layout_weight="0.85"
+            android:gravity="bottom|center"
+            android:orientation="horizontal"
+            android:background="@color/cust_color_1"
+            android:paddingBottom="0dp"
+            android:paddingLeft="15dp"
+            android:paddingTop="0dp"
+            tools:context=".MainActivity">
+
+            <ImageView
+                android:id="@+id/imageView_grditem_1"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.9"
+                android:adjustViewBounds="true"
+                android:padding="00dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/ic_tip" />
+
+            <TextView
+                android:id="@+id/tv_dialog_one_title"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.1"
+                android:gravity="left|center"
+                android:paddingBottom="10dp"
+                android:paddingTop="10dp"
+                android:paddingLeft="10dp"
+                android:text="Contexter"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/chitchato_mebratu_cyan" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linear1_1_dialog_1_2"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center"
+        android:layout_margin="20dp"
+        android:layout_weight="0.15"
+        android:gravity="center">
+        <TextView
+            android:id="@+id/btn_dialog_one_enter"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:minWidth="200dp"
+            android:padding="0dp"
+            android:text="Oops..."
+            android:textSize="16sp"
+            android:textColor="@color/cust_color_1" />
+    </LinearLayout>
+
+</LinearLayout>

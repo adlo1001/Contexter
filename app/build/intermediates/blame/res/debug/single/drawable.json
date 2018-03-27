@@ -1,0 +1,450 @@
+[
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\global_bootstrap_cyan.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\global_bootstrap_cyan.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_support.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\ic_support.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_privacy.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\ic_action_privacy.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_add.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\ic_action_add.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_copyrights.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\ic_copyrights.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_addbootstrap.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\ic_addbootstrap.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_bycredit.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\ic_bycredit.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_bootstrapper_blue_small.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\ic_bootstrapper_blue_small.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_bootstrapper_blue_small.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\ic_bootstrapper_blue_small.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\global_bootstrap_cyan.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\global_bootstrap_cyan.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_search.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\ic_action_search.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\world_map_temp_two___________.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\world_map_temp_two___________.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\quickcontact_badge_small_unpressed.9.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\quickcontact_badge_small_unpressed.9.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\quickcontact_badge_small_pressed.9.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\quickcontact_badge_small_pressed.9.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_policy.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\ic_policy.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_one_line_.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\shape_one_line_.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dribbble.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\dribbble.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\twitter.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\twitter.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_message_calls.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\ic_message_calls.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_zero_line.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\shape_zero_line.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bk_pattern_one.jpg",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\bk_pattern_one.jpg"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_sensors.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\ic_sensors.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bk_pattern_one.jpg",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\bk_pattern_one.jpg"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\m2m_devices.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\m2m_devices.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_notification.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\ic_notification.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_notification.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\ic_notification.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_ab_back_holo_dark.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_ab_back_holo_light.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\quickcontact_badge_small.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\quickcontact_badge_small.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_two_line.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\shape_two_line.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\quickcontact_badge_small_unpressed.9.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\quickcontact_badge_small_unpressed.9.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_three_line.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\shape_three_line.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_bootstrapper_grey_small.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\ic_bootstrapper_grey_small.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\world_map_temp_two___________old.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\world_map_temp_two___________old.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tip.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\ic_tip.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher_mini.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\ic_launcher_mini.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_extras.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\ic_extras.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_add_bootstrap_.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\ic_add_bootstrap_.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_terms_one.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\ic_terms_one.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\google_.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\google_.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_ab_hide_holo_light.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\ic_ab_hide_holo_light.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\advertise_local_bts.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\advertise_local_bts.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_one_line.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\shape_one_line.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tip.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\ic_tip.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_peers.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\ic_peers.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_sensors_big.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\ic_sensors_big.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\world_map_temp_two_old.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\world_map_temp_two_old.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\world_map_temp_two_old.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\world_map_temp_two_old.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\google_.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\google_.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_add_device.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\ic_add_device.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_search.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\ic_action_search.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\facebook.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\facebook.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_sensors.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\ic_sensors.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher_mini.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\ic_launcher_mini.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_attachment.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\ic_attachment.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\advertise_local_bts.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\advertise_local_bts.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_bootstrapper_cyan_small.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\ic_bootstrapper_cyan_small.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_ab_show_holo_light.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\ic_ab_show_holo_light.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_terms_one.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\ic_terms_one.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\quickcontact_badge_small_pressed.9.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\quickcontact_badge_small_pressed.9.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_groups.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\ic_groups.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_policy.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\ic_policy.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\world_map_temp_two.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\world_map_temp_two.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher_front_page.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\ic_launcher_front_page.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_zero_line.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\shape_zero_line.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_extras.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\ic_extras.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_bootstrapper_cyan_small.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\ic_bootstrapper_cyan_small.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\world_map_temp_two.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\world_map_temp_two.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bk_pattern_one_big.jpg",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\bk_pattern_one_big.jpg"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\world_map_temp_two___________old.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\world_map_temp_two___________old.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_restore.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\ic_restore.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bk_pattern_one_big.jpg",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\bk_pattern_one_big.jpg"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_one_line_.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\shape_one_line_.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_add_uci.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\ic_add_uci.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_ab_show_holo_light.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\ic_ab_show_holo_light.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\twitter.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\twitter.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_edit.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\ic_action_edit.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\linkedin.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\linkedin.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_bootstrapper_oregon_small.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\ic_bootstrapper_oregon_small.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_edit.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\ic_action_edit.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\quickcontact_badge_small.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\quickcontact_badge_small.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_files.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\ic_files.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_ab_back_holo_light.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_add_device.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\ic_add_device.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_ab_hide_holo_light.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\ic_ab_hide_holo_light.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_sensors_big.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\ic_sensors_big.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_attachment.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\ic_attachment.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_support.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\ic_support.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_files.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\ic_files.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_one_line.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\shape_one_line.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_add_uci.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\ic_add_uci.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_addbootstrap.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\ic_addbootstrap.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_bootstrapper_grey_small.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\ic_bootstrapper_grey_small.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\world_map_temp_two___________.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\world_map_temp_two___________.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_restore.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\ic_restore.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher_front_page.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\ic_launcher_front_page.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_bootstrapper_oregon_small.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\ic_bootstrapper_oregon_small.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\facebook.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\facebook.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_bycredit.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\ic_bycredit.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_privacy.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\ic_action_privacy.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_ab_back_holo_dark.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_three_line.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\shape_three_line.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_groups.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\ic_groups.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dribbble.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\dribbble.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_copyrights.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\ic_copyrights.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\linkedin.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\linkedin.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_two_line.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\shape_two_line.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\m2m_devices.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\m2m_devices.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_add.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\ic_action_add.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_peers.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable\\ic_peers.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_add_bootstrap_.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\ic_add_bootstrap_.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_message_calls.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable\\ic_message_calls.png"
+    }
+]

@@ -1,0 +1,429 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:2:1-223:12
+	package
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:2:11-69
+supports-screens
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:7:5-11:39
+	android:largeScreens
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:9:9-36
+	android:smallScreens
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:11:9-36
+	android:normalScreens
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:10:9-37
+	android:anyDensity
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:8:9-34
+uses-sdk
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:13:5-15:41
+	android:targetSdkVersion
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:15:9-38
+		INJECTED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:14:9-35
+		INJECTED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:17:5-67
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:17:22-64
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:18:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:20:5-76
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:20:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:21:5-76
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:21:22-73
+uses-permission#android.permission.ACCSS_FINE_LOCATION
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:22:5-78
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:22:22-75
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:23:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:24:5-71
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:24:22-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:25:5-80
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:25:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:26:5-81
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:26:22-78
+uses-permission#android.permission.MANAGE_DOCUMENTS
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:27:5-75
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:27:22-72
+uses-permission#android.permission.CHANGE_CONFIGURATION
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:28:22-76
+uses-permission#android.permission.CLEAR_APP_CACHE
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:29:5-74
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:29:22-71
+uses-permission#android.permission.VIBRATE
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:30:5-66
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:30:22-63
+uses-permission#android.permission.GET_TASKS
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:31:5-68
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:31:22-65
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:32:5-75
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:32:22-72
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:33:5-72
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:33:22-69
+application
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:36:5-221:19
+	android:label
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:39:9-34
+	android:allowBackup
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:37:9-35
+	android:icon
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:38:9-45
+	android:largeHeap
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:40:9-33
+	android:theme
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:41:9-67
+meta-data#com.google.android.gms.version
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:42:9-44:69
+	android:value
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:44:13-66
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:43:13-58
+activity#se.sensiblethings.app.chitchato.activities.WelcomeActivity
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:46:9-54:20
+	android:label
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:48:13-45
+	android:theme
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:49:13-60
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:47:13-86
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:50:13-53:29
+action#android.intent.action.MAIN
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:51:17-69
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:51:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:52:17-77
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:52:27-74
+activity#se.sensiblethings.app.chitchato.extras.SplashScreen
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:55:9-57:72
+	android:theme
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:57:13-60
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:56:13-79
+activity#se.sensiblethings.app.chitchato.activities.HelpActivity
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:58:9-60:72
+	android:theme
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:60:13-60
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:59:13-83
+activity#se.sensiblethings.app.chitchato.activities.HelpContainerActivity
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:61:9-63:72
+	android:theme
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:63:13-60
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:62:13-92
+activity#se.sensiblethings.app.chitchato.activities.AboutActivity
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:64:9-66:72
+	android:theme
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:66:13-60
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:65:13-84
+activity#se.sensiblethings.app.chitchato.activities.CreateGroupActivity
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:67:9-70:76
+	android:windowSoftInputMode
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:70:13-64
+	android:theme
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:69:13-60
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:68:13-90
+activity#se.sensiblethings.app.chitchato.activities.LanguageActivity
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:71:9-73:72
+	android:theme
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:73:13-60
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:72:13-87
+activity#se.sensiblethings.app.chitchato.activities.PrivateActivity
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:74:9-77:76
+	android:windowSoftInputMode
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:77:13-64
+	android:theme
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:76:13-60
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:75:13-86
+activity#se.sensiblethings.app.chitchato.activities.SearchGroupActivity
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:78:9-81:76
+	android:windowSoftInputMode
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:81:13-64
+	android:theme
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:80:13-60
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:79:13-90
+activity#se.sensiblethings.app.chitchato.activities.SearchResultsActivity
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:82:9-85:76
+	android:windowSoftInputMode
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:85:13-64
+	android:theme
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:84:13-60
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:83:13-92
+activity#se.sensiblethings.app.chitchato.activities.PurgeActivity
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:86:9-89:76
+	android:windowSoftInputMode
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:89:13-64
+	android:theme
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:88:13-60
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:87:13-84
+activity#se.sensiblethings.app.chitchato.activities.ErrorActivity
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:90:9-93:76
+	android:windowSoftInputMode
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:93:13-64
+	android:theme
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:92:13-60
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:91:13-84
+activity#se.sensiblethings.app.chitchato.activities.RegisterActivity
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:94:9-97:76
+	android:windowSoftInputMode
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:97:13-64
+	android:theme
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:96:13-60
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:95:13-87
+activity#se.sensiblethings.app.chitchato.activities.MainActivity
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:98:9-101:76
+	android:windowSoftInputMode
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:101:13-64
+	android:theme
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:100:13-60
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:99:13-83
+activity#se.sensiblethings.app.chitchato.activities.ChoicesActivity
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:102:9-104:72
+	android:theme
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:104:13-60
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:103:13-86
+activity#se.sensiblethings.app.chitchato.activities.M2MActivity
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:105:9-107:72
+	android:theme
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:107:13-60
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:106:13-82
+activity#se.sensiblethings.app.chitchato.activities.GlobalBootStrapsActivity
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:109:9-111:72
+	android:theme
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:111:13-60
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:110:13-95
+activity#se.sensiblethings.app.chitchato.activities.AdvertiseLocalGroupActivity
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:112:9-114:72
+	android:theme
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:114:13-60
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:113:13-98
+activity#se.sensiblethings.app.chitchato.activities.RemoveGroupsActivity
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:116:9-118:72
+	android:theme
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:118:13-60
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:117:13-91
+activity#se.sensiblethings.app.chitchato.activities.InitializeLocalBTSRPActivity
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:119:9-121:72
+	android:theme
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:121:13-60
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:120:13-99
+activity#se.sensiblethings.app.chitchato.activities.EditProfileActivity
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:122:9-125:76
+	android:windowSoftInputMode
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:125:13-64
+	android:theme
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:124:13-60
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:123:13-90
+activity#se.sensiblethings.app.chitchato.activities.BusyActivity
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:126:9-130:25
+	android:theme
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:128:13-56
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:127:13-83
+activity#se.sensiblethings.app.chitchato.activities.SensorReadingsActivity
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:131:9-133:72
+	android:theme
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:133:13-60
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:132:13-93
+activity#se.sensiblethings.app.chitchato.activities.MoreActivity
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:134:9-136:72
+	android:theme
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:136:13-60
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:135:13-83
+activity#se.sensiblethings.app.chitchato.activities.AddBootStrapActivity
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:137:9-140:76
+	android:windowSoftInputMode
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:140:13-64
+	android:theme
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:139:13-60
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:138:13-91
+activity#se.sensiblethings.app.chitchato.activities.AddDevicesActivity
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:141:9-144:76
+	android:windowSoftInputMode
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:144:13-64
+	android:theme
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:143:13-60
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:142:13-89
+activity#se.sensiblethings.app.chitchato.activities.TipsActivity
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:145:9-147:72
+	android:theme
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:147:13-60
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:146:13-83
+activity#se.sensiblethings.app.chitchato.activities.DebugActivity
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:149:9-152:76
+	android:windowSoftInputMode
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:152:13-64
+	android:theme
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:151:13-60
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:150:13-84
+activity#se.sensiblethings.app.chitchato.activities.GroupContainerActivity
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:154:9-157:76
+	android:windowSoftInputMode
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:157:13-64
+	android:theme
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:156:13-60
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:155:13-93
+activity#se.sensiblethings.app.chitchato.extras.MessageNotification
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:159:9-162:76
+	android:windowSoftInputMode
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:162:13-64
+	android:theme
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:161:13-60
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:160:13-86
+activity#se.sensiblethings.app.chitchato.contactslist.ui.ContactsListActivity
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:164:9-173:20
+	android:windowSoftInputMode
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:166:13-55
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:165:13-96
+intent-filter#android.intent.action.SEARCH
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:167:13-169:29
+action#android.intent.action.SEARCH
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:168:17-71
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:168:25-68
+meta-data#android.app.searchable
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:170:13-172:63
+	android:resource
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:172:17-60
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:171:17-54
+activity#se.sensiblethings.app.chitchato.contactslist.ui.ContactDetailActivity
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:175:9-181:20
+	android:parentActivityName
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:177:13-110
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:176:13-97
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:178:13-180:104
+	android:value
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:180:17-101
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:179:17-63
+service#se.sensiblethings.app.chitchato.chitchato_services.PlatformManagerNode
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:183:9-186:59
+	android:label
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:186:13-48
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:184:13-98
+service#se.sensiblethings.app.chitchato.chitchato_services.PlatformManagerBootstrap
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:188:9-190:62
+	android:label
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:190:13-51
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:189:13-103
+service#se.sensiblethings.app.chitchato.chitchato_services.FetchAddressIntentService
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:191:9-193:48
+	android:exported
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:193:13-37
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:192:13-104
+receiver#se.sensiblethings.app.chitchato.chitchato_services.MyScheduleReceiver
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:195:9-202:20
+	android:enabled
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:197:13-35
+	android:exported
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:198:13-36
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:196:13-97
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:199:13-201:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:200:17-79
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:200:25-76
+receiver#se.sensiblethings.app.chitchato.chitchato_services.MyStartServiceReceiver
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:203:9-211:20
+	android:enabled
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:205:13-35
+	android:exported
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:206:13-36
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:204:13-101
+receiver#se.sensiblethings.app.chitchato.extras.WidgetProvider
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:212:9-220:20
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:212:19-87
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:213:13-215:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:214:17-84
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:214:25-81
+meta-data#android.appwidget.provider
+ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:217:13-219:51
+	android:resource
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:219:17-48
+	android:name
+		ADDED from D:\A d d i s\Contexter\app\src\main\AndroidManifest.xml:218:17-58

@@ -1,0 +1,135 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black_overlay"
+    android:gravity="center_vertical|center"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="0.8"
+        android:background="@color/chitchato_limon"
+        android:orientation="horizontal"
+        android:paddingBottom="2dp"
+        android:paddingLeft="0dp"
+        android:paddingRight="0dp"
+        android:paddingTop="10dp" >
+
+        <TextView
+            android:id="@+id/tv_empty_bar_profile_pic"
+            android:layout_width="fill_parent"
+            android:layout_height="40dip"
+            android:background="@color/chitchato_yellow"
+            android:gravity="center"
+            android:text="Picture Gallery"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/chitchato_blue" >
+        </TextView>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center"
+        android:layout_weight="0.2"
+        android:background="@color/chitchato_limon"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingBottom="2dp"
+        android:paddingTop="2dp"
+        tools:context=".MainActivity" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center"
+            android:layout_weight="0.2"
+            android:background="@color/chitchato_limon"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:paddingBottom="2dp"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:paddingTop="2dp"
+            tools:context=".MainActivity" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_gravity="center"
+                android:background="@color/chitchato_limon"
+                android:gravity="center"
+                android:orientation="vertical"
+                android:paddingBottom="10dp"
+                android:paddingRight="0dp"
+                android:paddingTop="10dp"
+                android:scrollbarAlwaysDrawVerticalTrack="true"
+                android:scrollbarStyle="outsideOverlay"
+                android:scrollbars="vertical|horizontal"
+                android:showDividers="none|beginning|middle|end" >
+
+                <ImageView
+                    android:id="@+id/img_view_gallery"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="0.75" />
+
+                <GridView
+                    android:id="@+id/gridView1_profile_pic"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_gravity="center|left"
+                    android:layout_weight="0.25"
+                    android:drawSelectorOnTop="false"
+                    android:gravity="center"
+                    android:listSelector="@color/chitchato_yellow"
+                    android:numColumns="2"
+                    android:paddingLeft="30dp"
+                    android:paddingRight="3dp"
+                    android:scrollbarAlwaysDrawVerticalTrack="true"
+                    android:scrollbarStyle="insideOverlay"
+                    android:textAlignment="center" >
+                </GridView>
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.9"
+            android:background="@color/chitchato_yellow"
+            android:orientation="horizontal"
+            android:paddingBottom="2dp"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:paddingTop="2dp"
+            tools:context=".MainActivity" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.65"
+                android:background="@color/chitchato_yellow"
+                android:gravity="right"
+                android:orientation="horizontal"
+                android:paddingLeft="1dp"
+                tools:context=".MainActivity" >
+
+                <Button
+                    android:id="@+id/btn_Add_image_gallery"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:paddingLeft="3dp"
+                    android:shadowColor="@color/red"
+                    android:text="Done"
+                    android:textColor="@color/chitchato_blue"
+                    android:textSize="14sp" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

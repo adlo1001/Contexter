@@ -1,0 +1,906 @@
+[
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bootstrapper.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\bootstrapper.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circlebtn_limon.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\circlebtn_limon.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo_cyan.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\logo_cyan.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\profile_image_android.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\profile_image_android.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_custom_extra_one_clear.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\button_custom_extra_one_clear.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rectangletv_4_normal.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\rectangletv_4_normal.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher_white.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher_white.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\run.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\run.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\thermo_stage_one.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\thermo_stage_one.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rectangletv_1.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\rectangletv_1.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_support.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\ic_support.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\run_stage_zero_.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\run_stage_zero_.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\run.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\run.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\run_stage_zero.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\run_stage_zero.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_custom_circle_lime.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\button_custom_circle_lime.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_custom_transparent_edge.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\button_custom_transparent_edge.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_custom_inner_circle.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\button_custom_inner_circle.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rectangletv_1_3dp.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\rectangletv_1_3dp.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_hide.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\ic_action_hide.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\blue_black_bootstrapper.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\blue_black_bootstrapper.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rectangletv_2_green.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\rectangletv_2_green.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circlebtn_backgrd_color_cust.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\circlebtn_backgrd_color_cust.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spinner_progress_one.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\spinner_progress_one.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_attachment.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\ic_attachment.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\triangletv_1.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\triangletv_1.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circlebtn_limon_with_border_large_screen.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\circlebtn_limon_with_border_large_screen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_message_calls.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\ic_message_calls.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\location_stage_zero.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\location_stage_zero.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_small_notification.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\ic_action_small_notification.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_restore.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\ic_restore.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_add_image.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\ic_action_add_image.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loud_stage_zero_.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\loud_stage_zero_.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circlebtn_backgrd_clor.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\circlebtn_backgrd_clor.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher_skinless.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher_skinless.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_custom_circle_cust_two.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\button_custom_circle_cust_two.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rectangletv_3.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\rectangletv_3.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_attachment.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\ic_attachment.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rectangletv_6_small.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\rectangletv_6_small.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rectangletv_4_reverse_180.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\rectangletv_4_reverse_180.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_extras.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\ic_extras.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rectangletv_8.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\rectangletv_8.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circlebtn_limon_with_border_large_screen.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\circlebtn_limon_with_border_large_screen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\run_stage_two.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\run_stage_two.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_custom_inner_circle.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\button_custom_inner_circle.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo_blue.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\logo_blue.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher_yellow.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher_yellow.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher_____.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher_____.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circlebtn_yellow_without_border.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\circlebtn_yellow_without_border.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_add_uci.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\ic_add_uci.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\profile_image_big.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\profile_image_big.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circlebtn_limon_with_border.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\circlebtn_limon_with_border.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rectangletv_6.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\rectangletv_6.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rectangletv_2_green.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\rectangletv_2_green.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circlebtn_red.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\circlebtn_red.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rectangletv_5.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\rectangletv_5.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\thermo_stage_zero_.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\thermo_stage_zero_.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circlebtn_yellow.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\circlebtn_yellow.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loud_stage_zero_.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\loud_stage_zero_.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rectangletv_4.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\rectangletv_4.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_custom_circle_cust_three.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\button_custom_circle_cust_three.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo_cyan_2.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\logo_cyan_2.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\run_stage_zero.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\run_stage_zero.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\check_box.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\check_box.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\thermo_stage_zero_.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\thermo_stage_zero_.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\profile_image_android.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\profile_image_android.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rectangletv_4_normal_yellow.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\rectangletv_4_normal_yellow.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\thermo_stage_zero.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\thermo_stage_zero.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_custom_circle_cust.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\button_custom_circle_cust.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\test_rotate.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\test_rotate.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_privacy.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\ic_action_privacy.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\location_stage_zero_.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\location_stage_zero_.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\thermo.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\thermo.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_focused.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\button_focused.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bootstrapper.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\bootstrapper.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\test_rotate.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\test_rotate.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\run_stage_zone.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\run_stage_zone.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rectangletv_4_normal.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\rectangletv_4_normal.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rectangletv_3.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\rectangletv_3.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_custom.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\button_custom.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circlebtn_limon_with_out_border.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\circlebtn_limon_with_out_border.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circlebtn_backgrd_color_.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\circlebtn_backgrd_color_.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tip.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\ic_tip.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spinner_progress_one.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\spinner_progress_one.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_small_notification.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\ic_action_small_notification.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_terms_one.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\ic_terms_one.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_focused.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\button_focused.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rectangletv_4_normal_yellow.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\rectangletv_4_normal_yellow.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_hide.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\ic_action_hide.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\profile_image.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\profile_image.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circlebtn_backgrd_color_cust.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\circlebtn_backgrd_color_cust.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rectangletv_6_small.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\rectangletv_6_small.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_policy.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\ic_policy.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circlebtn_blue_2.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\circlebtn_blue_2.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_add_uci.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\ic_add_uci.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loud_stage_two.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\loud_stage_two.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rectangletv_5.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\rectangletv_5.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_add_bootstrap_.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\ic_add_bootstrap_.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rectangletv_4_reverse_180_green.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\rectangletv_4_reverse_180_green.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_restore.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\ic_restore.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circlebtn_backgrd_clor.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\circlebtn_backgrd_clor.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loud_stage_two.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\loud_stage_two.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_peers.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\ic_peers.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\location.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\location.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_extras.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\ic_extras.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_copyrights.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\ic_copyrights.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circlebtn_limon.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\circlebtn_limon.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_custom_transparent_edge.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\button_custom_transparent_edge.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_terms_one.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\ic_terms_one.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rectangletv_4_reverse_180.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\rectangletv_4_reverse_180.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circlebtn_blue.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\circlebtn_blue.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\run_stage_one.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\run_stage_one.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\profile_image_big.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\profile_image_big.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher_____.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher_____.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loud.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\loud.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circlebtn_yellow_red_border.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\circlebtn_yellow_red_border.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_message_calls.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\ic_message_calls.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\location_stage_one.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\location_stage_one.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rectangletv_9.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\rectangletv_9.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loud.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\loud.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circlebtn_limon_with_border.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\circlebtn_limon_with_border.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\run_stage_zero_.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\run_stage_zero_.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_policy.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\ic_policy.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_custom_small.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\button_custom_small.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\triangletv_1.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\triangletv_1.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_pressed.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\button_pressed.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\run_stage_zone.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\run_stage_zone.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loud_stage_zero.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\loud_stage_zero.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_files.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\ic_files.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_custom_circle.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\button_custom_circle.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circlebtn.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\circlebtn.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rectangletv_9.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\rectangletv_9.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_pressed.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\button_pressed.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circlebtn_red_with_border.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\circlebtn_red_with_border.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_peers.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\ic_peers.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rectangletv_4_normal_transparent.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\rectangletv_4_normal_transparent.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tip.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\ic_tip.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\location_stage_one.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\location_stage_one.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher_skinless.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher_skinless.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rectangletv_2.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\rectangletv_2.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loud_stage_one.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\loud_stage_one.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher_white.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher_white.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\profile_image.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\profile_image.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rectangletv_4.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\rectangletv_4.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_bycredit.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\ic_bycredit.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\run_stage_one.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\run_stage_one.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_groups.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\ic_groups.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\location_stage_zero_.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\location_stage_zero_.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_notification.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\ic_notification.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\image_message_default.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\image_message_default.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_custom_extra_one.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\button_custom_extra_one.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_custom_extra_one_clear.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\button_custom_extra_one_clear.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_add_device.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\ic_add_device.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_custom_circle_cust_two.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\button_custom_circle_cust_two.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo_cyan.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\logo_cyan.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_custom.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\button_custom.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loud_stage_one.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\loud_stage_one.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo_cyan_2.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\logo_cyan_2.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\run_stage_two.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\run_stage_two.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_custom_small.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\button_custom_small.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\m2m_devices.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\m2m_devices.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rectangletv_1_3dp.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\rectangletv_1_3dp.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\location_stage_two.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\location_stage_two.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circlebtn.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\circlebtn.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\image_message_default.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\image_message_default.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\m2m_devices.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\m2m_devices.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circlebtn_yellow_without_border.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\circlebtn_yellow_without_border.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\location_stage_two.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\location_stage_two.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rectangletv_7.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\rectangletv_7.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\thermo_stage_two.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\thermo_stage_two.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_add_bootstrap_.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\ic_add_bootstrap_.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\location_stage_zero.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\location_stage_zero.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_custom_circle.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\button_custom_circle.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_notification.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\ic_notification.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_name.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\trianglebtn.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\trianglebtn.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_custom_lime.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\button_custom_lime.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circlebtn_red.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\circlebtn_red.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_bycredit.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\ic_bycredit.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circlebtn_blue.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\circlebtn_blue.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_custom_lime.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\button_custom_lime.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_custom_extra_two.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\button_custom_extra_two.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circlebtn_red_with_border.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\circlebtn_red_with_border.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\thermo_stage_two.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\thermo_stage_two.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\thermo.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\thermo.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_addbootstrap.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\ic_addbootstrap.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circlebtn_blue_2.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\circlebtn_blue_2.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\trianglebtn.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\trianglebtn.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\location.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\location.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rectangletv_6.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\rectangletv_6.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rectangletv_4_reverse_180_green.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\rectangletv_4_reverse_180_green.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rectangletv_4_normal_transparent.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\rectangletv_4_normal_transparent.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\check_box.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\check_box.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\thermo_stage_one.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\thermo_stage_one.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\thermo_stage_zero.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\thermo_stage_zero.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_name.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rectangletv_7.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\rectangletv_7.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher_yellow.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher_yellow.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_addbootstrap.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\ic_addbootstrap.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rectangletv_1.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\rectangletv_1.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circlebtn_yellow_red_border.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\circlebtn_yellow_red_border.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo_blue.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\logo_blue.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_add_device.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\ic_add_device.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\blue_black_bootstrapper.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\blue_black_bootstrapper.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circlebtn_limon_with_out_border.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\circlebtn_limon_with_out_border.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_custom_extra_one.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\button_custom_extra_one.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_copyrights.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\ic_copyrights.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_add_image.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\ic_action_add_image.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loud_stage_zero.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\loud_stage_zero.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_custom_circle_cust.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\button_custom_circle_cust.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_custom_circle_cust_three.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\button_custom_circle_cust_three.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rectangletv_8.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\rectangletv_8.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_support.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\ic_support.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_privacy.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\ic_action_privacy.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_groups.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\ic_groups.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_custom_extra_two.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\button_custom_extra_two.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_show.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\ic_action_show.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rectangletv_2.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\rectangletv_2.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_custom_circle_lime.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\button_custom_circle_lime.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circlebtn_yellow.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\circlebtn_yellow.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_show.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\ic_action_show.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\custom_spinner.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\custom_spinner.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circlebtn_backgrd_color_.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\circlebtn_backgrd_color_.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_files.png",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\drawable-hdpi\\ic_files.png"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\custom_spinner.png",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\drawable-hdpi\\custom_spinner.png"
+    }
+]

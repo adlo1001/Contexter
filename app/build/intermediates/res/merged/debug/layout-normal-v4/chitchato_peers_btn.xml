@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingRight="0dp" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:orientation="vertical"
+        android:paddingRight="2dp"
+        android:paddingTop="0dp" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.65"
+            android:gravity="left"
+            android:orientation="horizontal"
+            android:paddingRight="2dp"
+            android:paddingTop="0dp" >
+
+            
+
+            <TextView
+                android:id="@+id/favorite_group_btn_prs"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_gravity="center"
+                android:background="@drawable/circlebtn_yellow"
+                android:enabled="true"
+                android:gravity="center"
+                android:text="none"
+                android:clickable="true"
+                android:textColor="@color/chitchato_blue"
+                 />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.65"
+            android:gravity="left"          
+            android:paddingTop="0dp" >
+
+            <TextView
+                android:id="@+id/tv_chat_screen_sub_item_prs"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="subitem"
+                android:textColor="@color/oregon"
+                android:textSize="12dp"
+ />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

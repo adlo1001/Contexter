@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotate_image.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\anim\\rotate_image.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\stop_animation.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\anim\\stop_animation.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_tv_to_right_side_two.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\anim\\move_tv_to_right_side_two.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_tv_to_top_one_sec.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\anim\\move_tv_to_top_one_sec.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_tv_to_right_side_two.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\anim\\move_tv_to_right_side_two.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotate_image.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\anim\\rotate_image.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_tv_to_right_side.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\anim\\move_tv_to_right_side.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_tv_to_left_side_two.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\anim\\move_tv_to_left_side_two.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\anim\\stop_animation.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\anim\\stop_animation.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_tv_to_left_side_two.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\anim\\move_tv_to_left_side_two.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\anim\\show_the_latest_messages_lv.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\anim\\show_the_latest_messages_lv.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_tv_to_top_one_sec.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\anim\\move_tv_to_top_one_sec.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\show_the_latest_messages_lv.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\anim\\show_the_latest_messages_lv.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_tv_to_top.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\anim\\move_tv_to_top.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_tv_to_right_side.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\anim\\move_tv_to_right_side.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_tv_to_top.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\anim\\move_tv_to_top.xml"
+    }
+]

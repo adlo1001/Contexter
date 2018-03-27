@@ -1,0 +1,304 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/cust_color_1"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/ll_welcomescreen"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@color/cust_color_1"
+        android:orientation="vertical"
+        android:paddingBottom="0dp"
+        android:paddingTop="0dp"
+        tools:context=".MainActivity" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.1"
+            android:background="@color/chitchato_limon"
+            android:orientation="vertical"
+            android:paddingBottom="0dp"
+            android:paddingTop="0dp" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.35"
+                android:background="@color/cust_color_1"
+                android:gravity="left"
+                android:orientation="vertical"
+                android:paddingBottom="0dp"
+                android:paddingRight="0dp"
+                android:paddingTop="0dp"
+                android:scrollbarAlwaysDrawVerticalTrack="true"
+                android:scrollbarStyle="outsideOverlay"
+                android:scrollbars="vertical|horizontal"
+                android:showDividers="none|beginning|middle|end" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:background="@color/chitchato_limon"
+                    android:orientation="vertical"
+                    android:paddingBottom="0dp"
+                    android:paddingLeft="0dp"
+                    android:paddingRight="0dp"
+                    android:paddingTop="0dp" >
+
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="0.8"
+                        android:background="@color/cust_color_1"
+                        android:orientation="horizontal"
+                        android:paddingBottom="0dp"
+                        android:paddingLeft="15dp"
+                        android:paddingRight="15dp"
+                        android:paddingTop="0dp" >
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="0.75"
+                        android:background="@color/chitchato_yellow"
+                        android:orientation="horizontal"
+                        android:paddingBottom="0dp"
+                        android:paddingLeft="15dp"
+                        android:paddingRight="15dp"
+                        android:paddingTop="0dp" >
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="0.8"
+                        android:background="@color/chitchato_limon"
+                        android:orientation="horizontal"
+                        android:paddingBottom="0dp"
+                        android:paddingLeft="15dp"
+                        android:paddingRight="15dp"
+                        android:paddingTop="0dp" >
+                    </LinearLayout>
+
+                    
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="0.8"
+                        android:background="@color/cust_color_1"
+                        android:orientation="horizontal"
+                        android:paddingBottom="0dp"
+                        android:paddingLeft="15dp"
+                        android:paddingRight="15dp"
+                        android:paddingTop="0dp" >
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="0.8"
+                                   android:background="@color/cust_color_1"
+                        android:orientation="horizontal"
+                        android:paddingBottom="0dp"
+                        android:paddingLeft="15dp"
+                        android:paddingRight="15dp"
+                        android:paddingTop="0dp" >
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="0.7"
+                        android:background="@color/chitchato_limon"
+                        android:orientation="horizontal"
+                        android:paddingBottom="0dp"
+                        android:paddingLeft="15dp"
+                        android:paddingRight="15dp"
+                        android:paddingTop="0dp" >
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ll_copy_right_welcome"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.55"
+                android:background="@color/white_overlay"
+                android:orientation="horizontal"
+                android:paddingBottom="0dp"
+                android:paddingLeft="15dp"
+                android:paddingRight="15dp"
+                android:paddingTop="0dp">
+
+                <TextView
+                    android:id="@+id/tv_welcomescreen_copyright"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.2"
+                    android:visibility="invisible"
+                    android:gravity="center|bottom"
+                    android:text="   © 2017 12Stars Studio. All Rights Reserved"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+
+                    android:textColor="@color/chitchato_mebratu_blue" />
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ll_terms_policies_welcome"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_gravity="center"
+                android:layout_weight="0.55"
+                android:background="@color/white_overlay"
+                android:gravity="center"
+                android:orientation="vertical"
+                android:paddingBottom="0dp"
+                android:paddingLeft="15dp"
+                android:paddingRight="15dp"
+                android:paddingTop="0dp">
+
+                <TextView
+                    android:id="@+id/tv_welcomescreen_terms_policies_1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.2"
+                    android:visibility="invisible"
+                    android:gravity="right|top"
+                    android:text="By selecting Next you agree to our "
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="@color/chitchato_mebratu_blue" />
+
+                <TextView
+                    android:id="@+id/tv_welcomescreen_terms_policies_2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.2"
+                    android:clickable="true"
+                    android:visibility="invisible"
+                    android:gravity="left|top"
+                    android:text="Terms and Policies"
+                    android:textColor="@color/chitchato_mebratu_cyan"
+                    android:textSize="14dp" />
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.350"
+                android:background="@color/cust_color_1"
+                android:gravity="right"
+                android:orientation="vertical"
+                android:paddingBottom="0dp"
+                android:paddingRight="2dp"
+                android:paddingTop="0dp" >
+
+                <ImageView
+                    android:id="@+id/imageView2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="bottom|center"
+                    android:adjustViewBounds="true"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/ic_launcher_front_page"  />
+
+                <TextView
+                    android:id="@+id/tv_welcomescreen"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.2"
+                    android:layout_gravity="bottom"
+                    android:gravity="center|bottom"
+                    android:text="Welcome to Contexter"
+                    android:textColor="@color/chitchato_mebratu_blue"
+                    android:textSize="25sp" />
+
+                <TextView
+                    android:id="@+id/tv_welcomescreen_2"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.2"
+                    android:gravity="center|top"
+                    android:text="Simple - IoT - P2P - Free"
+                    android:textColor="@color/chitchato_mebratu_blue"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+
+                <RadioGroup
+                    android:id="@+id/radioGroup1"
+                    android:layout_width="2000dp"
+                    android:layout_height="fill_parent"
+                    android:layout_gravity="center"
+                    android:background="@drawable/rectangletv_1"
+                    android:layout_weight="0.2"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    android:paddingTop
+                        ="5dip"
+                    android:paddingLeft="60dp"
+                    android:paddingRight="60dp"
+                    >
+
+                    <RadioButton
+                        android:id="@+id/radio0_ordinary_chat_mode"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:checked="true"
+                        android:paddingRight="50dip"
+                        android:text="Texting"
+                        android:textColor="@color/chitchato_mebratu_blue"
+                        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+                    <RadioButton
+                        android:id="@+id/radio1_context_chat_mode"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="ConTexting"
+                        android:textColor="@color/chitchato_mebratu_blue"
+                        android:textAppearance="?android:attr/textAppearanceSmall" />
+                </RadioGroup>
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.8"
+            android:background="@color/chitchato_limon"
+            android:orientation="horizontal"
+            android:paddingBottom="0dp"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:paddingTop="0dp" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="right"
+                android:orientation="horizontal"
+                android:paddingLeft="1dp" >
+
+                <Button
+                    android:id="@+id/btn_welcome_"
+                    style="?android:attr/borderlessButtonStyle"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:background="@drawable/button_custom"
+                    android:text="Next"
+                    android:textColor="@color/white_overlay"
+                    android:textSize="30sp" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

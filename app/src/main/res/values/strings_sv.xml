@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- #########################Svenska ####################### -->
+    <string name="language_sv">Svenska</string>
+    <string name="action_chitchato_sv">Contexter</string>
+    <string name="action_search_sv">Sök</string>
+    <string name="action_create_sv">Skapa</string>
+    <string name="action_settings_sv">Inställningar</string>
+    <string name="action_register_sv">Registrera</string>
+    <string name="action_language_sv">Språk</string>
+    <string name="action_add_bootstrap_sv">Lägg Bootstrap</string>
+    <string name="action_bootstrap_sv">Bootstrap</string>
+    <string name="action_bootstrap_ip_sv">Bootstrap IP:</string>
+    <string name="action_sense_sv">Sense</string>
+    <string name="action_devices_sv">Anordningar för Att Kontrollera</string>
+    <string name="action_more_sv">Mer</string>
+    <string name="action_about_sv">Om</string>
+    <string name="action_help_sv">Hjälp</string>
+    <string name="get_online_sv">Online</string>
+    <string name="get_offline_sv">Offline</string>
+    <string name="lv_button_sv">Default</string>
+    <string name="done_sv">Upptagen</string>
+    <string name="exit_sv">utgång</string>
+    <string name="action_acceleration_sv">Motion</string>
+    <string name="action_limunosity_sv">Luminositet</string>
+    <string name="action_sound_sv">Ljud</string>
+    <string name="action_location_sv">Plats</string>
+    <string name="control_sv">\n M 2 M \nKontrollera</string>
+    <string name="hint_enter_txt_sv">ange text här</string>
+    <string name="hint_enter_group_name_sv">Gruppnamn</string>
+    <string name="hint_enter_group_nickname_sv">Smeknamn</string>
+    <string name="hint_enter_group_interest_sv">Intressera</string>
+    <string name="hint_enter_group_age_limit_sv">åldersgräns</string>
+    <string name="hint_enter_group_leader_sv">Gruppledare</string>
+    <string name="hint_enter_group_password_sv">Lösenord</string>
+    <string name="hint_enter_group_vicinity_sv">Närhetr</string>
+    <string name="create_group_sv">Skapa grupper</string>
+    <string name="search_group_sv">Sök Grupper</string>
+    <string name="enter_profile_pic_sv">Ange profilbild</string>
+    <string name="private_chat_sv"> Privatt</string>
+    <string name="tap_here_to_add_image_sv">Tryck här för att lägga till en bild</string>
+    <string name="action_adv_group_sv">Annonsera Grupper</string>
+    <string name="social_sv">Sociala</string>
+
+
+    <string name="action_sensor_sv">Sensorer</string>
+    <string name="action_debug_sv">Debug</string>
+    <string name="action_advanced_sv">Purge</string>
+
+    <style name="action_bootstrap_ip_sv">Bootstrap IP</style>
+
+
+    <string name="invalid_lat_long_used_sv">Ogiltig Plats</string>
+    <string name="no_address_found_sv">Vi hittade ingen adress</string>
+    <string name="address_found_sv">Adress Hittades</string>
+
+    <!-- Notification Messages -->
+    <string name="notification_one_sv">måste du registrera först </string>
+    <string name="notification_two_sv">Kontrollera anslutning. </string>
+    <string name="notification_three_sv">Sök och Import Grupper först! Inga grupper i Favoritgrupper listan. </string>
+    <string name="notification_four_sv">Fel uppstod när Registrera. Försök med olika gruppnamn ! </string>
+    <string name="notification_five_sv">Framgång! Grupp skapad.</string>
+    <string name="notification_six_sv">gruppen inte skapade.</string>
+    <string name="notification_seven_sv">Registrering är inte framgångsrik.</string>
+
+
+    <!-- Help Container Messages Swedish -->
+    <string-array name="help_container_sv">
+        <item name="tip_sv">Tips</item>
+        <item name="support_sv">Stöd</item>
+        <item name="terms_sv">Villkor</item>
+        <item name="policy_sv">Policy</item>
+        <item name="copyright_sv">Copyright</item>
+        <item name="social_sv">Sociala</item>
+    </string-array>
+
+    <!-- Dialog Messages Swedish -->
+    <string name="busy_sv">busy</string>
+    <string name="opening_chat_msgs_sv">Öppningschattmeddelanden</string> <!-- Other Messages Swedish -->
+    <string name="busy__sv">Upptagen</string>
+    <string name="opening_chat_msgs__sv">Öppningschattmeddelanden</string> <!-- Interfaces_sv -->
+    <string name="Welcome_tv_sv">Välkommen till Contexter</string>
+    <string name="ordinary_chat_text_sv"> Texting</string>
+    <string name="context_chat_text_sv"> conTexting</string>
+    <string name="send_btn_sv">Nästa</string>
+    <string name="menu_tv_en">Meny</string>
+
+    <string-array name="languages_sv">
+        <item>English</item>
+        <item>Svenska</item>
+        <item>Spanish</item>
+        <item>Portugese</item>
+        <item>French</item>
+        <item>አማርኛ</item>
+    </string-array>
+    <string-array name="settings_sv">
+        <item>Köp kredit</item>
+        <item>Lägg Bootstrap</item>
+        <item>Lägg UCI</item>
+        <item>Lägg Anordning</item>
+        <item>Privatliv</item>
+        <item>Aviseringar</item>
+        <item>Meddelanden</item>
+        <item>Bootstrapper </item>
+        <item>Grupper</item>
+        <item>Återgå till grundinställningarna</item>
+    </string-array>
+    <string-array name="menu_array_sv">
+        <item>Context  </item>
+        <item>Grupp</item>
+        <item>UCI</item>
+        <item>Sök</item>
+        <item>Språk</item>
+        <item>Hjälp</item>
+        <item>om</item>
+        <item>Avsluta</item>
+        >
+    </string-array>
+
+    <!-- Choices -->
+    <string name="Menu_tv_sv">Meny</string> <!-- Main -->
+
+    <string name="send_btn_sv_">Skicka</string>
+    <string name="hint_tv_sv_">Ange Text här</string>
+    <!-- Private -->
+    <string name="pr_chat_tv_sv">Privat</string>
+    <!-- Create -->
+    <string name="create_tv_group_name_sv">Gruppnamn</string>
+    <string name="create_tv_group_interest_sv">Grupper intresse</string>
+    <string name="create_tv_age_limit_sv">Grupp åldersgräns</string>
+    <string name="create_tv_team_leader_sv">Gruppledare</string>
+
+    <!-- Register -->
+    <string name="register_nick_name_sv">Smeknamn</string>
+    <string name="register_tv_name_sv">Namn</string>
+    <string name="register_tv_age_sv">ålder</string>
+
+    <!-- Search Group -->
+    <string name="search_tv_group_name_sv">Gruppnamn</string>
+    <string name="search_tv_group_interest_sv">Grupper intresse</string>
+    <string name="search_tv_age_limit_sv">Grupp åldersgräns</string>
+    <string name="search_tv_team_leader_sv">Gruppledare</string>
+
+    <!-- Search Results -->
+    <string name="search_results_tv_sv">Sökresultat</string>
+    <string name="add_to_favorite_groups_sv">Lägg till favoritgrupper</string>
+
+    <!-- Language -->
+    <!-- Error -->
+    <string name="error_sv">Fel</string>
+    <!-- Help -->
+    <string name="help_tv_sv">Hjälp</string>
+    <!-- About -->
+
+
+    <!-- My Profile -->
+    <string name="refresh_sv">Uppdaterings</string>
+    <string name="update_sv"> Uppdatera</string>
+    <string name="name_sv"> Namn</string>
+    <string name="nick_sv"> Smeknamn</string>
+    <string name="sex_sv"> Sex</string>
+    <string name="age_sv"> ålder</string>
+    <string name="portfolio_sv"> Portfolio</string>
+    <string name="my_profile_sv">Profil</string>
+    <string name="picture_gallery_sv">Bildgalleri</string>
+
+    <!-- Purge -->
+    <string name="purge_tv_sv"> Ta bort filer  </string>
+    <string name="purge_tv_1_sv"> Ta bort alla filer från Context </string>
+    <string name="purge_tv_2_sv">Ta bort Filer och relaterad information</string>
+    <string name="purge_tv_3_sv">Ta bort alla filer</string>
+    <string name="purge_tv_4_sv">Rensa alla användarfiler från Context</string>
+
+    <!-- Delete Groups -->
+    <string name="delete_groups_sv"> Radera Grupper Från Context</string>
+    <string name="remove_sv">Ta Bort Filer Från Contexter</string>
+    <string name="delete_sv">Radera</string>
+    <string name="help_text_1_sv"> Vad är Kontext?\n</string>
+    <string name="help_text_2_sv"> Vad är skillnaden mellan de två lägena ? \n</string>
+    <string name="help_text_3_sv"> Hur man skapar en grupp? \n</string>
+    <string name="help_text_4_sv"> Gå med i en grupp \n</string>
+    <string name="help_text_5_sv"> Hur man vara anonym och hålla ditt privatliv?\n</string>
+    <string name="help_text_1_1_sv"> Kontext är någon information om den omedelbara miljö i vilken ett föremål befinner sig. Om ett objekt på något sätt får någon användbar information om sin närmiljö och kan ge den informationen för längre databehandling då objekt sägs vara kontext medveten.                      Ett system är kontextmedveten om den använder kontext för att ge relevant information och / eller tjänster för användaren, där relevans beror på användarens \'s uppgift. "Därför, kontextmedvetna program är ett program som tillhandahåller tjänster till användare baserat på nuvarande ramen för datorenhet och omgivande miljöer.</string>
+    <string name="help_text_2_1_sv"> Textning är bara Texting. Andra kamrater cant läsa andra kontextinformation . Till skillnad från textning, conTexting tillåter andra vänner till          läsa data från sensorer och andra källor om dig.</string>
+    <string name="help_text_3_1_sv">Skapa en grupp av dina egna är lika enkelt som att registrera att befintlig grupp. Ange din information så att människor lätt kan hitta dig. \n</string>
+    <string name="help_text_4_1_sv">För att delta i en grupp bör du importera grupperna till enheten. Sök grupper och lägga till dem i din favoritlista . När du har importerat till enheten gå med i grupper. du kan gå så många grupper som du vill. \n</string>
+    <string name="help_text_5_1_sv">För att hålla din kontextuell information för dig själv, bör du använda Texting. \n</string>
+    <string name="help_text_sv"> I peer-to-peer-paradigm, Internet värdar som normalt skulle vara betraktas som "kunder" inte bara initiera sessioner to peer noder, men också acceptera sessioner startas av en annan noder. Initiativtagaren och svars kan ligga bakom olika NAT-enheter med varken endpoint har en permanent IP-adress eller annan form av offentlig nätverk närvaro. En vanlig spel arkitektur, till exempel, involverar alla deltagande programvärdar i kontakt med en offentligt adresser rendezvous server för att registrera sig och upptäcka peer-värdar. Efter det att kommunikationen med rendezvous server, värdarna upprätta direkta förbindelser med varandra andra för snabb och effektiv spridning av uppdateringar under spelets gång. På samma sätt kan en fildelning ansökan kontakta ett välkänt rendezvous server för resurs upptäckt eller söka, men etablera direkta förbindelser med kamrat värdar för dataöverföring.</string>
+    <string name="about_text_sv">\n
+       Contexter: "Contexter"
+Version 1.0.0 alpha sedan augusti 2015.
+Contexter Mobile är upphovsrätten .
+Alla motsvarande villkor och avtal de verktyg som används är tillgängliga på webbplatsen. \n
+För mer besök www.contexter.mobi.</string>
+
+    <string name="tips_text_sv">
+        Till att börja med:> \n
+        1. Lägg bootstrap eller starta som bootstrap \n
+        2. Sök Grupper på nätet \ n menyn \'Sök Grupper \' \n
+        3. Importera dina favoritgrupper . \n
+        4. Register UCI \n
+        5. Klart!. \n
+        6. Du är inne Contexter. \n
+   Hur det fungerar:
+För mer besök www.contexter.mobi
+    </string>
+
+    <!-- Other Strings-->
+    <string name="no_valid_working_bs_ip_sv">Ingen giltig eller arbetar Bootstrap IP</string>
+    <string name="string_dialog_one_0_sv"> Vill du avsluta detta?</string>
+    <string name="string_dialog_one_0_0_sv"> Ja </string>
+    <string name="string_dialog_one_0_1_sv"> Nej </string>
+    <string name="string_dialog_one_1_sv"> Försök med en annan Bootstrap! Problem att starta plattform</string>
+    <string name="string_dialog_one_3_sv"> Vi accepterar Bitcoins. Få konto gratis på CoinBase</string>
+    <string name="string_dialog_one_2_sv"> Reklam Grupp:</string>
+
+    <string name="string_dialog_one_4_0_sv"> Tryck på din favoritgrupp att gå allmänheten</string>
+    <string name="string_dialog_one_4_1_sv"> Tryck-Longt på ditt favoritgrupp att gå privat</string>
+
+
+    <string name="string_dialog_one_5_0_sv"> Tryck på din vän för Messaging </string>
+    <string name="string_dialog_one_5_1_sv"> Tryck-Longt på  din vän att göra samtal</string>
+
+    <string name="string_dialog_one_6_sv"> Vill du öppna Annonser? </string>
+    <string name="string_dialog_one_7_sv"> Denna version stöder inte röst. </string>
+    <string name="string_dialog_one_8_sv"> Lokal Contexting Möjligt. Du måste lägga till offentliga bootstraps. </string>
+    <string name="string_dialog_one_9_sv">     Radera meddelande?       </string>
+    <string name="string_dialog_one_10_sv">    Grupper hittades inte. Import eller skapa grupper. </string>
+    <string name="string_dialog_one_11_sv"> Vill du öppna Annonser?</string>
+    <string name="string_dialog_one_11_0_sv"> Nästa</string>
+    <string name="string_dialog_one_11_1_sv">Avboka</string>
+
+
+    <string name="string_main_one_0_sv">Något gick fel med privat läge! Du kan gå privat om du har vänner</string>
+    <string name="string_main_one_1_sv">Ogiltig flagga! Välj din grupp. </string>
+    <string name="string_main_one_2_sv">Ogiltig UCI! Meddelande inte levererats.</string>
+    <string name="string_main_one_3_sv">Något gick fel med plattformen. \n Försök skicka meddelandet igen</string>
+    <string name="string_main_one_4_sv">Contexter behöver anslutning. \n Meddelandet skickades inte \n Det går inte att nå plattformen</string>
+    <string name="string_main_one_5_sv">OBS: Meddelanden kommer att återvinnas efter</string>
+    <string name="string_main_one_6_sv">Bildstorleken är för stor. Det bör vara 1 MB max.</string>
+    <string name="string_main_one_7_sv">Lokala-contexting möjligt. \nLägg offentliga bootstraps att vidga din värld.</string>
+    <string name="string_main_one_8_sv">Mediasense är igång inte. \nFörsök annan bootstrap att inleda plattformen.</string>
+    <string name="string_main_one_8_1_sv">Mediasense är igång.</string>
+
+    <string name="string_main_one_9_sv"> # Tjänsten kopplas bort # </string>
+    <string name="string_main_one_10_sv">Grupper som inte importerats. Import Grupper</string>
+    <string name="string_main_one_11_sv">Gå med i gruppen. \n Skicka UCI Registrering</string>
+    <string name="string_main_one_12_sv">Något gick fel med privat läge! Du kan gå privat om du har vänner</string>
+    <string name="string_main_one_13_sv">Contexter behöver bootstrap. \nLägg bootstrap IP att inleda Medias.</string>
+    <string name="string_main_one_13_0_sv">~Welcome~ ! \n" "You may start sending messages!</string>
+
+    <string name="string_create_group_one_0_sv">Fel Stött - Det går inte att läsa grupp</string>
+    <string name="string_create_group_one_1_sv">Grattis! \nGroup skapats!</string>
+    <string name="string_create_group_one_2_sv">Gruppnamn Ogiltig!</string>
+    <string name="string_create_group_one_3_sv">Ogiltig Koncernen Ränte!</string>
+    <string name="string_create_group_one_4_sv">Åldersgräns Ogiltig!</string>
+    <string name="string_create_group_one_5_sv">Gruppledare Namn Ogiltig!</string>
+    <string name="string_create_group_one_6_sv">Ogiltig! Tillsätt [M F eller NA]</string>
+    <string name="string_create_group_one_7_sv">Grattis! \nGroup uppdaterats!</string>
+    <string name="string_create_group_one_8_sv">Grattis! \nGroup raderats !</string>
+    <string name="string_create_group_one_9_sv">Fel! profilbild Uppladdningen misslyckades</string>
+    <string name="string_create_group_one_10_sv">Lägg till gruppnamn </string>
+    <string name="string_create_group_two_0_sv">Oops ... Groups cant open.</string>
+
+
+    <string name="string_group_0_sv">Ny Grupp</string>
+    <string name="string_group_1_sv">Uppdatering Grupp</string>
+    <string name="string_group_2_sv">Ta bort grupp</string>
+    <string name="string_group_3_sv">Visa Grupper</string>
+
+
+    <string name="string_register_one_0_sv">Gå med förfrågan levereras.</string>
+    <string name="string_register_one_1_sv">Oj .. Ogiltig Nick! Använd ord</string>
+    <string name="string_register_one_2_sv">Oj .. Ogiltig Age!</string>
+    <string name="string_register_one_3_sv">Hoppsan! Något gick fel!</string>
+
+
+    <string name="string_search_one_0_sv">Ogiltig Sök nyckeln! Töm inte tillåtet.</string>
+    <string name="string_search_one_1_sv">Plattform inte startat. Försök med en annan Bootstrap!</string>
+    <string name="string_search_one_2_sv">Contexter behöver connection.\nPlatform inte börjat</string>
+
+
+    <string name="string_more_extra_0_sv">Tyst</string>
+    <string name="string_more_extra_1_sv">Inga Vibrationer</string>
+    <string name="string_more_extra_2_sv">Inga bakgrundsmönster</string>
+    <string name="string_more_extra_3_sv">Ingen Whisper</string>
+    <string name="string_more_extra_4_sv">Dont Meddela</string>
+    <string name="string_more_extra_5_sv">Har rabatt på olika poster</string>
+    <string name="string_more_bst_sv">1 Public Bootstrap. Tryck här för att se</string>
+    <string name="string_more_sv">Okänt Peer</string>
+    <string name="sensor_readings_sv">Sensorvärden</string>
+    <string name="contexter_readings_sv">Contexter Värden</string>
+
+    <string name="all_cleints_sv">Alla Klienter</string>
+    <string name="advanced_search_sv">Avancerad</string>
+    <string name="public_msg_sv">Public Meddelande</string>
+    <string name="private_msg_sv">Privat Meddelande</string>
+
+
+    <string name="string_group_container_0_sv">ny Grupp</string>
+    <string name="string_group_container_1_sv">Uppdatera </string>
+    <string name="string_group_container_2_sv">   Ta bort</string>
+    <string name="string_group_container_3_sv"> visa</string>
+    <string name="string_choices_one_0_sv"> Just a moment!  SensibleThings platform is starting.</string>
+    <string name="string_more_one_0_sv">Note: We accept BitCoins. Get account for free at CoinBase."</string>
+
+</resources>

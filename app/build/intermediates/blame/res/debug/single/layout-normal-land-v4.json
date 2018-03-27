@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\welcomscreen.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal-land\\welcomscreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\choicescreen.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal-land\\choicescreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\chitchato_peers_btn.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal-land\\chitchato_peers_btn.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\purgescreen.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal-land\\purgescreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\add_bootstrap.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal-land\\add_bootstrap.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\errorscreen.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal-land\\errorscreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\chitchato_settings_radio.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal-land\\chitchato_settings_radio.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\chitchato_settings_radio.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal-land\\chitchato_settings_radio.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\spinner_item_one.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal-land\\spinner_item_one.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\chatscreen.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal-land\\chatscreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\morescreen.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal-land\\morescreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\deletegroupschatscreen.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal-land\\deletegroupschatscreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\imagegallareyscreen.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal-land\\imagegallareyscreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\registerscreen.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal-land\\registerscreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\creategroup.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal-land\\creategroup.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\help.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal-land\\help.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\registerscreen.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal-land\\registerscreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\privatechatscreengriditem.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal-land\\privatechatscreengriditem.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\add_bootstrap.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal-land\\add_bootstrap.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\privatechatscreen.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal-land\\privatechatscreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\global_bootstrap_screen.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal-land\\global_bootstrap_screen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\sensors_screen.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal-land\\sensors_screen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\imagegallareyscreen.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal-land\\imagegallareyscreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\debugscreen.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal-land\\debugscreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\morescreen.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal-land\\morescreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\spinner_item_one.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal-land\\spinner_item_one.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\about.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal-land\\about.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\sensors_screen.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal-land\\sensors_screen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\helpcontainerscreen.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal-land\\helpcontainerscreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\errorscreen.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal-land\\errorscreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\add_device.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal-land\\add_device.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\about.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal-land\\about.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\help.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal-land\\help.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\myprofile.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal-land\\myprofile.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\global_bootstrap_screen.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal-land\\global_bootstrap_screen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\m2mscreen.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal-land\\m2mscreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\privatechatscreengriditem.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal-land\\privatechatscreengriditem.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\purgescreen.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal-land\\purgescreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\chitchato_peers_btn.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal-land\\chitchato_peers_btn.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\languagescreen.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal-land\\languagescreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\creategroup.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal-land\\creategroup.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\helpcontainerscreen.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal-land\\helpcontainerscreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\deletegroupschatscreen.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal-land\\deletegroupschatscreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\languagescreen.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal-land\\languagescreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\chatscreengriditem.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal-land\\chatscreengriditem.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\privatechatscreen.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal-land\\privatechatscreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\searchresults.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal-land\\searchresults.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\search.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal-land\\search.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\add_device.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal-land\\add_device.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\searchresults.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal-land\\searchresults.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\splashone.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal-land\\splashone.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\myprofile.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal-land\\myprofile.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\m2mscreen.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal-land\\m2mscreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\chatscreen.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal-land\\chatscreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\debugscreen.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal-land\\debugscreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\search.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal-land\\search.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\chatscreengriditem.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal-land\\chatscreengriditem.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\choicescreen.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal-land\\choicescreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\welcomscreen.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal-land\\welcomscreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-v4\\splashone.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal-land\\splashone.xml"
+    }
+]

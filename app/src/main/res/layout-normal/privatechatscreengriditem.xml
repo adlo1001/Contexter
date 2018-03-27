@@ -1,0 +1,165 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/rectangletv_3"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/linear_grditem_4"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rectangletv_3"
+        android:minHeight="100dp"
+        android:orientation="horizontal"
+        android:paddingBottom="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="2dp"
+        tools:context=".MainActivity" >
+
+        <LinearLayout
+            android:id="@+id/imageView_lo_"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_gravity="top"
+            android:layout_weight="0.75"
+            android:background="@drawable/rectangletv_3"
+            android:gravity="top|center"
+            android:orientation="vertical"
+            android:paddingLeft="0dp"
+            android:paddingRight="2dp" >
+
+            <ImageView
+                android:id="@+id/imageView_grditem_pr_1"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:adjustViewBounds="true"
+                android:minHeight="60dp"
+                android:minWidth="60dp"
+                android:paddingBottom="2dp"
+                android:paddingLeft="2dp"
+                android:paddingRight="2dp"
+                android:paddingTop="2dp"
+                android:src="@drawable/profile_image" />
+
+            <TextView
+                android:id="@+id/tv_prchat_screen_context_chatter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:lines="1"
+                android:maxLines="1"
+                android:scrollHorizontally="true"
+                android:text="unknown chatter"
+                android:textColor="@color/oregon"
+                android:textSize="10sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/imageView_pr_llo_"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.25"
+            android:background="@drawable/rectangletv_4"
+            android:gravity="right"
+            android:orientation="vertical"
+            android:paddingLeft="10dp"
+            android:paddingRight="0dp"
+            android:paddingTop="2dp"
+            tools:context=".MainActivity" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.35"
+                android:gravity="left"
+                android:paddingRight="2dp"
+                android:paddingTop="0dp" >
+
+                <TextView
+                    android:id="@+id/editText_grditem_pr_3"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:gravity="center|left"
+                    android:hint="Private ChatMessages Here"
+                    android:scrollHorizontally="true"
+                    android:textColor="@color/oregon" >
+                </TextView>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/imageView_llo_sub__pr_item"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.65"
+                android:gravity="left"
+                android:paddingRight="2dp"
+                android:paddingTop="0dp" >
+
+                <TextView
+                    android:id="@+id/tv_chat_screen_context_sub_pr_item"
+                    android:layout_width="wrap_content"
+                    android:layout_height="fill_parent"
+                    android:gravity="left"
+                    android:lines="1"
+                    android:maxLines="1"
+                    android:scrollHorizontally="true"
+                    android:text="Context information"
+                    android:textColor="@color/chitchato_border_color"
+                    android:textSize="10sp"
+                    android:textStyle="italic"
+                    android:typeface="monospace" />
+
+                <TextView
+                    android:id="@+id/tv_prchat_screen_context_chat_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="fill_parent"
+                    android:gravity="center"
+                    android:lines="1"
+                    android:maxLines="1"
+                    android:paddingLeft="10dp"
+                    android:scrollHorizontally="true"
+                    android:text="Context information"
+                    android:textColor="@color/chitchato_border_color"
+                    android:textSize="10sp"
+                    android:textStyle="italic"
+                    android:typeface="monospace" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linear_lo_checkbx__pr_item"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.75"
+            android:background="@drawable/rectangletv_3"
+            android:gravity="right"
+            android:orientation="vertical"
+            android:paddingLeft="0dp"
+            android:paddingRight="0dp"
+            android:paddingTop="2dp"
+            tools:context=".MainActivity" >
+
+            <LinearLayout
+                android:id="@+id/LinearLayout01"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:gravity="right"
+                android:paddingRight="2dp"
+                android:paddingTop="0dp" >
+
+                <CheckBox
+                    android:id="@+id/pr_chat_radio_new"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_gravity="right|center"
+                    android:background="@drawable/check_box"
+                    android:clickable="true"
+                    android:focusable="false"
+                    android:gravity="center"
+                    android:text="" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

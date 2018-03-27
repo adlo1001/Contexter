@@ -1,0 +1,176 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+
+    android:background="@drawable/rectangletv_5">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center"
+        android:layout_marginTop="0dp"
+        android:background="@drawable/rectangletv_5"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingBottom="40dp"
+        android:paddingLeft="0dp"
+        android:paddingTop="40dp"
+        tools:context=".MainActivity">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:background="@color/cust_color_1"
+            android:orientation="vertical"
+            android:paddingRight="0dp"
+            android:paddingTop="10dp"
+            tools:context=".MainActivity">
+
+
+            <LinearLayout
+                android:id="@+id/linear1_1_dialog_1_1"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_gravity="center"
+                android:layout_weight="0.6"
+                android:background="@color/cust_color_1"
+                android:gravity="bottom|center"
+                android:minHeight="50dp"
+                android:orientation="horizontal"
+                android:paddingBottom="2dp"
+                android:paddingLeft="15dp"
+                android:paddingTop="2dp"
+                tools:context=".MainActivity">
+
+                <ImageView
+                    android:id="@+id/imageView_grditem_1"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="0.9"
+                    android:adjustViewBounds="true"
+                    android:padding="0dp"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/ic_tip" />
+
+                <TextView
+                    android:id="@+id/tv_dialog_one_title"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="0.1"
+                    android:gravity="left|center"
+                    android:paddingBottom="10dp"
+                    android:paddingLeft="10dp"
+                    android:paddingTop="10dp"
+                    android:text="Contexter"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:textColor="@color/chitchato_mebratu_cyan" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.4"
+                android:background="@color/chitchato_mebratu_cyan"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:paddingBottom="0dp"
+                android:paddingLeft="50dp"
+                android:paddingRight="50dp">
+
+                <TextView
+                    android:id="@+id/dialog_one_tv"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.3"
+                    android:gravity="center"
+                    android:minWidth="450dp"
+                    android:minHeight="120dp"
+                    android:text="Are you sure you want to restore? \n You lose related data from the device."
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:textColor="@color/cust_color_1" />
+
+                <Spinner
+                    android:id="@+id/spinner_group_id_dialog"
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:background="@drawable/rectangletv_2"
+                    android:gravity="center"
+                    android:hint="Group Name"
+                    android:minHeight="60dp"
+                    android:prompt="@color/green_overlay"
+                    android:scrollbars="vertical"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/chitchato_blue"
+                    android:visibility="gone"
+                    tools:listitem="@android:layout/simple_spinner_dropdown_item" />
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.6"
+                android:background="@color/chitchato_mebratu_cyan"
+                android:gravity="top"
+                android:orientation="horizontal"
+                android:paddingBottom="10dp"
+                android:paddingLeft="30dp"
+                android:paddingRight="30dp">
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.5"
+                    android:gravity="top|center"
+                    android:orientation="horizontal"
+                    android:paddingBottom="0dp"
+                    android:paddingLeft="0dp"
+                    android:paddingRight="10dp">
+
+                    <Button
+                        android:id="@+id/dialog_one_btn_yes"
+                        style="?android:attr/borderlessButtonStyle"
+                        android:layout_width="160dp"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/button_custom"
+                        android:minHeight="70dp"
+                        android:minWidth="80dp"
+                        android:text="YES"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="@color/white_overlay" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.5"
+                    android:gravity="top|center"
+                    android:orientation="horizontal"
+                    android:paddingBottom="0dp"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="0dp">
+
+                    <Button
+                        android:id="@+id/dialog_one_btn_no"
+                        style="?android:attr/borderlessButtonStyle"
+                        android:layout_width="160dp"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/button_custom"
+                        android:minHeight="70dp"
+                        android:minWidth="80dp"
+                        android:paddingLeft="10dp"
+                        android:text="NO"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="@color/white_overlay" />
+                </LinearLayout>
+
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

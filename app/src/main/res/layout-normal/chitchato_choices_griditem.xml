@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center|top"
+    android:orientation="horizontal"
+    android:paddingRight="0dp">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingRight="2dp"
+        android:paddingTop="0dp">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center"
+            android:layout_weight="0.65"
+            android:orientation="horizontal"
+            android:paddingRight="2dp"
+            android:paddingTop="0dp">
+
+            <TextView
+                android:id="@+id/choices_btn"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_gravity="center"
+                android:background="@drawable/button_custom_circle_cust_two"
+                android:enabled="true"
+                android:gravity="center"
+                android:text="none"
+                android:textColor="@color/white_overlay" />
+
+            <Button
+                android:id="@+id/choices_btn_concentric"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_gravity="center"
+                android:background="@drawable/button_custom_circle"
+                android:enabled="true"
+                android:gravity="center"
+                android:lines="1"
+                android:maxLines="1"
+                android:textColor="@color/chitchato_border_color"
+                android:textSize="40sp"
+                android:translationX="-70dp"
+                android:translationY="0dp"
+                android:visibility="gone" />
+
+
+            <se.sensiblethings.app.chitchato.extras.CustomImageView
+                android:id="@+id/cust_img_btn_choices_PIC"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_gravity="center"
+                android:layout_margin="3dp"
+                android:background="@color/background_color_1"
+                android:padding="3dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/world_map_temp_two"
+                android:translationX="-73dp"
+                android:translationY="0dp"
+                app:riv_border_color="@color/background_color_1"
+                app:riv_border_width="0dp"
+                app:riv_corner_radius="5dp"
+                app:riv_mutate_background="true"
+                app:riv_oval="true"
+
+                />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.65"
+            android:paddingRight="2dp"
+            android:paddingTop="0dp">
+
+            <TextView
+                android:id="@+id/tv_choices_sub_item"
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:maxLines="2"
+                android:minLines="2"
+                android:text="subitem"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/chitchato_mebratu_blue" />
+
+
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

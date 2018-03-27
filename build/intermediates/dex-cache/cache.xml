@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\A d d i s\ChitChato\app\libs\android-support-v4.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="307c1cc532eabbf1d135b43e5c983c9da700449d">
+        <dex dex="D:\A d d i s\ChitChato\app\build\intermediates\pre-dexed\debug\android-support-v4_0ab9cdde3739318e3d4798c6ca86c624dc2a941f.jar" />
+    </item>
+    <item
+        jar="D:\A d d i s\ChitChato\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fa057f96d59a438ea604084eea9ed0817b64c152">
+        <dex dex="D:\A d d i s\ChitChato\app\build\intermediates\pre-dexed\debug\instant-run_b1061f8378ed4287a8fc1d58753fe43718608306.jar" />
+    </item>
+    <item
+        jar="D:\A d d i s\ChitChato\app\libs\google-play-services.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="38c2f8e192dc24ddbf6cae2784f3d4267af66a3e">
+        <dex dex="D:\A d d i s\ChitChato\app\build\intermediates\pre-dexed\debug\google-play-services_a0f34f166b1e17855625016f57baabda74da13d6.jar" />
+    </item>
+    <item
+        jar="D:\A d d i s\ChitChato\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="264fa5cbe3da92d396e29f7572ddca7892974ab1">
+        <dex dex="D:\A d d i s\ChitChato\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_f704e1815c96b303f96391b30b042ee4b18a7c19.jar" />
+    </item>
+
+</items>

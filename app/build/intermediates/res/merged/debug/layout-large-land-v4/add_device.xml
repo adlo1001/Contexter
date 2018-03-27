@@ -1,0 +1,265 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black_overlay"
+    android:orientation="vertical"
+    >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="0.8"
+        android:background="@color/chitchato_mebratu_cyan"
+        android:orientation="horizontal"
+        android:paddingBottom="2dp"
+        android:paddingLeft="0dp"
+        android:paddingRight="0dp"
+        android:paddingTop="10dp" >
+
+        <TextView
+            android:id="@+id/tv_empty"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@color/chitchato_mebratu_cyan"
+            android:gravity="center"
+            android:text="Add Devices"
+            android:textSize="50dp"
+            android:textColor="@color/white_overlay" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linear1_local_peer"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="0.2"
+        android:background="@color/chitchato_mebratu_cyan"
+        android:orientation="vertical"
+        android:paddingBottom="2dp"
+        android:paddingTop="2dp" >
+
+        <LinearLayout
+            android:id="@+id/linear1_1_local_peer"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.3"
+            android:background="@color/cust_color_1"
+            android:gravity="right"
+            android:orientation="vertical"
+            android:paddingBottom="2dp"
+            android:paddingLeft="3dp"
+            android:paddingRight="3dp"
+            android:paddingTop="2dp" >
+
+            <LinearLayout
+                android:id="@+id/linear2_local_peer"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.2"
+                android:background="@drawable/rectangletv_3"
+                android:gravity="center"
+                android:orientation="vertical"
+                android:paddingBottom="10dp"
+                android:paddingLeft="3dp"
+                android:paddingRight="3dp"
+                android:paddingTop="10dp"
+                android:scrollbarAlwaysDrawVerticalTrack="true"
+                android:scrollbarStyle="outsideOverlay"
+                android:scrollbars="vertical|horizontal"
+                android:showDividers="none|beginning|middle|end" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.5"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    android:paddingBottom="10dp" >
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.5"
+                    android:gravity="right"
+                    android:orientation="horizontal"
+                    android:paddingBottom="10dp" >
+
+                    <TextView
+                        android:id="@+id/tv_bootstrp_zero"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.6"
+                        android:gravity="left"
+                        android:paddingBottom="0dp"
+                        android:paddingTop="10dp"
+                        android:text="Device Name:"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="@color/chitchato_mebratu_blue" >
+                    </TextView>
+
+                    <EditText
+                        android:id="@+id/edt_device_name"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.4"
+                        android:background="@drawable/rectangletv_2"
+                        android:gravity="center"
+                        android:hint="eg. Door"
+                        android:paddingTop="10dp"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="@color/background_color_1" >
+                    </EditText>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.5"
+                    android:gravity="right"
+                    android:orientation="horizontal"
+                    android:paddingBottom="10dp" >
+
+                    <TextView
+                        android:id="@+id/tv_bootstrp_one"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.6"
+                        android:gravity="left"
+                        android:paddingBottom="0dp"
+                        android:paddingTop="10dp"
+                        android:text="Device IP:"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="@color/chitchato_mebratu_blue" >
+                    </TextView>
+
+                    <EditText
+                        android:id="@+id/edt_device_ip"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.4"
+                        android:background="@drawable/rectangletv_2"
+                        android:gravity="center"
+                        android:hint="xxx.xxx.xxx.xxx"
+                        android:paddingBottom="0dp"
+                        android:paddingTop="10dp"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="@color/background_color_1" >
+                    </EditText>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.5"
+                    android:gravity="right"
+                    android:orientation="horizontal"
+                    android:paddingBottom="10dp" >
+
+                    <TextView
+                        android:id="@+id/tv_bootstrp_two"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.6"
+                        android:gravity="left"
+                        android:paddingBottom="0dp"
+                        android:paddingTop="10dp"
+                        android:text="Devices:"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="@color/chitchato_mebratu_blue" >
+                    </TextView>
+
+                    <Spinner
+                        android:id="@+id/spinner_my_devices"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="0.4"
+                        android:gravity="center"
+                        android:paddingBottom="0dp"
+                        android:paddingTop="10dp"
+                        android:scrollbars="vertical"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="@color/chitchato_blue"
+                        tools:listitem="@android:layout/simple_spinner_dropdown_item" />
+                </LinearLayout>
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linear4_myprofile___"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.7"
+            android:background="@color/cust_color_1"
+            android:orientation="vertical"
+            android:paddingRight="1dp"
+            android:paddingTop="10dp"
+            tools:context=".MainActivity" >
+
+            <LinearLayout
+                android:id="@+id/linear5_profile_pic"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="right"
+                android:layout_weight="0.5"
+                android:orientation="horizontal"
+                android:paddingBottom="5dp"
+                android:paddingLeft="30dp"
+                android:paddingRight="30dp" >
+
+                <Button
+                    android:id="@+id/button_add_devices"
+                    style="?android:attr/borderlessButtonStyle"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.5"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginLeft="20dp"
+                    android:background="@drawable/button_custom"
+                    android:text="Add"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:textColor="@color/white_overlay" />
+
+                <Button
+                    android:id="@+id/button_clr_devices"
+                    style="?android:attr/borderlessButtonStyle"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.5"
+                    android:background="@drawable/button_custom"
+                    android:paddingLeft="10dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginLeft="20dp"
+                    android:text="Clear all"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:textColor="@color/white_overlay" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="right"
+                android:layout_weight="0.5"
+                android:orientation="horizontal"
+                android:background="@color/chitchato_mebratu_cyan"
+                android:paddingBottom="0dp"
+                android:paddingLeft="30dp"
+                android:paddingRight="30dp" >
+
+                <Button
+                    android:id="@+id/button_exit_devices"
+                    style="?android:attr/borderlessButtonStyle"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:background="@drawable/button_custom"
+                    android:paddingLeft="10dp"
+                    android:text="Exit"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:textColor="@color/white_overlay" />
+            </LinearLayout>
+
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

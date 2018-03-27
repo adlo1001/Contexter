@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingRight="0dp">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:orientation="vertical"
+        android:paddingRight="2dp"
+        android:paddingTop="0dp">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center"
+            android:layout_weight="0.65"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:paddingRight="2dp"
+            android:paddingTop="0dp"
+            android:visibility="gone">
+
+            <TextView
+                android:id="@+id/favorite_group_btn"
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:layout_gravity="center"
+                android:background="@drawable/circlebtn_limon_with_border_large_screen"
+                android:clickable="true"
+                android:enabled="true"
+                android:gravity="center"
+                android:text="none"
+                android:textColor="@color/chitchato_mebratu_blue"
+                android:textSize="35sp" />
+        </LinearLayout>
+
+
+        <se.sensiblethings.app.chitchato.extras.CustomImageView
+            android:id="@+id/cust_image_view_one"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_gravity="center"
+            android:layout_margin="5dp"
+            android:background="@color/background_color_1"
+            android:padding="6dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/world_map_temp_two___________"
+            app:riv_border_color="@color/chitchato_mebratu_cyan"
+            app:riv_border_width="0dp"
+            app:riv_corner_radius="365dp"
+            app:riv_mutate_background="true"
+            app:riv_oval="false" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.65"
+            android:gravity="center"
+            android:paddingRight="2dp"
+            android:paddingTop="0dp">
+
+            <TextView
+                android:id="@+id/tv_chat_screen_sub_item"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:gravity="center|center_vertical"
+                android:text="subitem"
+                android:textColor="@color/chitchato_mebratu_blue"
+                android:textSize="25sp" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,165 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black_overlay"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="0.9"
+        android:background="@color/chitchato_mebratu_cyan"
+        android:minHeight="70dip"
+        android:orientation="horizontal"
+        android:paddingBottom="2dp"
+        android:paddingLeft="0dp"
+        android:paddingRight="0dp"
+        android:paddingTop="10dip">
+
+        <TextView
+            android:id="@+id/tv_empty_bar_chatscreen"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center"
+            android:background="@color/chitchato_mebratu_cyan"
+            android:gravity="center"
+            android:minHeight="50dip"
+            android:text="Debug"
+            android:textSize="35dip"
+            android:textColor="@color/white_overlay"></TextView>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linear1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="0.1"
+        android:background="@color/cust_color_1"
+        android:orientation="vertical"
+        android:paddingBottom="2dp"
+        android:paddingTop="2dp"
+        android:scrollbarStyle="outsideOverlay"
+        android:scrollbars="vertical"
+        tools:context=".MainActivity">
+
+        <LinearLayout
+            android:id="@+id/linear1_1"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.1"
+            android:background="@color/cust_color_1"
+            android:orientation="vertical"
+            android:paddingBottom="2dp"
+            android:paddingLeft="0dp"
+            android:paddingTop="2dp"
+            tools:context=".MainActivity">
+
+            <LinearLayout
+                android:id="@+id/linear2"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.1"
+                android:background="@color/cust_color_1"
+                android:gravity="left"
+                android:orientation="vertical"
+                android:paddingBottom="10dp"
+                android:paddingRight="0dp"
+                android:paddingTop="10dp"
+                android:scrollbarAlwaysDrawVerticalTrack="true"
+                android:scrollbarStyle="outsideOverlay"
+                android:scrollbars="vertical|horizontal"
+                android:showDividers="none|beginning|middle|end">
+
+                <TextView
+                    android:id="@+id/edt_chatScreen_main_logger"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.2"
+                    android:background="@color/chitchato_mebratu_blue"
+                    android:editable="false"
+                    android:gravity="left|bottom"
+                    android:inputType="textMultiLine"
+                    android:minHeight="64dip"
+                    android:scrollbars="vertical"
+                    android:layout_gravity="bottom"
+                    android:text=">>"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="@color/chitchato_limon_old" />
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:id="@+id/linear4"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.9"
+                android:minHeight="70dip"
+                android:orientation="horizontal"
+                android:paddingBottom="2dp"
+                android:paddingLeft="15dp"
+                android:paddingRight="1dp"
+                android:paddingTop="2dp"
+                tools:context=".MainActivity">
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.35"
+                    android:background="@drawable/rectangletv_1"
+                    android:gravity="left"
+                    android:orientation="horizontal"
+                    android:paddingBottom="2dip"
+                    android:paddingLeft="2dip"
+                    android:paddingRight="2dip"
+                    android:paddingTop="2dip">
+
+                    <EditText
+                        android:id="@+id/edt_chatScreen"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="0.2"
+                        android:background="@color/cust_color_1"
+                        android:gravity="center|left"
+                        android:hint=" enter text here"
+                        android:lines="1"
+                        android:minHeight="64dip"
+                        android:scrollHorizontally="true"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="@color/oregon">
+
+                        <requestFocus />
+                    </EditText>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linear5"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.65"
+                    android:background="@drawable/rectangletv_5"
+                    android:gravity="right"
+                    android:orientation="horizontal"
+                    android:paddingLeft="1dp"
+                    tools:context=".MainActivity">
+
+                    <Button
+                        android:id="@+id/btn_send_chatscreen"
+                        style="?android:attr/borderlessButtonStyle"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:background="@drawable/button_custom"
+                        android:minHeight="64dip"
+                        android:paddingLeft="3dp"
+                        android:shadowColor="@color/red"
+                        android:text="Send"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="@color/white_overlay" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,254 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black_overlay"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@color/cust_color_1"
+        android:orientation="vertical"
+        android:paddingBottom="2dp"
+        android:paddingTop="2dp"
+        tools:context=".MainActivity">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.1"
+            android:background="@color/cust_color_1"
+            android:orientation="vertical"
+            android:paddingBottom="2dp"
+            android:paddingTop="2dp">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="right"
+                android:orientation="vertical"
+                android:paddingRight="2dp"
+                android:paddingTop="0dp">
+
+                <TextView
+                    android:id="@+id/tv_purge_chitchat"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.8"
+                    android:background="@color/chitchato_yellow"
+                    android:gravity="center"
+                    android:text="Purge"
+                    android:textColor="@color/white_overlay"
+                    android:textSize="50dip" />
+
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.2"
+                    android:gravity="right"
+                    android:orientation="vertical"
+                    android:paddingRight="2dp"
+                    android:paddingTop="0dp">
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_gravity="bottom"
+                        android:layout_weight="0.5"
+                        android:background="@drawable/rectangletv_4_normal"
+                        android:gravity="left|top"
+                        android:orientation="vertical"
+                        android:paddingBottom="0dip"
+                        android:paddingRight="2dp"
+                        android:paddingTop="0dp">
+
+                        <LinearLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:layout_weight="0.5"
+                            android:gravity="left|bottom"
+                            android:orientation="horizontal"
+                            android:paddingBottom="0dip"
+                            android:paddingRight="2dp"
+                            android:paddingTop="0dp">
+
+
+                            <TextView
+                                android:id="@+id/tv_label_grps"
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="0.75"
+                                android:background="@color/cust_color_1"
+                                android:gravity="center"
+                                android:paddingBottom="10dip"
+                                android:paddingLeft="0dp"
+                                android:paddingTop="10dp"
+                                android:text="   Groups"
+                                android:textAppearance="?android:attr/textAppearanceLarge"
+                                android:textColor="@color/chitchato_mebratu_blue" />
+
+
+                            <Spinner
+                                android:id="@+id/spinner_my_groups_purg"
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="0.25"
+                                android:background="@drawable/rectangletv_2"
+                                android:gravity="center"
+                                android:paddingBottom="0dp"
+                                android:paddingRight="30dp"
+                                android:paddingTop="0dp"
+                                android:scrollbars="vertical"
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textColor="@color/chitchato_blue"
+                                tools:listitem="@android:layout/simple_spinner_dropdown_item" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:layout_margin="30dp"
+                            android:layout_weight="0.5"
+                            android:gravity="left|top"
+                            android:orientation="horizontal"
+                            android:paddingBottom="0dip"
+                            android:paddingRight="2dp"
+                            android:paddingTop="0dp">
+
+                            <TextView
+                                android:id="@+id/tv_bar_peer"
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="0.5"
+                                android:background="@color/cust_color_1"
+                                android:gravity="center"
+                                android:paddingBottom="10dip"
+                                android:paddingTop="10dp"
+                                android:text="UCI"
+                                android:textAppearance="?android:attr/textAppearanceLarge"
+                                android:textColor="@color/chitchato_mebratu_blue" />
+
+                            <EditText
+                                android:id="@+id/edt_bar_peer"
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="0.3"
+                                android:background="@drawable/rectangletv_1"
+                                android:gravity="center"
+                                android:hint="Enter UCI to bar"
+                                android:paddingBottom="10dip"
+                                android:paddingTop="10dp"
+                                android:text=""
+                                android:textAppearance="?android:attr/textAppearanceLarge"
+                                android:textColor="@color/chitchato_mebratu_blue" />
+
+                            <Button
+                                android:id="@+id/btn_bar_peer"
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="0.5"
+                                android:background="@drawable/button_custom"
+                                android:gravity="center"
+                                android:paddingBottom="10dip"
+                                android:paddingTop="10dp"
+                                android:text="Bar"
+                                android:textAppearance="?android:attr/textAppearanceLarge"
+                                android:textColor="@color/white_overlay" />
+                        </LinearLayout>
+
+
+                    </LinearLayout>
+
+                    <RadioGroup
+                        android:id="@+id/radioGroup1"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_gravity="left"
+                        android:layout_weight="0.5"
+                        android:gravity="left|center"
+                        android:orientation="vertical"
+                        android:paddingBottom="@dimen/activity_horizontal_margin"
+                        android:paddingTop="20dp"
+                        android:scrollbarAlwaysDrawVerticalTrack="true"
+                        android:scrollbarStyle="insideOverlay"
+                        android:scrollbars="vertical">
+
+                        <RadioButton
+                            android:id="@+id/radio0_purge_all_user_files"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:checked="true"
+                            android:gravity="center_vertical|start|center_horizontal"
+                            android:text="Purge All User Files from Contexter"
+                            android:textColor="@color/chitchato_mebratu_blue"
+                            android:textSize="20sp" />
+
+                        <RadioButton
+                            android:id="@+id/radio1_purge_only_own_group"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:paddingBottom="10dip"
+                            android:paddingTop="10dip"
+                            android:text="Purge  only data related to My own Group"
+                            android:textColor="@color/chitchato_mebratu_blue"
+                            android:textSize="20sp" />
+
+                        <RadioButton
+                            android:id="@+id/radio2_delete_favorite_groups"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:paddingBottom="10dip"
+                            android:paddingTop="10dip"
+                            android:text="Delete Imported Groups"
+                            android:textColor="@color/chitchato_mebratu_blue"
+                            android:textSize="20sp" />
+
+                        <RadioButton
+                            android:id="@+id/radio3_return_toFreshly_installed"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:paddingBottom="10dip"
+                            android:paddingTop="10dip"
+                            android:text="Restore to the Freshly Installed"
+                            android:textColor="@color/chitchato_mebratu_blue"
+                            android:textSize="20sp" />
+
+                    </RadioGroup>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.9"
+            android:background="@color/chitchato_mebratu_cyan"
+            android:orientation="horizontal"
+            android:paddingBottom="0dp"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:paddingTop="0dp">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="right"
+                android:orientation="horizontal"
+                android:paddingLeft="1dp">
+
+                <Button
+                    android:id="@+id/btn_purge_"
+                    style="?android:attr/borderlessButtonStyle"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:background="@drawable/button_custom"
+                    android:text="Purge"
+                    android:textColor="@color/white_overlay"
+                    android:textSize="30sp" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

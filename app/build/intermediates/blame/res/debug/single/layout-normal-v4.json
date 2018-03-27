@@ -1,0 +1,506 @@
+[
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\contact_main.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\contact_main.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\widget_lo.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\widget_lo.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\contact_detail_fragment.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\contact_detail_fragment.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\chitchato_test_ellips_test.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\chitchato_test_ellips_test.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\toolbar_one.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\toolbar_one.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\add_bootstrap.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\add_bootstrap.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\searchresults.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\searchresults.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\chitchato_language_radio_noti.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\chitchato_language_radio_noti.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\contact_detail_item.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\contact_detail_item.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\searchresultsgriditem.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\searchresultsgriditem.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\chatscreengriditem.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\chatscreengriditem.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\registerscreen.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\registerscreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\chitchato_favorite_group_btn.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\chitchato_favorite_group_btn.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\splashone.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\splashone.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\chitchato_settings_radio.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\chitchato_settings_radio.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\progress_bar_1.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\progress_bar_1.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\privatechatscreen.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\privatechatscreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\chatscreengriditem_reverse_180.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\chatscreengriditem_reverse_180.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\chitchato_favorite_group_btn_private.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\chitchato_favorite_group_btn_private.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\chitchato_pr_chat_radio.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\chitchato_pr_chat_radio.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\chatscreengriditem_reverse_180.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\chatscreengriditem_reverse_180.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\chatscreengriditem_green.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\chatscreengriditem_green.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\searchresults.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\searchresults.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\imagegallareyscreen.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\imagegallareyscreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\debugscreen.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\debugscreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\add_bootstrap.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\add_bootstrap.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\spinner_item_one.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\spinner_item_one.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\choicescreen.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\choicescreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\extrascreen.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\extrascreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\groupsadaptertv.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\groupsadaptertv.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\splash.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\splash.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\chitchato_group_btn.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\chitchato_group_btn.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\contact_list_fragment.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\contact_list_fragment.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\privatechatscreengriditem.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\privatechatscreengriditem.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\chatscreen.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\chatscreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\chitchato_choices_big_griditem.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\chitchato_choices_big_griditem.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\help.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\help.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\chitchato_language_radio.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\chitchato_language_radio.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\morescreen.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\morescreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\extrascreen.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\extrascreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\global_bootstrap_screen.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\global_bootstrap_screen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\debugscreen.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\debugscreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\chatscreengriditem_reverse_180_yellow.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\chatscreengriditem_reverse_180_yellow.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\error.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\error.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\spinner_item_one.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\spinner_item_one.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\helpcontainerscreen.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\helpcontainerscreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\splashzero.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\splashzero.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\chitchato_item_m2m.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\chitchato_item_m2m.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\contact_list_item.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\contact_list_item.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\splashone.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\splashone.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\languagescreen.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\languagescreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\m2mscreen.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\m2mscreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\contact_detail_item.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\contact_detail_item.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\chitchato_favorite_group_btn_private.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\chitchato_favorite_group_btn_private.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\chitchato_peers_btn.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\chitchato_peers_btn.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\chatscreengriditem_green.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\chatscreengriditem_green.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\languagescreen.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\languagescreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\chitchato_language_radio.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\chitchato_language_radio.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\registerscreen.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\registerscreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\chitchato_test_ellips_test.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\chitchato_test_ellips_test.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\imagegallareyscreen.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\imagegallareyscreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\settings.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\settings.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\add_device.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\add_device.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\searchresultsgriditem.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\searchresultsgriditem.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\about.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\about.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\chitchato_choices_griditem.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\chitchato_choices_griditem.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\contact_detail_fragment.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\contact_detail_fragment.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\spinner_item_two.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\spinner_item_two.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\error.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\error.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\privatechatscreen.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\privatechatscreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\chatscreengriditem_reverse_180_yellow.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\chatscreengriditem_reverse_180_yellow.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\help.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\help.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\deletegroupschatscreen.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\deletegroupschatscreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\myprofile.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\myprofile.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\chitchato_pr_chat_radio.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\chitchato_pr_chat_radio.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\chitchato_language_radio_noti.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\chitchato_language_radio_noti.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\m2mscreen.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\m2mscreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\contact_list_item.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\contact_list_item.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\creategroup.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\creategroup.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\zoomprofileimage.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\zoomprofileimage.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\dialog_one.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\dialog_one.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\choicescreen.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\choicescreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\chitchato_m2m_griditem.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\chitchato_m2m_griditem.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\chitchato_group_btn.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\chitchato_group_btn.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\search.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\search.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\welcomscreen.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\welcomscreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\dialog_one.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\dialog_one.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\global_bootstrap_screen.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\global_bootstrap_screen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\add_device.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\add_device.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\contacts_main_twopanes.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\contacts_main_twopanes.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\search.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\search.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\groupsadaptertv.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\groupsadaptertv.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\purgescreen.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\purgescreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\creategroup.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\creategroup.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\progress_bar_1.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\progress_bar_1.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\chitchato_m2m_griditem.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\chitchato_m2m_griditem.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\about.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\about.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\welcomscreen.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\welcomscreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\helpcontainerscreen.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\helpcontainerscreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\splash.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\splash.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\chitchato_item_m2m.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\chitchato_item_m2m.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\widget_lo.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\widget_lo.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\chatscreengriditem.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\chatscreengriditem.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\purgescreen.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\purgescreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\contact_main.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\contact_main.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\settings.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\settings.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\chatscreen.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\chatscreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\chitchato_settings_radio.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\chitchato_settings_radio.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\morescreen.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\morescreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\contact_list_fragment.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\contact_list_fragment.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\zoomprofileimage.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\zoomprofileimage.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\contacts_main_twopanes.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\contacts_main_twopanes.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\chitchato_peers_btn.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\chitchato_peers_btn.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\deletegroupschatscreen.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\deletegroupschatscreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\sensors_screen.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\sensors_screen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\chitchato_choices_griditem.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\chitchato_choices_griditem.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\privatechatscreengriditem.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\privatechatscreengriditem.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\sensors_screen.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\sensors_screen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\errorscreen.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\errorscreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\chitchato_choices_big_griditem.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\chitchato_choices_big_griditem.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\spinner_item_two.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\spinner_item_two.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\myprofile.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\myprofile.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\chitchato_favorite_group_btn.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\layout-normal\\chitchato_favorite_group_btn.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\errorscreen.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\errorscreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\splashzero.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\splashzero.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-v4\\toolbar_one.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\layout-normal\\toolbar_one.xml"
+    }
+]

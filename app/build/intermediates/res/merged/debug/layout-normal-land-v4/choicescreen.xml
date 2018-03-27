@@ -1,0 +1,270 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black_overlay"
+    android:gravity="center_vertical|center"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="0.8"
+        android:background="@color/chitchato_limon"
+        android:orientation="horizontal"
+        android:paddingBottom="0dp"
+        android:paddingLeft="0dp"
+        android:paddingRight="0dp"
+        android:paddingTop="0dp" >
+
+        <TextView
+            android:id="@+id/tv_empty_bar_choicescreen"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.35"
+            android:background="@color/chitchato_yellow"
+            android:gravity="center"
+            android:text=""
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/chitchato_blue" >
+        </TextView>
+
+        <ImageButton
+            android:id="@+id/img_btn_more_small_notification"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right|center_vertical"
+            android:adjustViewBounds="false"
+            android:layout_marginBottom="3dp"
+            android:background="@drawable/ic_action_small_notification"
+            android:paddingBottom="0dip"
+            android:paddingRight="0dip"
+            android:translationX="10dp"
+            android:translationY="-15dp"
+            />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_gravity="top"
+            android:layout_weight="0.55"
+            android:background="@color/chitchato_mebratu_cyan"
+            android:orientation="horizontal"
+            android:paddingBottom="2dp"
+            android:paddingLeft="0dp"
+            android:paddingRight="0dp"
+            android:paddingTop="0dp" >
+
+            <Button
+                android:id="@+id/btn_settings"
+                android:layout_width="30dip"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:adjustViewBounds="false"
+                android:background="@drawable/button_custom_extra_two"
+                android:paddingBottom="0dip"
+                android:paddingRight="0dip" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.5"
+            android:background="@color/chitchato_mebratu_cyan"
+            android:orientation="horizontal"
+            android:paddingBottom="2dp"
+            android:paddingLeft="0dp"
+            android:paddingRight="0dp"
+            android:paddingTop="0dp" >
+
+            <Button
+                android:id="@+id/img_btn_debug"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="@drawable/button_custom_extra_one"
+                android:hint="Sense"
+                android:paddingLeft="3dip"
+                android:paddingRight="3dip"
+                android:text="Debug"
+                android:textColor="@color/white_overlay" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.5"
+            android:background="@color/chitchato_mebratu_cyan"
+            android:orientation="horizontal"
+            android:paddingBottom="2dp"
+            android:paddingLeft="0dp"
+            android:paddingRight="0dp"
+            android:paddingTop="0dp" >
+
+            <Button
+                android:id="@+id/btn_sensors"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="@drawable/button_custom_extra_one"
+                android:hint="Sense"
+                android:paddingLeft="3dip"
+                android:paddingRight="3dip"
+                android:text="Sense"
+                android:textColor="@color/white_overlay" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.5"
+            android:background="@color/chitchato_mebratu_cyan"
+            android:orientation="horizontal"
+            android:paddingBottom="2dp"
+            android:paddingLeft="0dp"
+            android:paddingRight="0dp"
+            android:paddingTop="0dp" >
+
+            <Button
+                android:id="@+id/btn_purge"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="@drawable/button_custom_extra_one"
+                android:hint="Purge"
+                android:paddingLeft="3dip"
+                android:paddingRight="3dip"
+                android:text="Purge"
+                android:textColor="@color/white_overlay" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center"
+        android:layout_weight="0.2"
+        android:background="@color/cust_color_1"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingBottom="2dp"
+        android:paddingTop="2dp" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="150dip"
+            android:layout_gravity="center"
+            android:background="@color/cust_color_1"
+            android:gravity="center"
+            android:minHeight="500dip"
+            android:orientation="horizontal"
+            android:paddingBottom="2dp"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:paddingTop="2dp"
+            tools:context=".MainActivity" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_gravity="center"
+                android:background="@color/cust_color_1"
+                android:gravity="center"
+                android:paddingBottom="10dp"
+                android:paddingRight="0dp"
+                android:paddingTop="5dp"
+                android:scrollbarAlwaysDrawVerticalTrack="true"
+                android:scrollbarStyle="outsideOverlay"
+                android:scrollbars="vertical|horizontal"
+                android:showDividers="none|beginning|middle|end" >
+
+                <GridView
+                    android:id="@+id/gridView1_choice"
+                    android:layout_width="wrap_content"
+                    android:layout_height="fill_parent"
+                    android:layout_gravity="center"
+                    android:horizontalSpacing="@dimen/activity_horizontal_margin"
+                    android:listSelector="@color/cust_color_1"
+                    android:numColumns="4"
+                    android:paddingLeft="30dp"
+                    android:paddingRight="3dp"
+                    android:paddingTop="5dip"
+                    android:scrollbarAlwaysDrawVerticalTrack="true"
+                    android:scrollbarStyle="insideOverlay"
+                    android:textAlignment="gravity"
+                    android:verticalSpacing="@dimen/activity_vertical_margin" >
+                </GridView>
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="50dip"
+            android:layout_gravity="center"
+            android:background="@android:color/transparent"
+            android:minHeight="50dip"
+            android:orientation="horizontal"
+            android:paddingBottom="2dp"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:paddingTop="2dp" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="0.65"
+                android:gravity="center|top"
+                android:background="@android:color/transparent"
+                android:minHeight="50dip"
+                android:orientation="horizontal"
+                android:paddingRight="2dp"
+                android:paddingBottom="0dp" >
+
+                <Button
+                    android:id="@+id/m2m_btn"
+                    android:layout_width="160dip"
+                    android:layout_height="160dip"
+                    android:layout_gravity="top|center"
+                    android:background="@drawable/button_custom_circle_lime"
+                    android:enabled="true"
+                    android:gravity="top|center"
+                    android:text="\n M 2 M \n Control"
+                    android:textColor="@color/white_overlay"
+                    android:textSize="14sp" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="60dip"
+            android:background="@color/chitchato_limon"
+            android:gravity="bottom"
+            android:layout_gravity="bottom"
+            android:minHeight="60dip"
+            android:orientation="horizontal"
+            android:paddingBottom="2dp"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:paddingTop="2dp"
+            tools:context=".MainActivity" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="right|bottom"
+                android:layout_gravity="bottom"
+                android:orientation="horizontal"
+                android:paddingLeft="1dp"
+                tools:context=".MainActivity" >
+
+                <Button
+                    android:id="@+id/button_choicescreen_profile_edit"
+                    style="?android:attr/borderlessButtonStyle"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:background="@drawable/button_custom"
+                    android:text="Profile"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/white_overlay" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="red">#ff0000</color>
+    <color name="blue">#0000ff</color>
+    <color name="yellow">#ffff00</color>
+    <color name="green">#00ff00</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="cust_color_1">#fff2f2f2</color>
+    <color name="background_color_1">#ffcccccc</color>
+    <color name="status_bar_color">#FF000000</color>
+    <color name="layout_border_color">#FF111111</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="gray_overlay">#ffcccccc</color>
+    <color name="green_overlay">#669900</color>
+    <color name="white_overlay">#fff2f2f2</color>
+    <color name="blue_overlay">#0000ff</color>
+    <color name="blue_overlay_1">#33b5e5</color>
+    <color name="oregon">#993300</color>
+    <color name="blue_other">#DAE2F8</color>
+
+<!-- ChitChato colors -->
+
+<color name = "chitchato_limon_old">#99FF66</color>
+    <color name = "chitchato_limon_old_2">#C6FFA9</color>
+<color name = "chitchato_limon_">#86B404</color>
+<color name = "chitchato_yellow_old">#FFFF99</color>
+
+<!-- dark blue and cyan -->
+<color name = "chitchato_limon">#18bc9c</color>
+<color name = "chitchato_yellow">#18bc9c</color>
+
+<color name ="chitchato_yellow_">#D7DF01</color>
+<color name = "chitchato_blue">#0070C0</color>
+<color name = "chitchato_mebratu_blue">#2c3e50</color>
+<color name = "chitchato_mebratu_cyan">#18bc9c</color>
+
+<color name = "chitchato_border_color">#7F7F7F</color>
+
+<color name = "aqua">#00FFFF</color>
+<color name = "chartreuse">#7FFF00</color>
+<color name = "fuchsia">#FF00FF</color>
+<color name = "green_other">#008000</color>
+<color name = "indigo">#4B0082</color>
+<color name = "maroon">#800000</color>
+
+
+</resources>

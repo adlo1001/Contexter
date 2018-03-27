@@ -1,0 +1,155 @@
+AGGREGATED OVER LAST 24 HOURS:
+Per-Package Stats:
+  * se.sensiblethings.app / u0a258:
+      * se.sensiblethings.app / u0a258:
+               TOTAL: 44% (6.7MB-103MB-445MB/5.1MB-95MB-432MB over 111)
+                 Top: 12% (6.7MB-121MB-445MB/5.1MB-112MB-432MB over 80)
+             Service: 32% (6.9MB-58MB-253MB/5.5MB-54MB-246MB over 30)
+          Service Rs: 0.00%
+            Receiver: 0.49% (6.8MB-6.8MB-6.8MB/5.1MB-5.1MB-5.1MB over 1)
+          (Last Act): 0.02%
+            (Cached): 44% (3.8MB-15MB-54MB/2.3MB-13MB-52MB over 25)
+      * se.sensiblethings.app.chitchato.chitchato_services.PlatformManagerNode:
+        Process: se.sensiblethings.app
+            Running count 36 / time 39%
+            Started count 22 / time 38%
+              Bound count 22 / time 19%
+          Executing count 583 / time 0.09%
+  * se.sensiblethings.app / u0a259:
+      * se.sensiblethings.app / u0a259:
+               TOTAL: 11% (2.6MB-182MB-543MB/1.4MB-172MB-539MB over 43)
+                 Top: 6.1% (18MB-207MB-543MB/16MB-196MB-539MB over 34)
+              Imp Fg: 0.00%
+             Service: 4.8% (8.0MB-96MB-520MB/6.4MB-93MB-515MB over 8)
+          Service Rs: 0.00%
+            Receiver: 0.11% (2.6MB-2.6MB-2.6MB/1.4MB-1.4MB-1.4MB over 1)
+            (Cached): 0.01%
+      * se.sensiblethings.app.chitchato.chitchato_services.PlatformManagerNode:
+        Process: se.sensiblethings.app
+            Running count 18 / time 11%
+            Started count 18 / time 11%
+              Bound count 10 / time 7.2%
+          Executing count 201 / time 0.02%
+
+Summary:
+  * se.sensiblethings.app / u0a258:
+           TOTAL: 44% (6.7MB-103MB-445MB/5.1MB-95MB-432MB over 111)
+             Top: 12% (6.7MB-121MB-445MB/5.1MB-112MB-432MB over 80)
+         Service: 32% (6.9MB-58MB-253MB/5.5MB-54MB-246MB over 30)
+      Service Rs: 0.00%
+        Receiver: 0.49% (6.8MB-6.8MB-6.8MB/5.1MB-5.1MB-5.1MB over 1)
+      (Last Act): 0.02%
+        (Cached): 44% (3.8MB-15MB-54MB/2.3MB-13MB-52MB over 25)
+  * se.sensiblethings.app / u0a259:
+           TOTAL: 11% (2.6MB-182MB-543MB/1.4MB-172MB-539MB over 43)
+             Top: 6.1% (18MB-207MB-543MB/16MB-196MB-539MB over 34)
+          Imp Fg: 0.00%
+         Service: 4.8% (8.0MB-96MB-520MB/6.4MB-93MB-515MB over 8)
+      Service Rs: 0.00%
+        Receiver: 0.11% (2.6MB-2.6MB-2.6MB/1.4MB-1.4MB-1.4MB over 1)
+        (Cached): 0.01%
+
+Run time Stats:
+  SOff/Norm: +6h56m30s361ms
+       Mod : +585ms
+       Low : +554ms
+       Crit: +5s747ms
+  SOn /Norm: +9h50m20s355ms
+       Mod : +28s40ms
+       Low : +19s474ms
+       Crit: +14s23ms
+      TOTAL: +16h47m59s139ms
+
+          Start time: 2017-02-06 19:42:54
+  Total elapsed time: +22h50m1s102ms (partial) libdvm.so chromeview
+
+AGGREGATED OVER LAST 3 HOURS:
+Per-Package Stats:
+  * se.sensiblethings.app / u0a258:
+      * se.sensiblethings.app / u0a258:
+               TOTAL: 56% (6.9MB-161MB-380MB/5.5MB-151MB-376MB over 23)
+                 Top: 8.3% (18MB-181MB-380MB/16MB-170MB-376MB over 14)
+             Service: 47% (6.9MB-130MB-220MB/5.5MB-121MB-213MB over 9)
+          Service Rs: 0.00%
+            Receiver: 0.00%
+      * se.sensiblethings.app.chitchato.chitchato_services.PlatformManagerNode:
+        Process: se.sensiblethings.app
+            Running count 8 / time 56%
+            Started count 8 / time 56%
+              Bound count 4 / time 50%
+          Executing count 196 / time 0.07%
+  * se.sensiblethings.app / u0a259:
+      * se.sensiblethings.app / u0a259:
+               TOTAL: 43% (2.6MB-182MB-543MB/1.4MB-172MB-539MB over 43)
+                 Top: 24% (18MB-207MB-543MB/16MB-196MB-539MB over 34)
+              Imp Fg: 0.01%
+             Service: 19% (8.0MB-96MB-520MB/6.4MB-93MB-515MB over 8)
+          Service Rs: 0.00%
+            Receiver: 0.42% (2.6MB-2.6MB-2.6MB/1.4MB-1.4MB-1.4MB over 1)
+            (Cached): 0.02%
+      * se.sensiblethings.app.chitchato.chitchato_services.PlatformManagerNode:
+        Process: se.sensiblethings.app
+            Running count 18 / time 43%
+            Started count 18 / time 43%
+              Bound count 10 / time 28%
+          Executing count 201 / time 0.07%
+
+Summary:
+  * se.sensiblethings.app / u0a258:
+           TOTAL: 56% (6.9MB-161MB-380MB/5.5MB-151MB-376MB over 23)
+             Top: 8.3% (18MB-181MB-380MB/16MB-170MB-376MB over 14)
+         Service: 47% (6.9MB-130MB-220MB/5.5MB-121MB-213MB over 9)
+      Service Rs: 0.00%
+        Receiver: 0.00%
+  * se.sensiblethings.app / u0a259:
+           TOTAL: 43% (2.6MB-182MB-543MB/1.4MB-172MB-539MB over 43)
+             Top: 24% (18MB-207MB-543MB/16MB-196MB-539MB over 34)
+          Imp Fg: 0.01%
+         Service: 19% (8.0MB-96MB-520MB/6.4MB-93MB-515MB over 8)
+      Service Rs: 0.00%
+        Receiver: 0.42% (2.6MB-2.6MB-2.6MB/1.4MB-1.4MB-1.4MB over 1)
+        (Cached): 0.02%
+
+Run time Stats:
+  SOff/Norm: +54s187ms
+  SOn /Norm: +4h16m38s57ms
+      TOTAL: +4h17m32s244ms
+
+          Start time: 2017-02-07 14:14:36
+  Total elapsed time: +4h18m19s953ms (partial) libdvm.so chromeview
+
+CURRENT STATS:
+Per-Package Stats:
+  * se.sensiblethings.app / u0a259:
+      * se.sensiblethings.app / u0a259:
+               TOTAL: 98% (2.6MB-221MB-543MB/1.4MB-214MB-539MB over 25)
+                 Top: 36% (18MB-280MB-543MB/16MB-271MB-539MB over 17)
+              Imp Fg: 0.03%
+             Service: 61% (8.0MB-108MB-520MB/6.5MB-105MB-515MB over 7)
+          Service Rs: 0.00%
+            Receiver: 1.4% (2.6MB-2.6MB-2.6MB/1.4MB-1.4MB-1.4MB over 1)
+            (Cached): 0.07%
+      * se.sensiblethings.app.chitchato.chitchato_services.PlatformManagerNode:
+        Process: se.sensiblethings.app
+            Running count 13 / time 97%
+            Started count 13 / time 97%
+              Bound count 7 / time 51%
+          Executing count 132 / time 0.14%
+
+Summary:
+  * se.sensiblethings.app / u0a259:
+           TOTAL: 98% (2.6MB-221MB-543MB/1.4MB-214MB-539MB over 25)
+             Top: 36% (18MB-280MB-543MB/16MB-271MB-539MB over 17)
+          Imp Fg: 0.03%
+         Service: 61% (8.0MB-108MB-520MB/6.5MB-105MB-515MB over 7)
+      Service Rs: 0.00%
+        Receiver: 1.4% (2.6MB-2.6MB-2.6MB/1.4MB-1.4MB-1.4MB over 1)
+        (Cached): 0.07%
+
+Run time Stats:
+  SOff/Norm: +54s187ms
+  SOn /Norm: +1h16m24s740ms (running)
+      TOTAL: +1h17m18s927ms
+
+          Start time: 2017-02-07 17:15:02
+  Total elapsed time: +1h17m53s890ms (partial) libdvm.so chromeview

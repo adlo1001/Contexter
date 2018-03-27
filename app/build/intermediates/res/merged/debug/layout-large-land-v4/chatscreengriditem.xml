@@ -1,0 +1,289 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/rectangletv_3"
+    android:orientation="vertical"
+    >
+
+    <LinearLayout
+        android:id="@+id/linear_grditem_4"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rectangletv_3"
+        android:minHeight="100dip"
+        android:orientation="horizontal"
+        android:paddingBottom="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="2dp"
+        tools:context=".MainActivity" >
+
+        <LinearLayout
+            android:id="@+id/imageView_lo_"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_gravity="top"
+            android:layout_weight="0.8"
+            android:background="@drawable/rectangletv_3"
+            android:gravity="top|center"
+            android:orientation="vertical"
+            android:paddingLeft="2dp"
+            android:paddingRight="2dp" >
+
+            <ImageView
+                android:id="@+id/imageView_grditem_1"
+                android:layout_width="40dip"
+                android:layout_height="40dip"
+                android:adjustViewBounds="true"
+                android:minHeight="40dip"
+                android:minWidth="40dip"
+                android:paddingBottom="2dp"
+                android:paddingLeft="2dp"
+                android:paddingRight="2dp"
+                android:paddingTop="2dp"
+                android:background="@drawable/rectangletv_2"
+                android:src="@drawable/profile_image" />
+
+            <TextView
+                android:id="@+id/tv_chat_screen_context_chatter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:lines="1"
+                android:maxLines="1"
+                android:scrollHorizontally="true"
+                android:text="Chitchater"
+                android:textColor="@color/chitchato_blue"
+                android:textSize="12sp" />
+        </LinearLayout>
+
+        <ScrollView
+            android:id="@+id/imageView_svo_"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center"
+            android:layout_weight="0.2"
+            android:background="@drawable/rectangletv_4"
+            android:gravity="right"
+            android:orientation="vertical"
+            android:paddingLeft="5dp"
+            android:paddingRight="0dp"
+            android:paddingTop="2dp" >
+
+            <LinearLayout
+                android:id="@+id/imageView_llo_"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="right"
+                android:orientation="vertical"
+                android:paddingLeft="5dp"
+                android:paddingRight="0dp"
+                android:paddingTop="2dp"
+                tools:context=".MainActivity" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.35"
+                    android:gravity="left"
+                    android:orientation="vertical"
+                    android:paddingRight="2dp"
+                    android:paddingTop="0dp"
+                    android:scrollbars="vertical" >
+
+                    <TextView
+                        android:id="@+id/editText_grditem_3"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center|left"
+                        android:hint=""
+                        android:textColor="@color/chitchato_mebratu_blue" >
+                    </TextView>
+
+                    <ImageView
+                        android:id="@+id/image_tosend_chat_screen"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:visibility="gone"
+                        android:layout_gravity="center|center_vertical"
+                        />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/imageView_llo_sub_item"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:gravity="left"
+                    android:orientation="horizontal"
+                    android:paddingRight="2dp"
+                    android:paddingTop="20dp" >
+
+                    <LinearLayout
+                        android:id="@+id/imageView_llo_sub_item_001"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="left"
+                        android:orientation="vertical"
+                        android:paddingRight="0dp"
+                        android:paddingTop="0dp" >
+
+                        <ImageView
+                            android:id="@+id/imageView_run"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="left"
+                            android:adjustViewBounds="true"
+                            android:paddingRight="30dip"
+                            android:scaleType="fitCenter"
+                             />
+
+                        <TextView
+                            android:id="@+id/tv_run"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="bottom|left"
+                            android:gravity="center|bottom"
+                            android:lines="1"
+                            android:maxLines="1"
+                            android:scrollHorizontally="true"
+                            android:text="--"
+                            android:textColor="@color/chitchato_border_color"
+                            android:textSize="10sp"
+                            android:textStyle="italic"
+                            android:typeface="monospace" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/imageView_llo_sub_item_002"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="left"
+                        android:orientation="vertical"
+                        android:paddingRight="0dp"
+                        android:paddingTop="0dp" >
+
+                        <ImageView
+                            android:id="@+id/imageView_thermo"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="left"
+                            android:adjustViewBounds="true"
+                            android:paddingRight="30dip"
+                            android:scaleType="fitCenter"
+                            />
+
+                        <TextView
+                            android:id="@+id/tv_thermo"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="bottom|left"
+                            android:gravity="center|bottom"
+                            android:lines="1"
+                            android:maxLines="1"
+                            android:scrollHorizontally="true"
+                            android:text="--"
+                            android:textColor="@color/chitchato_border_color"
+                            android:textSize="10sp"
+                            android:textStyle="italic"
+                            android:typeface="monospace" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/imageView_llo_sub_item_002"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="left"
+                        android:orientation="vertical"
+                        android:paddingRight="0dp"
+                        android:paddingTop="0dp" >
+
+                        <ImageView
+                            android:id="@+id/imageView_loud"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:adjustViewBounds="true"
+                            android:paddingRight="30dip"
+                            android:scaleType="fitCenter"
+                            />
+
+                        <TextView
+                            android:id="@+id/tv_loud"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="bottom|left"
+                            android:gravity="center|bottom"
+                            android:lines="1"
+                            android:maxLines="1"
+                            android:scrollHorizontally="true"
+                            android:text="--"
+                            android:textColor="@color/chitchato_border_color"
+                            android:textSize="10sp"
+                            android:textStyle="italic"
+                            android:typeface="monospace" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/imageView_llo_sub_item_002"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="left"
+                        android:orientation="vertical"
+                        android:paddingRight="0dp"
+                        android:paddingTop="0dp" >
+
+                        <ImageView
+                            android:id="@+id/imageView_location"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:adjustViewBounds="true"
+                            android:scaleType="fitCenter"
+                             />
+
+                        <TextView
+                            android:id="@+id/tv_location"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="bottom|left"
+                            android:gravity="center|bottom"
+                            android:lines="1"
+                            android:maxLines="1"
+                            android:scrollHorizontally="true"
+                            android:text="--"
+                            android:textColor="@color/chitchato_border_color"
+                            android:textSize="10sp"
+                            android:textStyle="italic"
+                            android:typeface="monospace" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/imageView_llo_sub_item_"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_gravity="bottom|left"
+                    android:layout_weight="0.65"
+                    android:gravity="left"
+                    android:paddingRight="2dp"
+                    android:paddingTop="20dp" >
+
+                    <TextView
+                        android:id="@+id/tv_chat_screen_context_chat_time"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_gravity="bottom|left"
+                        android:gravity="center|bottom"
+                        android:lines="1"
+                        android:maxLines="1"
+                        android:paddingLeft="10dip"
+                        android:scrollHorizontally="true"
+                        android:text=""
+                        android:textColor="@color/chitchato_border_color"
+                        android:textSize="10sp"
+                        android:textStyle="italic"
+                        android:typeface="monospace" />
+                </LinearLayout>
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+
+</LinearLayout>

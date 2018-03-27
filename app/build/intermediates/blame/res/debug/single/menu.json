@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\menu\\contact_detail_menu.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\menu\\contact_detail_menu.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\menu\\chatscreen.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\menu\\chatscreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\menu\\chatscreen.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\menu\\chatscreen.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\menu\\contact_detail_menu.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\menu\\contact_detail_menu.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\ChitChato\\app\\build\\intermediates\\res\\merged\\debug\\menu\\contact_list_menu.xml",
+        "source": "D:\\A d d i s\\ChitChato\\app\\src\\main\\res\\menu\\contact_list_menu.xml"
+    },
+    {
+        "merged": "D:\\A d d i s\\Contexter\\app\\build\\intermediates\\res\\merged\\debug\\menu\\contact_list_menu.xml",
+        "source": "D:\\A d d i s\\Contexter\\app\\src\\main\\res\\menu\\contact_list_menu.xml"
+    }
+]

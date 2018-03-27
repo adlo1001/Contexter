@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center|top"
+    android:orientation="horizontal"
+    android:paddingRight="0dp" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingRight="2dp"
+        android:paddingTop="0dp" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center"
+            android:layout_weight="0.65"
+            android:orientation="horizontal"
+            android:paddingRight="2dp"
+            android:paddingTop="0dp" >
+
+            <TextView
+                android:id="@+id/choices_btn"
+                android:layout_width="80dip"
+                android:layout_height="80dip"
+                android:layout_gravity="center"
+                android:background="@drawable/circlebtn_blue"
+                android:enabled="true"
+                android:gravity="center"
+                android:text="none"
+                android:textColor="@color/white_overlay" />
+
+            <Button
+                android:id="@+id/choices_btn_concentric"
+                android:layout_width="60dip"
+                android:layout_height="60dip"
+                android:layout_gravity="center"
+                android:background="@drawable/button_custom_circle"
+                android:enabled="true"
+                android:gravity="center"
+                android:lines="1"
+                android:maxLines="1"
+                android:textSize="40sp"
+                android:textColor="@color/chitchato_border_color"
+                android:translationX="-70dip"
+                android:translationY="0dip" />
+
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.65"
+            android:paddingRight="2dp"
+            android:paddingTop="0dp" >
+
+            <TextView
+                android:id="@+id/tv_choices_sub_item"
+                android:layout_width="80dip"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:maxLines="2"
+                android:minLines="2"
+                android:text="subitem"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/chitchato_mebratu_blue" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

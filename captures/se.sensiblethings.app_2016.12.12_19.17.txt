@@ -1,0 +1,13 @@
+Applications Graphics Acceleration Info:
+Uptime: 3167535 Realtime: 3167530
+
+** Graphics info for pid 17133 [se.sensiblethings.app] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+

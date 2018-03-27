@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="draw_graph_view">
+        <attr name="min_value" format="string" />
+        <attr name="max_value" format="string" />
+        <attr name="value_one" format="string" />
+        <attr name="value_two" format="string" />
+        <attr name="value_three" format="string" />
+        <attr name="value_four" format="string" />
+        <attr name="value_five" format="string" />
+        <attr name="value_six" format="string" />
+        <attr name="value_seven" format="string" />
+        <attr name="value_eight" format="string" />
+        <attr name="value_nine" format="string" />
+        <attr name="value_ten" format="string" />
+        <attr name="month" format="string" />
+        <attr name= "windowActionBar" format="boolean"/>
+        <attr name="windowNoTitle" format="boolean"/>
+    </declare-styleable>
+
+</resources>

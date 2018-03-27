@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- #########################Spanish ####################### -->
+    <string name="language_sp">Idioma</string>
+    <string name="action_chitchato_sp">Contexter</string>
+    <string name="action_search_sp">Buscar</string>
+    <string name="action_create_sp">Crear</string>
+    <string name="action_settings_sp">Ajustes</string>
+    <string name="action_register_sp">Registro</string>
+    <string name="action_language_sp">Idioma</string>
+    <string name="action_add_bootstrap_sp">AÃ±adir Bootstrap</string>
+    <string name="action_bootstrap_sp">Bootstrap</string>
+    <string name="action_bootstrap_ip_sp">Bootstrap IP:</string>
+    <string name="action_sense_sp">Sense</string>
+    <string name="action_devices_sp">Dispositivos para el Control</string>
+    <string name="action_more_sp">MÃ¡s</string>
+    <string name="action_about_sp">Sobre </string>
+    <string name="action_help_sp">Ayuda</string>
+    <string name="get_online_sp">Online_sp</string>
+    <string name="get_offline_sp">Desconectado </string>
+    <string name="lv_button_sp">default_sp</string>
+    <string name="done_sp">Done_sp</string>
+    <string name="exit_sp">Salida</string>
+    <string name="action_acceleration_sp">Motion</string>
+    <string name="action_limunosity_sp">Luminosidad</string>
+    <string name="action_sound_sp">Sonido</string>
+    <string name="action_location_sp">UbicaciÃ³n</string>
+    <string name="control_sp">\n M 2 M \nControlar</string>
+    <string name="hint_enter_txt_sp">introduzca el texto</string>
+    <string name="hint_enter_group_name_sp">Nombre del Grupo</string>
+    <string name="hint_enter_group_nickname_sp">Apodo</string>
+    <string name="hint_enter_group_interest_sp">InterÃ©s</string>
+    <string name="hint_enter_group_age_limit_sp">LÃ­mite de edad</string>
+    <string name="hint_enter_group_leader_sp">Lider</string>
+    <string name="hint_enter_group_password_sp">ContraseÃ±a</string>
+    <string name="hint_enter_group_vicinity_sp">Vecindad</string>
+    <string name="enter_profile_pic_sp">Introduzca Foto de Perfil</string>
+    <string name="create_group_sp">Crear Grupos</string>
+    <string name="pr_chat_tv_sp">Privado</string>
+    <string name="private_chat_sp"> Private</string>
+    <string name="search_group_sp">Buscar Grupos</string>
+    <string name="tap_here_to_add_image_sp">Toque aqui para adicionar uma imagem</string>
+    <string name="action_adv_group_sp">Grupos Publicidad</string>
+    <string name="social_sp">Social</string>
+
+
+    <string name="action_advanced_sp">Purga</string>
+    <string name="action_sensor_sp">Sensores</string>
+    <string name="action_debug_sp">Debug</string>
+
+    <!-- Dialog Messages English -->
+    <string name="busy_sp">busy</string>
+    <string name="opening_chat_msgs_sp">Apertura de mensajes</string>
+
+    <!-- Other Messages English -->
+    <string name="busy__sp">busy</string>
+    <string name="opening_chat_msgs__sp">Opening Messages</string>
+    <string name="service_not_available_sp">Servicio no disponible</string>
+    <string name="invalid_lat_long_used_sp">Locación invalida</string>
+    <string name="no_address_found_sp">No se encontró dirección</string>
+    <string name="address_found_sp">Dirección encontrada</string>
+
+    <!-- Other Messages Swedish -->
+    <string name="Welcome_tv_sp">Bienvenido a Contextos</string>
+    <string name="ordinary_chat_text_sp"> Texting</string>
+    <string name="context_chat_text_sp"> conTexting</string>
+    <string name="send_btn_sp">Siguiente</string>
+    <string name="menu_tv_sp">Menú</string>
+
+    <string-array name="languages_sp">
+        <item>English</item>
+        <item>Svenska</item>
+        <item>Español</item>
+        <item>Portugueses</item>
+        <item>Français</item>
+    </string-array>
+
+    <string-array name="help_container_sp">
+        <item>Sugerencia</item>
+        <item>Asistencia </item>
+        <item>Términos </item>
+        <item>Política </item>
+        <item>Privilegio</item>
+        <item>Social</item>
+    </string-array>
+
+
+    <string-array name="menu_array_sp">
+        <item>Context  </item>
+        <item>Grupo</item>
+        <item>UCI</item>
+        <item>Buscar</item>
+        <item>Idioma</item>
+        <item>Ayudar</item>
+        <item>Acerca de</item>
+        <item>Dejar de</item>
+        >
+    </string-array>
+
+    <string-array name="settings_sp">
+        <item>Compra Crédito</item>
+        <item>Añadir Bootstrap</item>
+        <item>Añadir UCI</item>
+        <item>Añadir dispositivo</item>
+        <item>Intimidad</item>
+        <item>Notificaciones</item>
+        <item>Mensajes</item>
+        <item>Bootstrapper</item>
+        <item>Grupos</item>
+        <item>Archivos </item>
+    </string-array>
+
+    <string name="send_btn_sp_">Enviar</string>
+
+
+    <!-- Search Results -->
+    <string name="search_results_tv_sp">Resultados de la bÃºsqueda</string>
+    <string name="add_to_favorite_groups_sp">Añadir a Grupos Favoritos</string>
+
+
+    <!-- Notification Messages -->
+    <string name="notification_one_sp">Es necesario registrarse primero</string>
+    <string name="notification_two_sp">Compruebe la conexión.</string>
+    <string name="notification_three_sp">Por favor, grupos de búsqueda y de importación En primer lugar! No hay grupos en la lista de grupos favoritos.</string>
+    <string name="notification_four_sp">Se encontró un error mientras se registra. Pruebe con diferente nombre del grupo!</string>
+    <string name="notification_five_sp">¡Éxito! Fecha de creación.</string>
+    <string name="notification_six_sp">Lo sentimos, no se crea Grupo..</string>
+    <string name="notification_seven_sp">Lo sentimos, el registro no exitosa.</string>
+    <!--  -->
+
+    <string name="help_text_1_sp"> ¿Qué es Contexto\n</string>
+    <string name="help_text_2_sp"> ¿Cuál es la diferencia entre los dos modos \n</string>
+    <string name="help_text_3_sp"> ¿Cómo crear un grupo \n</string>
+    <string name="help_text_4_sp"> Únete a un grupo \n</string>
+    <string name="help_text_5_sp"> ¿Cómo mantenerse anónimo y mantener su privacidad? \n</string>
+
+
+    <!-- Purge -->
+    <string name="purge_tv_sp"> Purga</string>
+    <string name="purge_tv_1_sp"> Elimine Todos Los Archivos</string>
+    <string name="purge_tv_2_sp">Eliminar archivos relacionados con Creados grupos</string>
+    <string name="purge_tv_3_sp">Elimine Todos Los Archivos</string>
+    <string name="purge_tv_4_sp">Purgar todos los archivos de usuario de Context</string>
+
+    <string name="help_text_1_1_sp"> Context is any information about the immediate environment in which an object is located. If an object by some means gets any useful information about its immediate environment and able to provide that information for farther data processing then that Object is said to be context aware.
+                    A system is context-aware if it uses context to provide relevant information and/or services to the user, where relevancy depends on the user\'s task. "Therefore, Context-aware application is an application which provides services to the users based on current context of the computing device and surrounding environments.</string>
+    <string name="help_text_2_1_sp">        Los mensajes de texto no son más que mensajes de texto. Otros compañeros no pueden leer otra información de contexto. A diferencia de Texting, conTexting permite a otros amigos
+         Leer datos de sensores y otras fuentes sobre usted.</string>
+    <string name="help_text_3_1_sp">Crear un grupo propio es tan fácil como registrarse en un grupo existente. Ingrese su información para que la gente pueda encontrarle fácilmente.
+                                  \n</string>
+    <string name="help_text_4_1_sp">Para unirse a un grupo, debe importar los grupos a su dispositivo. Busca grupos y agrégalos a tu lista de favoritos. Una vez que haya importado a su dispositivo, únase a los grupos. Puedes unirte a tantos grupos como quieras.
+                                  \n</string>
+    <string name="help_text_5_1_sp">Para mantener su información contextual a sí mismo, debe usar Texting.
+                                 \n</string>
+
+    <string name="about_text_sp">Contexter 1.0.2 \n
+     Copyright 2016 Estudio 12Stars. Todos los derechos reservados. \n \n
+     Contexter se basa en la plataforma de código abierto: \n
+     Plataforma de MediaSense \n \n \n
+     Contexter es la Aplicación IoT distribuida entre plataformas. Contexter permite la intercomunicación entre los pueblos, las máquinas y ambos. Envíe mensajes instantáneos y fotos gratis. Anuncie su interés, su grupo y sus ventas de forma gratuita. Mire su entorno inteligente. \n Controla los dispositivos de mantenimiento en casa. \n
+     \n Para más información visite www.contexter.mobi \n
+    </string>
+    <string name="extra_settings_sp">
+      Nota: Los anuncios gratuitos son limitados. \ N Para anunciar ilimitado generar un código.
+    </string>
+
+    <string name="tips_text_sp">
+        Comenzar con:> \n
+        1. Añadir bootstrap o iniciar como bootstrap
+        2. Grupos de búsqueda en la cuadrícula \n menú \'Grupos de búsqueda \' \n
+        3. Importe sus grupos favoritos. \n
+        4. Registrar UCI \n
+        5. Hecho!. \n
+        6. Estás dentro de Contexter. \n
+         Cómo funciona:
+Para más visita www.contexter.mobi
+    </string>
+
+
+    <!-- My Profile -->
+    <string name="refresh_sp">Refrescar</string>
+    <string name="update_sp"> Refrescar  </string>
+    <string name="name_sp"> Nombre</string>
+    <string name="nick_sp"> Apodo</string>
+    <string name="sex_sp"> Sexo</string>
+    <string name="age_sp"> Edad</string>
+    <string name="portfolio_sp"> Porfolio</string>
+    <string name="my_profile_sp">Perfil</string>
+    <string name="picture_gallery_sp">GalerÃ­a de imÃ¡genes</string>
+    <string name="delete_groups_sp"> Eliminar grupos de Contexter </string>
+    <string name="remove_sp"> Eliminar Archivos de Contexter</string>
+    <string name="delete_sp">Borrar</string>
+
+
+    <!-- Error -->
+    <string name="error_sp">Error</string>
+
+    <!-- Contacts Page Strings...-->
+    <string name="activity_contacts_list_sp">Lista de contactos</string>
+    <string name="activity_contact_detail_sp">Detalles del Contacto</string>
+    <string name="contacts_list_search_results_title_sp">Búsqueda de la lista de contactos \"%s\"</string>
+    <string name="app_description_sp">This is a sample app, demonstrating use of the Android system Contacts Provider.</string>
+    <string name="imageview_description_sp">Contactar con Thumbnail</string>
+    <string name="address_button_description_sp">Ver dirección</string>
+    <string name="menu_search_sp">Buscar</string>
+    <string name="menu_add_contact_sp">Agregar contacto</string>
+    <string name="menu_edit_contact_sp">Editar contacto</string>
+    <string name="no_contacts_sp">No se han encontrado contactos</string>
+    <string name="no_contact_selected_sp">No Hay Contacto Seleccionado</string>
+    <string name="search_hint_sp">Find contacts</string>
+    <string name="search_match_other_sp">Otros campos</string>
+    <string name="no_address_sp">No utilizar el Contexter</string>
+    <string name="no_intent_found_sp">No se ha encontrado ninguna aplicación para manejar esta acción</string>
+
+    <!-- Other Strings-->
+    <string name="no_valid_working_bs_ip_sp">No hay IP de Bootstrap válido o en funcionamiento</string>
+    <string name="string_dialog_one_0_sp">¿Quieres dejar esto?</string>
+    <string name="string_dialog_one_0_0_sp"> SÍ </string>
+    <string name="string_dialog_one_0_1_sp"> NO </string>
+    <string name="string_dialog_one_1_sp"> ¡Prueba otro Bootstrap! Problema para iniciar la plataforma</string>
+    <string name="string_dialog_one_3_sp"> Aceptamos BitCoins. Obtenga una cuenta gratis en CoinBase</string>
+    <string name="string_dialog_one_2_sp"> Publicidad Grupo: </string>
+
+    <string name="string_dialog_one_4_0_sp"> Toque en su grupo favorito para ir al público</string>
+    <string name="string_dialog_one_4_1_sp"> Toque-Long su grupo favorito para ir privado</string>
+
+
+    <string name="string_dialog_one_5_0_sp"> Toque a su amigo para enviar mensajes</string>
+    <string name="string_dialog_one_5_1_sp"> Toque largo su amigo para hacer una llamada</string>
+
+    <string name="string_dialog_one_6_sp"> ¿Quieres abrir Anuncios?</string>
+    <string name="string_dialog_one_7_sp"> Esta versión no es compatible con la voz. </string>
+    <string name="string_dialog_one_8_sp"> Contexto local posible. Necesita agregar bootstraps públicos. </string>
+    <string name="string_dialog_one_9_sp">      Borrar mensaje ?       </string>
+    <string name="string_dialog_one_10_sp">    Grupos no encontrados. Importe o cree grupos.   </string>
+    <string name="string_dialog_one_11_sp"> ¿Quieres abrir Anuncios? </string>
+    <string name="string_dialog_one_11_0_sp"> Siguiente</string>
+    <string name="string_dialog_one_11_1_sp"> Cancelar</string>
+
+
+    <string name="string_main_one_0_sp">¡Algo salió mal con el modo privado! Puedes ir privado si tienes amigos</string>
+    <string name="string_main_one_1_sp">¡Opción inválida! Elija su grupo. </string>
+    <string name="string_main_one_2_sp">UCI no válido! Mensaje no entregado.</string>
+    <string name="string_main_one_3_sp">Se ha producido un error en la plataforma. \n Intenta enviar de nuevo el mensaje</string>
+    <string name="string_main_one_4_sp">Contexter necesita conexión. \n Mensaje no enviado \n No se puede acceder a la Plataforma</string>
+    <string name="string_main_one_5_sp">NOTA: Los mensajes se van a reciclar después de </string>
+    <string name="string_main_one_6_sp">Tamaño de imagen demasiado grande. Debe ser 1 MB máximo.</string>
+    <string name="string_main_one_7_sp">Posible contextualización local. \nAñadir bootstraps públicos para ampliar tu mundo. </string>
+    <string name="string_main_one_8_sp">MediaSense no se está ejecutando. \nTrate de otro bootstrap para embarcarse en la Plataforma. </string>
+    <string name="string_main_one_8_1_sp">MediaSense is running.</string>
+
+    <string name="string_main_one_9_sp"> # Servicio desconectado # </string>
+    <string name="string_main_one_10_sp">Grupos no importados. Importar grupos</string>
+    <string name="string_main_one_11_sp">Únete al grupo. \nEnvío del registro UCI</string>
+    <string name="string_main_one_12_sp">¡Algo salió mal con el modo privado! Puedes ir privado si tienes amigos</string>
+    <string name="string_main_one_13_sp">Contexter necesita bootstrap. \nAñadir IP de arranque para iniciar MediaSense.</string>
+    <string name="string_main_one_13_0_sp">~ Bienvenido ~ Puede empezar a enviar mensajes!</string>
+
+    <string name="string_create_group_one_0_sp">Error encontrado - No se puede cargar el grupo</string>
+    <string name="string_create_group_one_1_sp">¡Felicitaciones! \ NGrupo creado con éxito!</string>
+    <string name="string_create_group_one_2_sp">Nombre de grupo no válido!</string>
+    <string name="string_create_group_one_3_sp">Interés de grupo no válido!</string>
+    <string name="string_create_group_one_4_sp">Límite de edad no válido!</string>
+    <string name="string_create_group_one_5_sp">Nombre del líder del grupo No válido!</string>
+    <string name="string_create_group_one_6_sp">¡Inválido! Añadir [M F o NA]</string>
+    <string name="string_create_group_one_7_sp">¡Enhorabuena! \nGrupo actualizado con éxito!</string>
+    <string name="string_create_group_one_8_sp">¡Enhorabuena! \nGrupo eliminado correctamente!</string>
+    <string name="string_create_group_one_9_sp">¡Error! Fallo en la carga de la imagen de perfil</string>
+    <string name="string_create_group_one_10_sp">Agregar nombre de grupo</string>
+    <string name="string_create_group_two_0_sp">Oops ... Groups cant open.</string>
+
+    <string name="string_group_0_sp">Nuevo Grupo</string>
+    <string name="string_group_1_sp">Grupo de actualización</string>
+    <string name="string_group_2_sp">Eliminar grupo</string>
+    <string name="string_group_3_sp">Ver grupo</string>
+
+
+    <string name="string_register_one_0_sp">Join Request Delivered.</string>
+    <string name="string_register_one_1_sp">Oops .. Invalid Nickname! Use single word</string>
+    <string name="string_register_one_2_sp">Oops .. Invalid Age Value!</string>
+    <string name="string_register_one_3_sp">Oops .. Something Went wrong!</string>
+
+
+    <string name="string_search_one_0_sp">Invalid Search Key!  Empty  not allowed. </string>
+    <string name="string_search_one_1_sp">La plataforma no se ha iniciado. ¡Prueba otro Bootstrap!</string>
+    <string name="string_search_one_2_sp">Contexter precisa de conexão.Plataforma não iniciada      </string>
+
+    <string name="string_more_extra_0_sp">Silent</string>
+    <string name="string_more_extra_1_sp">No Vibrations</string>
+    <string name="string_more_extra_2_sp">Sem padrões de fundo</string>
+    <string name="string_more_extra_3_sp">Sem sussurro</string>
+    <string name="string_more_extra_4_sp">Não Notificar</string>
+    <string name="string_more_extra_5_sp">Tem descontos em vários itens</string>
+    <string name="string_more_bst_sp">1 Bootstrap público. Toca para ver</string>
+    <string name="string_more_sp">Desconocido Peer</string>
+    <string name="sensor_readings_sp">Valores del sensor</string>
+    <string name="contexter_readings_sp">Contexter Valores</string>
+    <string name="all_cleints_sp">Todos los compañeros</string>
+
+    <string name="advanced_search_sp">Avanzado</string>
+    <string name="public_msg_sp">Mensaje Público</string>
+    <string name="private_msg_sp">Mensaje privado</string>
+
+    <string name="string_group_container_0_sp">nuevo Grupo</string>
+    <string name="string_group_container_1_sp">actualización</string>
+    <string name="string_group_container_2_sp"> eliminar </string>
+    <string name="string_group_container_3_sp"> Ver</string>
+    <string name="string_choices_one_0_sp"> Just a moment!  SensibleThings platform is starting.</string>
+    <string name="string_more_one_0_sp">Note: We accept BitCoins. Get account for free at CoinBase."</string>
+
+</resources>

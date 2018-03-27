@@ -1,0 +1,343 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white_overlay"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/black_overlay"
+        android:orientation="vertical"
+        tools:context=".MainActivity" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.8"
+            android:background="@color/chitchato_limon"
+            android:orientation="horizontal"
+            android:paddingBottom="2dp"
+            android:paddingLeft="0dp"
+            android:paddingRight="0dp"
+            android:paddingTop="0dp" >
+
+            <TextView
+                android:id="@+id/tv_empty_bar_aboutscreen"
+                android:layout_width="fill_parent"
+                android:layout_height="40dip"
+                android:background="@color/chitchato_yellow"
+                android:gravity="center"
+                android:text="About"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/white_overlay"
+                android:textSize="25sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linear1"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.2"
+            android:background="@color/white_overlay"
+            android:orientation="vertical"
+            android:paddingBottom="2dp"
+            android:paddingTop="2dp"
+            tools:context=".MainActivity" >
+
+            <LinearLayout
+                android:id="@+id/linear1_1_________________"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.1"
+                android:background="@color/white_overlay"
+                android:orientation="horizontal"
+                android:paddingBottom="2dp"
+                android:paddingLeft="15dp"
+                android:paddingTop="2dp"
+                tools:context=".MainActivity" >
+
+                <LinearLayout
+                    android:id="@+id/linear2________________________"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.35"
+                    android:background="@color/white_overlay"
+                    android:gravity="left"
+                    android:paddingBottom="10dp"
+                    android:paddingRight="10dp"
+                    android:paddingTop="10dp"
+                    android:scrollbarAlwaysDrawVerticalTrack="true"
+                    android:scrollbarStyle="outsideOverlay"
+                    android:scrollbars="vertical|horizontal"
+                    android:showDividers="none|beginning|middle|end" >
+
+                    <EditText
+                        android:id="@+id/edt_about_box"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/rectangletv_3"
+                        android:clickable="false"
+                        android:editable="false"
+                        android:ems="0"
+                        android:gravity="top|left"
+                        android:inputType="none"
+                        android:text="@string/about_text_en"
+                        android:textAlignment="gravity"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="@color/chitchato_mebratu_blue" >
+
+                        <requestFocus />
+                    </EditText>
+                </LinearLayout>
+            </LinearLayout>
+
+            <ScrollView
+                android:id="@+id/scrollView_"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.2"
+                android:background="@color/black_overlay" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@color/black_overlay"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="0.9"
+                        android:background="@color/chitchato_limon"
+                        android:orientation="horizontal"
+                        android:paddingBottom="2dp"
+                        android:paddingLeft="0dp"
+                        android:paddingRight="0dp"
+                        android:paddingTop="10dp" >
+
+                        <TextView
+                            android:id="@+id/tv_empty_bar_helpscreen"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:background="@color/chitchato_yellow"
+                            android:gravity="center"
+                            android:text="    ________________    "
+                            android:textColor="@color/white_overlay"
+                            android:textSize ="14dp" >
+                        </TextView>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/linear1__________________"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="0.1"
+                        android:background="@color/cust_color_1"
+                        android:orientation="vertical"
+                        android:paddingBottom="2dp"
+                        android:paddingTop="2dp"
+                        android:scrollbarAlwaysDrawVerticalTrack="true"
+                        android:scrollbarStyle="insideOverlay"
+                        android:scrollbars="vertical"
+                        tools:context=".MainActivity" >
+
+                        <LinearLayout
+                            android:id="@+id/linear1_1"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:layout_weight="0.1"
+                            android:background="@color/cust_color_1"
+                            android:orientation="horizontal"
+                            android:paddingBottom="2dp"
+                            android:paddingLeft="15dp"
+                            android:paddingTop="2dp"
+                            tools:context=".MainActivity" >
+
+                            <LinearLayout
+                                android:id="@+id/linear2"
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:background="@color/cust_color_1"
+                                android:gravity="left"
+                                android:orientation="vertical"
+                                android:paddingBottom="10dp"
+                                android:paddingRight="10dp"
+                                android:paddingTop="10dp"
+                                android:scrollbarAlwaysDrawVerticalTrack="true"
+                                android:scrollbarStyle="outsideOverlay"
+                                android:scrollbars="vertical|horizontal"
+                                android:showDividers="none|beginning|middle|end" >
+
+                                <EditText
+                                    android:id="@+id/edt_help_box_1"
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:background="@drawable/rectangletv_3"
+                                    android:clickable="false"
+                                    android:editable="false"
+                                    android:ems="10"
+                                    android:gravity="left|center"
+                                    android:inputType="none"
+                                    android:text="@string/help_text_1_en"
+                                    android:textAppearance="?android:attr/textAppearanceMedium"
+                                    android:textColor="@color/chitchato_mebratu_blue" >
+
+
+                                </EditText>
+
+                                <EditText
+                                    android:id="@+id/edt_help_box_1_1"
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:clickable="false"
+                                    android:editable="false"
+                                    android:ems="10"
+                                    android:gravity="top|left"
+                                    android:inputType="none"
+                                    android:text="@string/help_text_1_1_en"
+                                    android:textAppearance="?android:attr/textAppearanceMedium"
+                                    android:textColor="@color/chitchato_mebratu_blue" >
+
+
+                                </EditText>
+
+                                <EditText
+                                    android:id="@+id/edt_help_box_2"
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:background="@drawable/rectangletv_3"
+                                    android:clickable="false"
+                                    android:editable="false"
+                                    android:ems="10"
+                                    android:gravity="top|left"
+                                    android:inputType="none"
+                                    android:text="@string/help_text_2_en"
+                                    android:textAppearance="?android:attr/textAppearanceMedium"
+                                    android:textColor="@color/chitchato_mebratu_blue" >
+
+
+                                </EditText>
+
+                                <EditText
+                                    android:id="@+id/edt_help_box_2_1"
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:clickable="false"
+                                    android:editable="false"
+                                    android:ems="10"
+                                    android:gravity="top|left"
+                                    android:inputType="none"
+                                    android:text="@string/help_text_2_1_en"
+                                    android:textAppearance="?android:attr/textAppearanceMedium"
+                                    android:textColor="@color/chitchato_mebratu_blue" >
+
+
+                                </EditText>
+
+                                <EditText
+                                    android:id="@+id/edt_help_box_3"
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:background="@drawable/rectangletv_3"
+                                    android:clickable="false"
+                                    android:editable="false"
+                                    android:ems="10"
+                                    android:gravity="top|left"
+                                    android:inputType="none"
+                                    android:text="@string/help_text_3_en"
+                                    android:textAppearance="?android:attr/textAppearanceMedium"
+                                    android:textColor="@color/chitchato_mebratu_blue" >
+
+
+                                </EditText>
+
+                                <EditText
+                                    android:id="@+id/edt_help_box_3_1"
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:clickable="false"
+                                    android:editable="false"
+                                    android:ems="10"
+                                    android:gravity="top|left"
+                                    android:inputType="none"
+                                    android:text="@string/help_text_3_1_en"
+                                    android:textAppearance="?android:attr/textAppearanceMedium"
+                                    android:textColor="@color/chitchato_mebratu_blue" >
+
+
+                                </EditText>
+
+                                <EditText
+                                    android:id="@+id/edt_help_box_4"
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:background="@drawable/rectangletv_3"
+                                    android:clickable="false"
+                                    android:editable="false"
+                                    android:ems="10"
+                                    android:gravity="top|left"
+                                    android:inputType="none"
+                                    android:text="@string/help_text_4_en"
+                                    android:textAppearance="?android:attr/textAppearanceMedium"
+                                    android:textColor="@color/chitchato_mebratu_blue" >
+
+                                </EditText>
+
+                                <EditText
+                                    android:id="@+id/edt_help_box_4_1"
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:clickable="false"
+                                    android:editable="false"
+                                    android:ems="10"
+                                    android:gravity="top|left"
+                                    android:inputType="none"
+                                    android:text="@string/help_text_4_1_en"
+                                    android:textAppearance="?android:attr/textAppearanceMedium"
+                                    android:textColor="@color/chitchato_mebratu_blue" >
+
+
+                                </EditText>
+
+                                <EditText
+                                    android:id="@+id/edt_help_box_5"
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:background="@drawable/rectangletv_3"
+                                    android:clickable="false"
+                                    android:editable="false"
+                                    android:ems="10"
+                                    android:gravity="top|left"
+                                    android:inputType="none"
+                                    android:text="@string/help_text_5_en"
+                                    android:textAppearance="?android:attr/textAppearanceMedium"
+                                    android:textColor="@color/chitchato_mebratu_blue" >
+
+                                </EditText>
+
+                                <EditText
+                                    android:id="@+id/edt_help_box_5_1"
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:clickable="false"
+                                    android:editable="false"
+                                    android:ems="10"
+                                    android:gravity="top|left"
+                                    android:inputType="none"
+                                    android:text="@string/help_text_5_1_en"
+                                    android:textAppearance="?android:attr/textAppearanceMedium"
+                                    android:textColor="@color/chitchato_mebratu_blue" >
+                                </EditText>
+                            </LinearLayout>
+                        </LinearLayout>
+                    </LinearLayout>
+                </LinearLayout>
+
+            </ScrollView>
+
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

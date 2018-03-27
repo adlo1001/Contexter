@@ -1,0 +1,108 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black_overlay"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="0.9"
+        android:background="@color/chitchato_mebratu_cyan"
+        android:orientation="horizontal"
+        android:paddingBottom="2dp"
+        android:paddingLeft="0dp"
+        android:paddingRight="0dp"
+        android:paddingTop="10dp" >
+
+        <TextView
+            android:id="@+id/tv_delete_groups_title"
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:background="@color/chitchato_mebratu_cyan"
+            android:gravity="center_vertical|center"
+            android:text="Delete Groups"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/white_overlay" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linear1_delete_groups"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center"
+        android:layout_weight="0.1"
+        android:background="@color/background_color_1"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingBottom="0dp"
+        android:paddingTop="2dp" >
+
+        <LinearLayout
+            android:id="@+id/linear1_1_delete_groups"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.1"
+            android:background="@color/cust_color_1"
+            android:orientation="horizontal"
+            android:paddingBottom="2dp"
+            android:paddingLeft="30dp"
+            android:paddingRight="30dp"
+            android:paddingTop="2dp" >
+
+            <LinearLayout
+                android:id="@+id/linear3_delete_groups"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.75"
+                android:gravity="right"
+                android:paddingRight="2dp"
+                android:paddingTop="15dp" >
+
+                <ListView
+                    android:id="@+id/listView2_delete_Groups"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:background="@color/cust_color_1"
+                    android:divider="@color/background_color_1"
+                    android:dividerHeight="0.3dp"
+                    android:drawSelectorOnTop="true" >
+                </ListView>
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.9"
+            android:background="@color/background_color_1"
+            android:orientation="horizontal"
+            android:paddingBottom="0dp"
+
+            android:paddingTop="2dp" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="right"
+                android:background="@color/chitchato_mebratu_cyan"
+                android:orientation="horizontal"
+                android:paddingLeft="30dp"
+                android:paddingRight="15dp"
+                >
+
+                <Button
+                    android:id="@+id/button1_delete_group"
+                    style="?android:attr/borderlessButtonStyle"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:background="@drawable/button_custom"
+                    android:text="Remove"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/white_overlay" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

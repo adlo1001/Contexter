@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingBottom="5dip"
+    android:paddingTop="5dip" >
+
+    <LinearLayout
+        android:id="@+id/ll_check_box"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@color/cust_color_1"
+        android:orientation="horizontal"
+        android:paddingBottom="2dp"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:paddingTop="2dp" >
+
+        <TextView
+            android:id="@+id/tv_empty_checkbox"
+            android:layout_width="15dip"
+            android:layout_height="wrap_content"
+            android:paddingLeft="40dip"
+            android:text=""
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/chitchato_blue" />
+
+        <ImageView
+            android:id="@+id/lang_chat_radio"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:focusable="false"
+            android:src="@drawable/check_box"
+            android:text="test"
+            android:textColor="@color/chitchato_blue" />
+
+        <TextView
+            android:id="@+id/tv_lang_checkbox"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="40dip"
+            android:text="language_here"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/chitchato_mebratu_blue" />
+    </LinearLayout>
+
+</LinearLayout>

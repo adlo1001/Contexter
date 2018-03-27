@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- #########################English ####################### -->
+    <string name="action_advanced_am">አጥፋ</string>
+    <string name="action_sensor_am">ሴንስሮች</string>
+    <string name="action_debug_am">ዲብግ</string>
+
+    <!-- Help Container Messages English -->
+    <string name="tip_am">Tip</string>
+    <string name="support_am">Support</string>
+    <string name="terms_am">Terms</string>
+    <string name="policy_am">Policy</string>
+    <string name="copyright_am">Copyright</string>
+
+
+    <!-- Notification Messages -->
+    <string name="notification_one_am">መጀመሪያ መመዝገብ አለብህ! </string>
+    <string name="notification_two_am">በይነመረብ ግንኙነት ይመልከቱ!</string>
+    <string name="notification_three_am">በመጀመሪያ ቡድኖች ፈልግ እና አስመጣ ! የተወዳጅ ቡድኖች ዝርዝር ውስጥ ምንም ቡድኖች የሉም::</string>
+    <string name="notification_four_am">በመመዝገብ ላይ ሳለ ስህተት አጋጥሟል. የተለየ የቡድን ስም ይሞክሩ!</string>
+    <string name="notification_five_am">ስኬት! ቡድን ተፈጥሯል.</string>
+    <string name="notification_six_am">ይቅርታ, ቡድን አልተፈጠርም።</string>
+    <string name="notification_seven_am">ይቅርታ, ቡድን ምዝገባ ስኬታማ አይደለም።</string>
+
+    <!--  -->
+    <string name="help_text_1_am"> What is Context? \n</string>
+    <string name="help_text_2_am"> What is the difference between the two modes ? \n</string>
+    <string name="help_text_3_am"> How to Create a  Group ? \n</string>
+    <string name="help_text_4_am"> Join a Group \n</string>
+    <string name="help_text_5_am"> How to stay anonymous and keep your privacy? \n</string>
+    <string name="help_text_1_1_am"> Context is any information about the immediate environment in which an object is located. If an object by some means gets any useful information about its immediate environment and able to provide that information for farther data processing then that Object is said to be context aware.
+                    A system is context-aware if it uses context to provide relevant information and/or services to the user, where relevancy depends on the user\'s task. "Therefore, Context-aware application is an application which provides services to the users based on current context of the computing device and surrounding environments.</string>
+    <string name="help_text_2_1_am">        Texting is nothing but just Texting. Other peers cant read others context information. As opposed to the Texting, conTexting allows other friends to
+        read data from sensors and other sources about you .</string>
+    <string name="help_text_3_1_am">Creating a group of your own is as easy as registering to existing group.  Enter your information so that people can easily find you.
+                                  \n</string>
+    <string name="help_text_4_1_am">In order to Join a group you should import the groups to your device. Search groups and add them to your favorites list. Once you imported to your device join the groups. you can join as many groups as you would  like.
+                                  \n</string>
+    <string name="help_text_5_1_am">To keep your contextual information to yourself, you should use Texting.
+                                 \n</string>
+
+    <!-- #########################Amharic ####################### -->
+    <string name="language_am">አማርኛ</string>
+    <string name="action_chitchato_am">ኮንቴክስት </string>
+    <string name="action_search_am">ፈልግ</string>
+    <string name="action_create_am">ፈልግ</string>
+    <string name="action_settings_am">ቅንብሮች</string>
+    <string name="action_register_am">ተመዝገብ</string>
+    <string name="action_language_am">ቋንቋ</string>
+    <string name="action_bootstrap_am">ቡትስትራፕ </string>
+    <string name="action_add_bootstrap_am">ቡትስትራፕ አክል </string>
+    <string name="action_bootstrap_ip_am">ቡትስትራፕ  IP:</string>
+    <string name="action_sense_am">ሴንስ</string>
+    <string name="action_devices_am">መገልገያ ለመቆጣጠር</string>
+    <string name="action_about_am">ስለ ኮንቴክስተር </string>
+    <string name="action_help_am">እርዳታ</string>
+    <string name="action_more_am">ተጨማሪ</string>
+    <string name="get_online_am">መስመር ላይ</string>
+    <string name="get_offline_am">ከመስመር ውጭ</string>
+    <string name="lv_button_am">ነባሪ</string>
+    <string name="done_am">ፈፅም</string>
+    <string name="exit_am">ውጣ</string>
+    <string name="action_acceleration_am">ጥድፊያ</string>
+    <string name="action_limunosity_am">የብርሃን መጠን </string>
+    <string name="action_sound_am">ድምፅ</string>
+    <string name="action_location_am">መገኛ አካባቢ</string>
+    <string name="control_am">\n M 2 M \nመቆጣጠሪያ</string>
+    <string name="hint_enter_txt_am">እዚህ ፃፍ..</string>
+    <string name="hint_enter_group_nickname_am">ቅጽል ስም..</string>
+    <string name="hint_enter_group_name_am">ግሩፕ ስም..</string>
+    <string name="hint_enter_group_interest_am">ግሩፕ ዓላማ..</string>
+    <string name="hint_enter_group_age_limit_am">ዕድሜ</string>
+    <string name="hint_enter_group_leader_am">ግሩፕ መሪ..</string>
+    <string name="hint_enter_group_password_am">ግሩፕ ፓስዎርድ..</string>
+    <string name="hint_enter_group_vicinity_am">አካባቢ</string>
+    <string name="private_chat_am">ፕራይቬት ቻት</string>
+    <string name="search_group_am">ግሩፕ ፈልግ</string>
+    <string name="create_group_am">ግሩፕ ፈልግ</string>
+    <string name="enter_profile_pic_am">ምስል አስገባ</string>
+    <string name="tap_here_to_add_image_am">ምስል ለማከል እዚህ መታ አድርግ</string>
+    <string name="action_adv_group_am">ቡድኖች ያስተዋውቁ</string>
+    <string name="social_am">ማኅበራዊ</string>
+
+    <!-- Help Container Messages Portugese -->
+    <string-array name="help_container_am">
+        <item name="tip_am">ጠቃሚ ምክሮች</item>
+        <item name="support_am">እርዳታ</item>
+        <item name="terms_am">መመሪያው </item>
+        <item name="policy_am">ፖሊሲ</item>
+        <item name="copyright_am">የቅጂ መብት</item>
+        <item name="social_am">ማኅበራዊ</item>
+    </string-array>
+
+    <!-- Dialog Messages Amharic -->
+    <string name="busy_am">busy</string>
+    <string name="opening_chat_msgs_am">Opening Messages</string> <!-- Other Messages Amharic -->
+    <string name="busy__am">busy</string>
+    <string name="opening_chat_msgs__am">Opening Messages</string> <!-- Interfaces_am -->
+    <!-- Welcome -->
+    <string name="Welcome_tv_am"> እንኳን ወደ ኮንቴክስተር በደህና መጡ</string>
+    <string name="ordinary_chat_text_am"> Texting</string>
+    <string name="context_chat_text_am"> conTexting</string>
+    <string name="send_btn_am">ወደ ፊት ቀጥል</string>
+
+    <!-- Choices -->
+    <string name="Menu_tv_am">ሜኑ</string>
+    <!-- Main -->
+    <string name="send_btn_am_">ስደድ</string>
+    <string name="hint_tv_am_">እዚህ ጽሀፍ አስገባ</string>
+
+    <!-- Private -->
+    <string name="pr_chat_tv_am">ፕራይቬት ቻት</string>
+
+    <!-- Create -->
+    <string name="create_tv_group_name_am">የግሩፕ ስም</string>
+    <string name="create_tv_group_interest_am">የግሩፕ ፍላጎት</string>
+    <string name="create_tv_age_limit_am">የግሩፕ ዕድሜ ገደብ</string>
+    <string name="create_tv_team_leader_am">ግሩፕ መሪ ስም</string>
+
+    <!-- Register -->
+    <string name="register_nick_name_am">የኮንቴክስተር  ስም  </string>
+    <string name="register_tv_name_am">ስም</string>
+    <string name="register_tv_age_am">እድሜ</string>
+
+    <!-- Search Grgoup -->
+    <string name="search_tv_group_name_am">የግሩፕ ስም</string>
+    <string name="search_tv_group_interest_am">የግሩፕ ፍላጎት</string>
+    <string name="search_tv_age_limit_am">የግሩፕ ዕድሜ ገደብ</string>
+    <string name="search_tv_team_leader_am">ግሩፕ መሪ ስም</string>
+
+    <!-- Search Results -->
+    <string name="search_results_tv_am">የፍለጋ ውጤት</string>
+    <string name="add_to_favorite_groups_am">ወደ ቺት ቻት ግሩፕ ጨምር</string>
+
+    <!-- Language -->
+    <!-- Error -->
+    <string name="error_am">ችግር</string>
+
+    <!-- Help -->
+    <string name="help_tv_am">መርጃ</string>
+    <!-- About -->
+
+    <!-- My Profile -->
+
+    <string name="refresh_am">  አድስ</string>
+    <string name="update_am"> አዘምን</string>
+    <string name="name_am"> ስም</string>
+    <string name="nick_am"> ቅጽል</string>
+    <string name="sex_am"> ፆታ</string>
+    <string name="age_am"> ዕድሜ</string>
+    <string name="portfolio_am"> ፖርትፎሊዮ</string>
+    <string name="my_profile_am">ፕሮፋይል</string>
+    <string name="picture_gallery_am">ፎቶዎች</string>
+
+    <!-- Purge -->
+    <string name="purge_tv_am"> ፈይሎችህን አጥፋ</string>
+    <string name="purge_tv_1_am"> ሁሉንም ፈይሎችህን ከኮንቴክስተር ላይ አጥፋ</string>
+    <string name="purge_tv_2_am"> የፈጠርከውን ግሩፕ እና የተገናኙ ፋይሎችን አጥፋ</string>
+    <string name="purge_tv_3_am"> ምንም ሳታስቀር ፋይሎችህን አጥፋ</string>
+    <string name="purge_tv_4_am">ሁሉንም የተጠቃሚ ፋይሎች ከኮንቴክስተር ላይ አጥፋ </string>
+
+    <!-- Delete Groups -->
+    <string name="delete_groups_am"> ፈይሎችህን ከኮንቴክስተር ላይ አጥፋ</string>
+    <string name="remove_am"> ሁሉንም ፈይሎችህን ከኮንቴክስተር ላይ አጥፋ</string>
+    <string name="delete_am">አጥፋ</string>
+
+    <string-array name="languages_am">
+        <item>English_am</item>
+        <item>Svenska_am</item>
+        <item>Spanish_am</item>
+        <item>Portugese_am</item>
+        <item>French_am</item>
+        <item>አማርኛ_am</item>
+    </string-array>
+    <string-array name="settings_am">
+        <item>ክሬዲት ለመግዛት</item>
+        <item>ቡትስትራፕ አክል</item>
+        <item>UCI አክል</item>
+        <item>መገልገያ አክል</item>
+        <item>ግላዊነት</item>
+        <item>ማሳወቂያዎች</item>
+        <item>መልዕክቶች</item>
+        <item>ቡትስትራፕር </item>
+        <item>ቡድኖች</item>
+        <item> ነባሪዎች ለመመለስ</item>
+    </string-array>
+    <string-array name="menu_array_am">
+        <item>ኮንቴክስት  </item>
+        <item>ቡደን</item>
+        <item>ፒር</item>
+        <item>ፍለጋ</item>
+        <item>ቋንቋ</item>
+        <item>መረጃ</item>
+        <item>ኮንቴክስተር</item>
+        <item> ውጣ</item>
+        >
+    </string-array>
+
+    <string name="help_text_am">        In the peer-to-peer paradigm, Internet hosts that would normally be
+considered "clients" not only initiate sessions to peer nodes, but
+also accept sessions initiated by peer nodes. The initiator and the
+responder might lie behind different NAT devices with neither
+endpoint having a permanent IP address or other form of public
+network presence. A common online gaming architecture, for example,
+involves all participating application hosts contacting a publicly
+addressable rendezvous server for registering themselves and
+discovering peer hosts. Subsequent to the communication with the
+rendezvous server, the hosts establish direct connections with each
+other for fast and efficient propagation of updates during game play.
+Similarly, a file sharing application might contact a well-known
+rendezvous server for resource discovery or searching, but establish
+direct connections with peer hosts for data transfer.</string>
+    <string name="about_text_am">\n
+        Contexter : "Contexter "\n
+                  ስሪት 1.0.0 የአልፋ ደረጃ  ነሐሴ 2015 እኤአ  ጀምሮ
+        Contexter የሞባይል አፕሊኬሽን  የቅጂ መብት ብህግ የተጠብቀ ነው።
+                  ሁሉም ተጓዳኝ ውሎች እና የመጠቀሚያ ስምምነቶች ድረ ገጹ ላይ ይገኛሉ. \n
+                  ለተጨማሪ www.contexter.mobi ይጎብኙ.</string>
+
+
+     <string name="tips_text_am">
+                To Begin with :> \n
+				1. Search Groups on the left menu. \n
+				2. Import your favorite Groups.  \n
+				3. Register UCI  \n  4. Done!.\n
+				5. You are a Contexter!.\n
+				   visit  www.contexter.mobi
+    </string>
+
+
+    <!-- Contacts Page Strings...-->
+    <string name="activity_contacts_list_am">Contacts List</string>
+    <string name="activity_contact_detail_am">Contact Detail</string>
+    <string name="contacts_list_search_results_title_am">Contacts List Search for \"%s\"</string>
+    <string name="app_description_am">This is a sample app, demonstrating use of the Android system Contacts Provider.</string>
+    <string name="imageview_description_am">Contact Thumbnail</string>
+    <string name="address_button_description_am">View Address</string>
+    <string name="menu_search_am">Search</string>
+    <string name="menu_add_contact_am">Add Contact</string>
+    <string name="menu_edit_contact_am">Edit Contact</string>
+    <string name="no_contacts_am">No Contacts Found</string>
+    <string name="no_contact_selected_am">No Contact Selected</string>
+    <string name="search_hint_am">Find contacts</string>
+
+    <string name="search_match_other_am">Matches Other Field</string>
+    <string name="no_address_am">Not Using Contexter</string>
+    <string name="no_intent_found_am">No application found to handle this action</string>
+
+</resources>

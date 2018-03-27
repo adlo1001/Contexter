@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="SGA_VISITED" />
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="CGA_VISITED" />
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="RA_VISITED" />
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="LA_VISITED" />
+    
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="About_VISITED" />
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="HA_VISITED" />
+    
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="MA_VISITED" /> 
+
+</PreferenceScreen>

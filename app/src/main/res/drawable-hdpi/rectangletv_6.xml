@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle"
+
+    >
+
+
+    <stroke
+        android:width="1dp"
+
+        android:color="@color/chitchato_blue" />
+
+
+    <gradient
+        android:angle="180"
+        android:endColor="@color/chitchato_mebratu_blue"
+        android:startColor="@color/chitchato_mebratu_blue" />
+
+    <corners
+        android:bottomLeftRadius="15dp"
+        android:bottomRightRadius="15dp"
+        android:topLeftRadius="15dp"
+        android:topRightRadius="15dp"
+
+        />
+
+
+</shape>

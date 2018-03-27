@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingBottom="5dp"
+    android:paddingTop="5dp">
+
+    <LinearLayout
+        android:id="@+id/ll_check_box"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/cust_color_1"
+        android:orientation="horizontal"
+        android:layout_gravity="left"
+        android:gravity="left"
+        android:paddingBottom="15dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="15dp"
+        android:paddingTop="10dp">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.55"
+            android:layout_gravity="right"
+            android:gravity="right"
+            android:orientation="horizontal"
+            android:paddingBottom="2dp"
+            android:paddingLeft="3dp"
+            android:paddingRight="1dp"
+            android:paddingTop="2dp">
+
+            <se.sensiblethings.app.chitchato.extras.CustomImageView
+                android:id="@+id/cust_imageView_grditem_1"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_gravity="center|bottom"
+                android:layout_margin="1dp"
+                android:background="@android:color/transparent"
+                android:padding="1dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/profile_image_android"
+                app:riv_border_color="@color/background_color_1"
+                app:riv_border_width="2dp"
+                app:riv_corner_radius="0dp"
+                app:riv_mutate_background="false"
+                app:riv_oval="true" />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.45"
+            android:layout_gravity="left"
+            android:gravity="left"
+            android:background="@drawable/rectangletv_4_reverse_180"
+            android:orientation="horizontal"
+            android:paddingBottom="2dp"
+            android:paddingLeft="2dp"
+            android:paddingRight="2dp"
+            android:paddingTop="2dp">
+
+
+            <TextView
+                android:id="@+id/tv_empty_checkbox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="0dp"
+                android:layout_gravity="left"
+                android:gravity="left"
+                android:text=""
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/chitchato_blue" />
+
+
+            <TextView
+                android:id="@+id/tv_lang_checkbox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="left"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:text="request here"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/chitchato_mebratu_blue" />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.4"
+            android:layout_gravity="left"
+            android:gravity="left"
+            android:orientation="horizontal"
+            android:paddingBottom="2dp"
+            android:paddingLeft="5dp"
+            android:paddingRight="2dp"
+            android:paddingTop="2dp">
+
+            <TextView
+                android:id="@+id/btn_accept"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="1dp"
+                android:background="@drawable/button_custom"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:text="Accept"
+                android:textColor="@color/chitchato_mebratu_blue" />
+
+            <TextView
+                android:id="@+id/btn_decline"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="1dp"
+                android:background="@drawable/button_custom"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:text="Decline"
+                android:textColor="@color/chitchato_mebratu_blue" />
+        </LinearLayout>
+    </LinearLayout>
+
+
+</LinearLayout>

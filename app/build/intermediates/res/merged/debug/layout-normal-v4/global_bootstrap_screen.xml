@@ -1,0 +1,123 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color_1"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="0.9"
+        android:background="@color/chitchato_mebratu_cyan"
+        android:orientation="horizontal"
+        android:paddingBottom="2dp"
+        android:paddingLeft="0dp"
+        android:paddingRight="0dp"
+        android:paddingTop="10dp" >
+
+        <TextView
+            android:id="@+id/tv_empty_bar_m2mscreen"
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:background="@color/chitchato_mebratu_cyan"
+            android:gravity="center"
+            android:text="Bootstraps"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/white_overlay" >
+        </TextView>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linear1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="0.1"
+        android:background="@color/background_color_1"
+        android:orientation="vertical"
+        android:paddingBottom="00dp"
+        android:paddingTop="2dp"
+        tools:context=".MainActivity" >
+
+        <LinearLayout
+            android:id="@+id/linear1_1"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.1"
+            android:background="@color/cust_color_1"
+            android:orientation="horizontal"
+            android:paddingBottom="2dp"
+            android:paddingLeft="0dp"
+            android:paddingTop="2dp"
+            tools:context=".MainActivity" >
+
+            <LinearLayout
+                android:id="@+id/linear2"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.35"
+                android:gravity="left"
+                android:orientation="vertical"
+                android:paddingBottom="10dp"
+                android:paddingRight="0dp"
+                android:paddingTop="10dp"
+                android:scrollbarAlwaysDrawVerticalTrack="true"
+                android:scrollbarStyle="outsideOverlay"
+                android:scrollbars="vertical|horizontal"
+                android:showDividers="none|beginning|middle|end" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.5"
+                    android:gravity="right"
+                    android:orientation="horizontal"
+                    android:paddingBottom="10dp" >
+
+                    <ListView
+                        android:id="@+id/lv_bootstrap_list"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:background="@color/cust_color_1"
+                        android:divider="@android:color/transparent"
+                        android:listSelector="@android:color/transparent"
+                        android:clickable="false"
+                        android:dividerHeight="0.3dp"
+                        android:drawSelectorOnTop="false" >
+                    </ListView>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.8"
+            android:background="@color/background_color_1"
+            android:orientation="horizontal"
+            android:paddingBottom="0dp"
+            android:paddingTop="2dp" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="right"
+                android:background="@color/chitchato_mebratu_cyan"
+                android:orientation="horizontal"
+                android:paddingLeft="30dp"
+                android:paddingRight="30dp" >
+
+                <Button
+                    android:id="@+id/button_bootstrp_exit"
+                    style="?android:attr/borderlessButtonStyle"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:background="@drawable/button_custom"
+                    android:text="Exit"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/white_overlay" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

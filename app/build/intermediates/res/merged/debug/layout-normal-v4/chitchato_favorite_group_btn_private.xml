@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingRight="0dp" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+        android:paddingRight="2dp"
+        android:paddingTop="0dp" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.65"
+            android:gravity="center|center_vertical"
+            android:layout_gravity="center"
+            android:orientation="horizontal"
+            android:paddingRight="10dp"
+            android:paddingLeft="2dp"
+            android:paddingTop="0dp"
+
+            >
+
+            <TextView
+                android:id="@+id/favorite_group_btn"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_gravity="center"
+                android:background="@drawable/circlebtn_red_with_border"
+                android:clickable="true"
+                android:enabled="true"
+                android:gravity="center|center_vertical"
+                android:text=""
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/chitchato_mebratu_blue"
+                android:translationX="22dp"
+                />
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:translationX="-27dp"
+                android:src="@android:drawable/ic_menu_call"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.65"
+            android:gravity="center|center_vertical"
+            android:paddingRight="0dp"
+            android:paddingTop="0dp" >
+
+            <TextView
+                android:id="@+id/tv_chat_screen_sub_item"
+                android:layout_width="60dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center|center_vertical"
+                android:text="subitem"
+                android:textColor="@color/chitchato_mebratu_blue"
+                android:textSize="12dp" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

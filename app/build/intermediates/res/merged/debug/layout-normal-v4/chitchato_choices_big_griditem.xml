@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center|top"
+    android:orientation="horizontal"
+    android:paddingRight="0dp" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingRight="2dp"
+        android:paddingTop="0dp" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:layout_gravity="center"
+            android:layout_weight="0.65"
+            android:orientation="horizontal"
+            android:paddingRight="2dp"
+            android:paddingTop="0dp" >
+
+            <Button
+                android:id="@+id/choices_btn"
+                android:layout_width="160dp"
+                android:layout_height="160dp"
+                android:layout_gravity="top"
+                android:background="@drawable/circlebtn_blue"
+                android:enabled="true"
+                android:gravity="top|center"
+                android:text="\n M2M \n Control"
+                android:textColor="@color/black_overlay" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.65"
+            android:paddingRight="2dp"
+            android:paddingTop="0dp" >
+
+            <TextView
+                android:id="@+id/tv_choices_sub_item"
+                android:layout_width="160dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="Control"
+                android:textColor="@color/oregon" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,156 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black_overlay"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="0.8"
+        android:background="@color/chitchato_mebratu_cyan"
+        android:orientation="horizontal"
+        android:paddingBottom="2dp"
+        android:paddingLeft="0dp"
+        android:paddingRight="0dp"
+        android:paddingTop="10dp">
+
+        <TextView
+            android:id="@+id/tv_search_text_results"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@color/chitchato_yellow"
+            android:gravity="center"
+            android:text="Search Results"
+            android:textColor="@color/white_overlay"
+            android:textSize="35sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linear1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="0.2"
+        android:background="@color/cust_color_1"
+        android:orientation="vertical"
+        android:paddingBottom="2dp"
+        android:paddingLeft="0dp"
+        android:paddingRight="0dp"
+        android:paddingTop="2dp"
+        tools:context=".MainActivity">
+
+        <LinearLayout
+            android:id="@+id/linear1_1"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.2"
+            android:background="@color/cust_color_1"
+            android:orientation="vertical"
+            android:paddingBottom="2dp"
+            android:paddingLeft="30dp"
+            android:paddingRight="30dp"
+            android:paddingTop="2dp"
+            tools:context=".MainActivity">
+
+            <LinearLayout
+                android:id="@+id/linear2"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.2"
+                android:background="@color/cust_color_1"
+                android:gravity="left"
+                android:paddingBottom="10dp"
+                android:paddingLeft="2dp"
+                android:paddingRight="2dp"
+                android:paddingTop="10dp"
+                android:scrollbarAlwaysDrawVerticalTrack="true"
+                android:scrollbarStyle="outsideOverlay"
+                android:scrollbars="vertical|horizontal"
+                android:showDividers="none|beginning|middle|end">
+
+                <ListView
+                    android:id="@+id/ListView1_search_results"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:background="@color/cust_color_1"
+                    android:clickable="true"
+                    android:divider="@color/background_color_1"
+                    android:dividerHeight="0.3dip"
+                    android:drawSelectorOnTop="true"></ListView>
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linear4"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.8"
+            android:background="@color/chitchato_limon"
+            android:orientation="horizontal"
+            android:paddingBottom="2dp"
+            android:paddingRight="1dp"
+            android:paddingTop="2dp"
+            tools:context=".MainActivity">
+
+            <LinearLayout
+                android:id="@+id/linear5"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.75"
+                android:gravity="right"
+                android:orientation="vertical"
+                android:paddingLeft="30dp"
+                android:paddingRight="30dp"
+                tools:context=".MainActivity">
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.5"
+                    android:gravity="right"
+                    android:orientation="vertical"
+                    android:paddingBottom="5dip"
+                    android:paddingLeft="1dp"
+                    tools:context=".MainActivity">
+
+                    <Button
+                        android:id="@+id/btn_search_results"
+                        style="?android:attr/borderlessButtonStyle"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:background="@drawable/button_custom"
+                        android:text="Add To Favorite Groups"
+                        android:textColor="@color/white_overlay"
+                        android:textSize="30sp" />
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.5"
+                    android:gravity="right"
+                    android:orientation="vertical"
+                    android:paddingBottom="5dip"
+                    android:paddingLeft="1dp"
+                    tools:context=".MainActivity">
+
+                    <Button
+                        android:id="@+id/btn_exit_search_results"
+                        style="?android:attr/borderlessButtonStyle"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="0.5"
+                        android:background="@drawable/button_custom"
+                        android:paddingTop="5dip"
+                        android:text=" Exit "
+                        android:textColor="@color/white_overlay"
+                        android:textSize="30sp" />
+                </LinearLayout>
+
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

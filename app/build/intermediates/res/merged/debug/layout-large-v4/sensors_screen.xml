@@ -1,0 +1,155 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+     android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color_1"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="0.8"
+        android:background="@color/background_color_1"
+        android:orientation="horizontal"
+        android:paddingBottom="2dp"
+        android:paddingLeft="0dp"
+        android:paddingRight="0dp"
+        android:paddingTop="0dp" >
+
+        <TextView
+            android:id="@+id/tv_empty_bar_m2mscreen"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@color/chitchato_mebratu_cyan"
+            android:gravity="center"
+            android:text="Sensor Readings"
+            android:textSize="35dip"
+            android:textColor="@color/white_overlay" >
+        </TextView>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linear1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="0.1"
+        android:background="@color/chitchato_mebratu_cyan"
+        android:orientation="vertical"
+        android:paddingBottom="2dp"
+        android:paddingTop="2dp"
+        tools:context=".MainActivity" >
+
+        <LinearLayout
+            android:id="@+id/linear1_1"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@color/cust_color_1"
+            android:orientation="horizontal"
+            android:paddingBottom="2dp"
+            android:paddingLeft="0dp"
+            android:paddingTop="2dp"
+            tools:context=".MainActivity" >
+
+            <LinearLayout
+                android:id="@+id/linear2"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="left"
+                android:orientation="vertical"
+                android:paddingBottom="10dp"
+                android:paddingRight="0dp"
+                android:paddingTop="10dp"
+                android:scrollbarAlwaysDrawVerticalTrack="true"
+                android:scrollbarStyle="outsideOverlay"
+                android:scrollbars="vertical|horizontal"
+                android:showDividers="none|beginning|middle|end" >
+
+                <LinearLayout
+                    android:id="@+id/linear_acc_lo"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.5"
+                    android:background="@color/black_overlay"
+                    android:gravity="right"
+                    android:orientation="horizontal"
+                    android:paddingTop="2dp"
+                    android:scrollbars="horizontal|vertical" >
+
+                    <se.sensiblethings.app.chitchato.extras.DrawGraphOne
+                        android:id="@+id/custview_acc"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:background="@color/chitchato_mebratu_blue"
+                        android:padding="10dp"
+                        >
+                    </se.sensiblethings.app.chitchato.extras.DrawGraphOne>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linear_limo_lo"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.5"
+                    android:background="@color/black_overlay"
+                    android:gravity="right"
+                    android:orientation="horizontal"
+                    android:paddingTop="2dp"
+                    android:scrollbars="horizontal|vertical" >
+
+                    <se.sensiblethings.app.chitchato.extras.DrawGraphTwo
+                        android:id="@+id/custview_limo"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:background="@color/chitchato_mebratu_blue"
+                        android:padding="10dp"
+                        android:textAlignment="textStart" >
+                    </se.sensiblethings.app.chitchato.extras.DrawGraphTwo>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linear_sound_lo"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.5"
+                    android:background="@color/black_overlay"
+                    android:gravity="right"
+                    android:orientation="horizontal"
+                    android:paddingTop="2dp"
+                    android:scrollbars="horizontal|vertical" >
+
+                    <se.sensiblethings.app.chitchato.extras.DrawGraphThree
+                        android:id="@+id/custview_sound"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:background="@color/chitchato_mebratu_blue"
+                        android:padding="10dp"
+                        android:textAlignment="textStart" >
+                    </se.sensiblethings.app.chitchato.extras.DrawGraphThree>
+                </LinearLayout>
+
+               <LinearLayout
+                    android:id="@+id/linear_gps_lo"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.5"
+                    android:background="@color/chitchato_mebratu_cyan"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    android:paddingTop="2dp"
+                    android:scrollbars="horizontal|vertical" >
+
+                    <se.sensiblethings.app.chitchato.extras.DrawGraphFour
+                        android:id="@+id/custview_gps"
+                        android:layout_width="350dp"
+                        android:layout_height="100dp"
+                        android:background="@drawable/world_map_temp_two_old"
+                        android:padding="10dp"
+                        >
+                    </se.sensiblethings.app.chitchato.extras.DrawGraphFour>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

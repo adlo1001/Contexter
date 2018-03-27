@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="action_advanced_fr">Purge</string>
+    <string name="action_sensor_fr">Capteurs</string>
+    <string name="action_debug_fr">Debug</string>
+
+    <style name="action_bootstrap_ip_fr">Bootstrap IP</style>
+
+    <!-- Help Container Messages English -->
+    <string name="tip_fr">Astuce</string>
+    <string name="support_fr">Support</string>
+    <string name="terms_fr">Terms</string>
+    <string name="policy_fr">Politique</string>
+    <string name="copyright_fr">Copyright</string>
+
+    <!-- Other Messages Frennch -->
+    <string name="service_not_available_fr">Service not available</string>
+    <string name="invalid_lat_long_used_fr">Invalid location</string>
+    <string name="no_address_found_fr">No Address Found</string>
+    <string name="address_found_fr">Address Found</string>
+
+    <!-- Notification Messages -->
+
+    <string name="notification_one_fr">vous devez d\'abord vous inscrire </string>
+    <string name="notification_two_fr">Vérifier la connexion. </string>
+    <string name="notification_three_fr">S\'il vous plaît Recherche et l\'importation Groupes Première! Aucun groupe dans la liste des Groupes Favoris. </string>
+    <string name="notification_four_fr">Erreur Rencontrés lors de l\'enregistrement. Essayez avec le nom de groupe différent!</string>
+    <string name="notification_five_fr">Le succès! Groupe créé.!</string>
+    <string name="notification_six_fr">Désolé, Groupe non créé.</string>
+    <string name="notification_seven_fr">Désolé, Enregistrement Non réussie.</string>
+
+    <!--  -->
+    <string name="help_text_1_fr"> Qu\'est-ce que Contexte? \n</string>
+    <string name="help_text_2_fr">Quelle est la différence entre les deux modes? \n</string>
+    <string name="help_text_3_fr">Comment créer un groupe? \n</string>
+    <string name="help_text_4_fr">Rejoindre un groupe \n</string>
+    <string name="help_text_5_fr"> Comment rester anonyme et garder votre vie privée? \n</string>
+    <string name="help_text_1_1_fr"> Le contexte est toute l\'information sur l\'environnement immédiat dans un objet est situé. Si un objet pour quelque moyen obtient toutes les informations utiles sur son environnement immédiat et capable de fournir cette information pour le traitement de données plus lointain alors cet objet est dit être contexte conscient.
+                      Un système est conscient du contexte s\'il utilise le contexte pour fournir des informations et / ou des services pertinents à l\'utilisateur, la pertinence dépend de la tâche de l\'utilisateur. \"Par conséquent, Context-aware application est une application qui fournit des services aux utilisateurs sur la base du contexte actuel de la périphérique informatique et environnements environnants.</string>
+    <string name="help_text_2_1_fr">        Les textes ne sont rien d\'autre que des textes. D\'autres pairs ne peuvent pas lire d\'autres informations contextuelles. Contrairement à Texting, conTexting permet à d\'autres amis de
+         Lire des données provenant de capteurs et d\'autres sources à votre sujet.</string>
+    <string name="help_text_3_1_fr">Créer un groupe de votre propre est aussi simple que l\'inscription à un groupe existant. Entrez vos informations afin que les gens puissent vous trouver facilement.
+                                  \n</string>
+    <string name="help_text_4_1_fr">Pour rejoindre un groupe, vous devez importer les groupes sur votre appareil. Recherchez des groupes et ajoutez-les à votre liste de favoris. Une fois que vous avez importé votre appareil, rejoignez les groupes. Vous pouvez rejoindre autant de groupes que vous le souhaitez.
+                                  \n</string>
+    <string name="help_text_5_1_fr">Pour conserver vos informations contextuelles, vous devez utiliser Texting.
+                                 \n</string>
+    <string name="about_text_fr">Contexter 1.0.2 \ n
+     Copyright 2016 Studio 12Stars. Tous droits réservés. \ N \ n
+     Contexter est construit sur une plateforme open source: \ n
+     Plateforme MediaSense \ n \ n \ n
+     Contexter est une application IoT distribuée multiplate-forme. Contexter permet l\'intercommunication entre les peuples, les machines et les deux. Envoyez des messages instantanés et des photos gratuitement. Annoncez votre intérêt, votre groupe et vos ventes gratuitement. Sentez votre environnement intelligent. \n Dispositifs de prise de contrôle de la maison. \n
+     \n Pour en savoir plus Visitez www.contexter.mobi \ n
+    </string>
+    <string name="extra_settings_fr">
+     Note: Les publicités gratuites sont limitées. \n Pour annoncer un nombre illimité de générer un code.
+    </string>
+
+    <string name="tips_text_fr">
+        Commencer par:> \ n
+        1. Ajouter bootstrap ou démarrer comme bootstrap
+        2. Rechercher des groupes sur la grille \ n menu \'Rechercher des groupes \' \ n
+        3. Importez vos Groupes préférés. \n
+        4. Enregistrement UCI \ n
+        5. Terminé!. \n
+        6. Vous êtes dans Contexter. \n
+
+        Comment cela fonctionne:
+        Pour plus de visitez www.contexter.mobi
+
+    </string>
+
+
+    <!-- #########################French ####################### -->
+    <string name="language_fr"> Langue </string>
+    <string name="action_chitchato_fr">Contexter</string>
+    <string name="action_search_fr">Rechercher</string>
+    <string name="action_create_fr">Créer</string>
+    <string name="action_settings_fr">Paramètres</string>
+    <string name="action_register_fr">s\'inscrire</string>
+    <string name="action_language_fr">langue</string>
+    <string name="action_add_bootstrap_fr">Ajouter Bootstrap </string>
+    <string name="action_bootstrap_fr">Bootstrap</string>
+    <string name="action_bootstrap_ip_fr">Bootstrap IP:</string>
+    <string name="action_sense_fr">Sense</string>
+    <string name="action_devices_fr">Dispositifs de Contrôle</string>
+    <string name="action_more_fr">Plus</string>
+    <string name="action_about_fr">Informations</string>
+    <string name="action_help_fr">aid</string>
+    <string name="get_online_fr">en ligne</string>
+    <string name="get_offline_fr">déconnecté </string>
+    <string name="lv_button_fr">default_fr</string>
+    <string name="done_fr">Done_FR</string>
+    <string name="exit_fr">Sortie</string>
+    <string name="action_acceleration_fr">Motion</string>
+    <string name="action_limunosity_fr">Luminosité</string>
+    <string name="action_sound_fr">Son</string>
+    <string name="action_location_fr">Emplacement</string>
+    <string name="control_fr">\n M 2 M \nContrôle</string>
+    <string name="hint_enter_txt_fr">entrez le texte Ici</string>
+    <string name="hint_enter_group_name_fr">Nom</string>
+    <string name="hint_enter_group_interest_fr">Intérêt</string>
+    <string name="hint_enter_group_age_limit_fr">Limite</string>
+    <string name="hint_enter_group_nickname_fr">Surnom</string>
+    <string name="hint_enter_group_leader_fr">Le chef</string>
+    <string name="hint_enter_group_password_fr">Mot du passe</string>
+    <string name="hint_enter_group_vicinity_fr">Environs</string>
+    <string name="private_chat_fr"> Conversation privée</string>
+    <string name="search_group_fr">Rechercher des groupes</string>
+    <string name="enter_profile_pic_fr">Choisir une photo de profil</string>
+    <string name="create_group_fr">Créer des groupes</string>
+    <string name="tap_here_to_add_image_fr">Appuyez ici pour ajouter l\'image</string>
+    <string name="action_adv_group_fr">Annoncez Groupes</string>
+
+    <string name="social_fr">Social</string>
+
+    <!-- Help Container Messages Portugese -->
+
+    <string-array name="help_container_fr">
+        <item name="tip_fr">Astuce</item>
+        <item name="support_fr">Soutien</item>
+        <item name="terms_fr">Termes </item>
+        <item name="policy_fr">Polipolitique de confidentialit\'ecy</item>
+        <item name="copyright_fr">Copyright</item>
+        <item name="social_fr">Social</item>
+    </string-array>
+
+    <!-- Dialog Messages French -->
+    <string name="busy_fr">Occupé</string>
+    <string name="opening_chat_msgs_fr">Chargement des messages en cours...</string> <!-- Other Messages French -->
+    <string name="busy__fr">busy</string>
+    <string name="opening_chat_msgs__fr">Opening Messages</string> <!-- Interfaces_fr -->
+    <string name="Welcome_tv_fr"> Bienvenue à Contexter</string>
+    <string name="ordinary_chat_text_fr"> Texting</string>
+    <string name="context_chat_text_fr"> conTexting</string>
+    <string name="send_btn_fr"> Envoyer</string>
+
+    <string-array name="languages_fr">
+        <item>English_fr</item>
+        <item>Svenska_fr</item>
+        <item>Spanish_fr</item>
+        <item>Portugese_fr</item>
+        <item>French_fr</item>
+        <item>አማርኛ_fr</item>
+    </string-array>
+    <string-array name="settings_fr">
+        <item>Acheter du Crédit</item>
+        <item>Ajouter Bootstrap</item>
+        <item>Ajouter UCI</item>
+        <item>Ajouter Dispositif</item>
+        <item>Intimité</item>
+        <item>notifications</item>
+        <item>Messages</item>
+        <item>Bootstrapper </item>
+        <item>Groupes</item>
+        <item>Réinitialiser</item>
+    </string-array>
+    <string-array name="menu_array_fr">
+        <item>Context  </item>
+        <item>Groupe</item>
+        <item>UCI</item>
+        <item>Rechercher</item>
+        <item>Langue</item>
+        <item>Aid</item>
+        <item>Sur</item>
+        <item>Quitter</item>
+        >
+    </string-array> <!-- Choices -->
+    <string name="Menu_tv_fr">Menu</string> <!-- Main -->
+    <string name="send_btn_fr_">Envoyer</string>
+    <string name="hint_tv_fr_">Entrez le Texte Ici</string> <!-- Private -->
+    <string name="pr_chat_tv_fr">Conversation Privée</string> <!-- Create -->
+    <string name="create_tv_group_name_fr">Nom de groupe</string>
+    <string name="create_tv_group_interest_fr">Intérêt du groupe</string>
+    <string name="create_tv_age_limit_fr">Limite du âge Groupe</string>
+    <string name="create_tv_team_leader_fr">Le chef du groupe</string> <!-- Register -->
+
+    <string name="register_nick_name_fr">Surnom</string>
+    <string name="register_tv_name_fr">prénom</string>
+    <string name="register_tv_age_fr">Âge</string> <!-- Search Grgoup -->
+
+    <string name="search_tv_group_name_fr">Nom du groupe</string>
+    <string name="search_tv_group_interest_fr">Intérêt du groupe</string>
+    <string name="search_tv_age_limit_fr">Limite du âge Groupe</string>
+    <string name="search_tv_team_leader_fr">Le chef du groupe</string>
+
+    <!-- Search Results -->
+
+    <string name="search_results_tv_fr">Résultats du la recherche</string>
+    <string name="add_to_favorite_groups_fr">Ajouter aux groupes préférés</string>
+
+    <!-- Language -->
+
+
+    <!-- Error -->
+
+    <string name="error_fr">Erreur</string>
+    <!-- Help -->
+    <string name="help_tv_fr">Aid</string> <!-- About -->
+    <!-- My Profile -->
+
+    <string name="refresh_fr"> Rafraîchir</string>
+    <string name="update_fr"> Mettre à jour</string>
+    <string name="name_fr"> prénom</string>
+    <string name="nick_fr"> surnom</string>
+    <string name="sex_fr"> Sexe</string>
+    <string name="age_fr"> Âge</string>
+    <string name="portfolio_fr"> Portefeuille </string>
+    <string name="my_profile_fr">Profil</string>
+    <string name="picture_gallery_fr">Galerie de Photos</string>
+    <!-- Purge -->
+    <string name="purge_tv_fr"> Purge</string>
+    <string name="purge_tv_1_fr"> purge des fichiers Contexter</string>
+    <string name="purge_tv_2_fr">purger vos groupes et les fichiers connexes</string>
+    <string name="purge_tv_3_fr">purger tous vos fichiers</string>
+    <string name="purge_tv_4_fr">Purger tous les fichiers utilisateur de Context</string>
+
+    <!-- Delete Groups -->
+    <string name="delete_groups_fr">Supprimer les groupes</string>
+    <string name="remove_fr"> Supprimer tous vos fichiers de </string>
+    <string name="delete_fr">Effacer</string>
+    <string name="help_text_fr"> Dans le paradigme peer-to-peer, les hôtes Internet qui seraient normalement
+Les «clients» non seulement initient des sessions aux nœuds pairs, mais
+Acceptent également des sessions initiées par des nœuds pairs. L\'initiateur et le
+Répondeur peut se trouver derrière différents périphériques NAT sans
+Endpoint ayant une adresse IP permanente ou une autre forme de
+Réseau. Une architecture de jeu en ligne commune, par exemple,
+Implique que tous les hôtes d\'application participants communiquent avec un
+Serveur de rendez-vous adressable pour s\'inscrire et
+La découverte des hôtes homologues. À la suite de la communication avec le
+Rendezvous, les hôtes établissent des connexions directes avec
+Autres pour la propagation rapide et efficace des mises à jour pendant le jeu.
+De même, une application de partage de fichiers peut contacter une application bien connue
+Serveur de rendez-vous pour la découverte ou la recherche de
+Des connexions directes avec des hôtes homologues pour le transfert de données.</string>
+
+
+    <!-- Other Strings-->
+    <string name="no_valid_working_bs_ip_fr">Aucune IP Bootstrap valide ou en cours de fonctionnement</string>
+    <string name="string_dialog_one_0_fr"> Voulez-vous quitter ce?</string>
+    <string name="string_dialog_one_0_0_fr"> Oui </string>
+    <string name="string_dialog_one_0_1_fr"> Non </string>
+    <string name="string_dialog_one_1_fr"> Essayez un autre Bootstrap! Problème de démarrage de la plateforme</string>
+    <string name="string_dialog_one_3_fr"> Nous acceptons BitCoins. Obtenez un compte gratuit sur CoinBase</string>
+    <string name="string_dialog_one_2_fr"> Publicité Groupe:</string>
+
+    <string name="string_dialog_one_4_0_fr"> Appuyez sur votre groupe de favoris pour aller au public</string>
+    <string name="string_dialog_one_4_1_fr"> Tap-Long votre groupe préféré pour aller en privé</string>
+
+
+    <string name="string_dialog_one_5_0_fr"> Appuyez sur votre ami pour la messagerie</string>
+    <string name="string_dialog_one_5_1_fr"> Tap-Long votre ami pour faire l\'appel</string>
+
+    <string name="string_dialog_one_6_fr"> Voulez-vous ouvrir Publicités? </string>
+    <string name="string_dialog_one_7_fr"> Cette version ne prend pas en charge la voix.</string>
+    <string name="string_dialog_one_8_fr">Contexte local possible. Vous devez ajouter des bootstraps publics. </string>
+    <string name="string_dialog_one_9_fr"> Supprimer le message? </string>
+    <string name="string_dialog_one_10_fr">    Groupes non trouvés. Importez ou créez des groupes.  </string>
+    <string name="string_dialog_one_11_fr"> Voulez-vous ouvrir Publicités? </string>
+    <string name="string_dialog_one_11_0_fr"> Suivant</string>
+    <string name="string_dialog_one_11_1_fr"> Invalidate</string>
+
+
+    <string name="string_main_one_0_fr">Quelque chose s\'est mal passé en mode privé! Vous pouvez aller en privé si vous avez des amis</string>
+    <string name="string_main_one_1_fr">Option non valide! Choisissez votre groupe. </string>
+    <string name="string_main_one_2_fr">UCI non valide! Message non livré.</string>
+    <string name="string_main_one_3_fr">Quelque chose ne va pas avec la plate-forme. \n Essayez d\'envoyer le message à nouveau</string>
+    <string name="string_main_one_4_fr">Contexter a besoin d\'une connexion. \n Message non envoyé \n Impossible d\'accéder à la plate-forme</string>
+    <string name="string_main_one_5_fr">REMARQUE: Les messages seront recyclés après</string>
+    <string name="string_main_one_6_fr">Taille d\'image trop grande. Il doit être 1Mo max.</string>
+    <string name="string_main_one_7_fr">Local-contexting possible. \nAjouter des bootstraps publics pour élargir votre monde. </string>
+    <string name="string_main_one_8_fr">MediaSense n\'est pas en cours d\'exécution. \nEssayez un autre bootstrap pour lancer la plate-forme.</string>
+    <string name="string_main_one_8_1_fr">MediaSense est en cours d\'exécution.</string>
+
+    <string name="string_main_one_9_fr"> # Service déconnecté # </string>
+    <string name="string_main_one_10_fr">Groupes non importés. Importer des groupes</string>
+    <string name="string_main_one_11_fr">Rejoindre le groupe. \nEnvoyer l\'enregistrement UCI</string>
+    <string name="string_main_one_12_fr">Quelque chose s\'est mal passé en mode privé! Vous pouvez aller en privé si vous avez des amis</string>
+    <string name="string_main_one_13_fr">Contexter a besoin de bootstrap. \nAjoutez bootstrap IP pour lancer MediaSense.</string>
+    <string name="string_main_one_13_0_fr"> ~ Bienvenue ~ Vous pouvez commencer à envoyer des messages!</string>
+
+    <string name="string_create_group_one_0_fr">Erreur rencontrée - Impossible de charger le groupe</string>
+    <string name="string_create_group_one_1_fr">Félicitations à vous! \nGroupe créée avec succès!</string>
+    <string name="string_create_group_one_2_fr">Nom du groupe Invalid!</string>
+    <string name="string_create_group_one_3_fr">Invalid Group Interest!</string>
+    <string name="string_create_group_one_4_fr">Limite d\'âge non valide!</string>
+    <string name="string_create_group_one_5_fr">Nom du leader du groupe Invalid!</string>
+    <string name="string_create_group_one_6_fr">Invalide! Ajouter [M F ou NA]</string>
+    <string name="string_create_group_one_7_fr">Félicitations! \nLe groupe a été mis à jour avec succès!</string>
+    <string name="string_create_group_one_8_fr">Félicitations! \nLe groupe a été supprimé avec succès!</string>
+    <string name="string_create_group_one_9_fr">Erreur! Le téléchargement de photos de profil a échoué</string>
+    <string name="string_create_group_one_10_fr">Ajouter un nom de groupe</string>
+    <string name="string_create_group_two_0_fr">Oops ... Groups cant open.</string>
+
+    <string name="string_group_0_fr">nouveau groupe</string>
+    <string name="string_group_1_fr">Groupe de mise à jour</string>
+    <string name="string_group_2_fr">Supprimer le groupe</string>
+    <string name="string_group_3_fr">Voir le groupe</string>
+
+
+    <string name="string_register_one_0_fr">Demande de jointure livrée.</string>
+    <string name="string_register_one_1_fr">Oops .. Pseudo invalide! Utiliser un seul mot</string>
+    <string name="string_register_one_2_fr">Oops .. Valeur d\'âge non valide!</string>
+    <string name="string_register_one_3_fr">Oups .. Quelque chose a mal tourné!</string>
+
+
+    <string name="string_search_one_0_fr">Clé de recherche non valide! Vide non autorisé. </string>
+    <string name="string_search_one_1_fr">La plate-forme n\'a pas démarré. Essayez un autre Bootstrap!</string>
+    <string name="string_search_one_2_fr">Contexter a besoin de connection.Platform non démarré </string>
+
+
+    <string name="string_more_extra_0_fr">Silencieux</string>
+    <string name="string_more_extra_1_fr">Pas de Vibrations</string>
+    <string name="string_more_extra_2_fr">Aucun motif d\'arrière-plan</string>
+    <string name="string_more_extra_3_fr">Aucun murmure</string>
+    <string name="string_more_extra_4_fr">Ne pas prévenir</string>
+    <string name="string_more_extra_5_fr">Avez-rabais sur divers articles</string>
+    <string name="string_more_bst_fr">1 Bootstrap public. Appuyez pour voir</string>
+    <string name="string_more_fr">Peer inconnu</string>
+    <string name="sensor_readings_fr">Valeurs du capteur</string>
+    <string name="contexter_readings_fr">Contexter Valeurs</string>
+    <string name="all_cleints_fr">Tous les pairs</string>
+    <string name="advanced_search_fr">Avancée</string>
+    <string name="public_msg_fr">Message Public</string>
+    <string name="private_msg_fr">Message Privé</string>
+
+    <string name="string_group_container_0_fr">Nouveau groupe</string>
+    <string name="string_group_container_1_fr">Mise à jour du</string>
+    <string name="string_group_container_2_fr"> Supprimer </string>
+    <string name="string_group_container_3_fr">Afficher</string>
+    <string name="string_choices_one_0_fr"> Just a moment!  SensibleThings platform is starting.</string>
+    <string name="string_more_one_0_fr">Note: We accept BitCoins. Get account for free at CoinBase."</string>
+
+
+</resources>

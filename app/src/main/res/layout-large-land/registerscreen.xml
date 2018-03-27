@@ -1,0 +1,259 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/black_overlay"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:id="@+id/linear1_register"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:minHeight="800dp"
+        android:layout_weight="0.2"
+        android:background="@color/cust_color_1"
+        android:orientation="vertical"
+        android:paddingBottom="2dp"
+        android:paddingTop="2dp" >
+
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="120dp"
+            android:background="@color/chitchato_mebratu_cyan"
+            android:orientation="horizontal"
+            android:paddingBottom="2dp"
+            android:paddingLeft="0dp"
+            android:paddingRight="0dp"
+            android:paddingTop="10dp" >
+
+            <TextView
+                android:id="@+id/tv_register_title"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="@color/chitchato_yellow"
+                android:gravity="center"
+                android:text="Registration"
+                android:textColor="@color/white_overlay"
+                android:textSize="35sp" />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/linear1_1_register"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.2"
+            android:background="@color/cust_color_1"
+            android:gravity="right"
+            android:orientation="vertical"
+            android:paddingBottom="2dp"
+            android:paddingLeft="30dp"
+            android:paddingRight="30dp"
+            android:paddingTop="2dp" >
+
+            <LinearLayout
+                android:id="@+id/linear2_register"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.2"
+                android:background="@drawable/rectangletv_3"
+                android:gravity="center"
+                android:orientation="vertical"
+                android:paddingBottom="10dp"
+                android:paddingLeft="30dp"
+                android:paddingRight="30dp"
+                android:paddingTop="10dp"
+                android:scrollbarAlwaysDrawVerticalTrack="true"
+                android:scrollbarStyle="outsideOverlay"
+                android:scrollbars="vertical|horizontal"
+                android:showDividers="none|beginning|middle|end" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.5"
+                    android:gravity="right"
+                    android:orientation="horizontal"
+                    android:paddingBottom="10dp" >
+
+                    <EditText
+                        android:id="@+id/edt_nick_name_rgistr"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="0.3"
+                        android:background="@drawable/rectangletv_2"
+                        android:gravity="left|center_vertical"
+                        android:paddingLeft="15dp"
+                        android:hint="Nickname"
+                        android:paddingBottom="10dp"
+                        android:paddingTop="10dp"
+                        android:textColor="@color/chitchato_blue"
+                        android:textSize="30sp">
+                    </EditText>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.5"
+                    android:gravity="right"
+                    android:orientation="horizontal"
+                    android:paddingBottom="10dp" >
+
+                    <EditText
+                        android:id="@+id/edt_name_rgistr"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="0.3"
+                        android:background="@drawable/rectangletv_2"
+                        android:gravity="left|center_vertical"
+                        android:paddingLeft="15dp"
+                        android:hint="Name"
+                        android:paddingBottom="5dp"
+                        android:paddingTop="5dp"
+                        android:textColor="@color/chitchato_blue"
+                        android:textSize="30sp">
+                    </EditText>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.5"
+                    android:gravity="right"
+                    android:orientation="horizontal"
+                    android:paddingBottom="10dp" >
+
+                    <EditText
+                        android:id="@+id/edt_age_rgistr"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="0.3"
+                        android:background="@drawable/rectangletv_2"
+                        android:gravity="left|center_vertical"
+                        android:paddingLeft="15dp"
+                        android:hint="Age"
+                        android:paddingBottom="5dp"
+                        android:paddingTop="5dp"
+                        android:textColor="@color/chitchato_blue"
+                        android:textSize="30sp">
+                    </EditText>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.5"
+                    android:gravity="right"
+                    android:orientation="horizontal"
+                    android:paddingBottom="10dp" >
+
+                    <Spinner
+                        android:id="@+id/spinner_group_id_rgistr"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_gravity="center"
+                        android:layout_weight="0.3"
+                        android:background="@drawable/rectangletv_2"
+                        android:gravity="center"
+                        android:hint="Group Name"
+                        android:prompt="@color/green_overlay"
+                        android:scrollbars="vertical"
+                        android:textColor="@color/chitchato_blue"
+                        android:textSize="30sp"
+                        tools:listitem="@android:layout/simple_spinner_dropdown_item" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    android:paddingBottom="10dp" >
+
+                    <ImageButton
+                        android:id="@+id/img_btn_profile_PIC"
+                        android:layout_width="100dip"
+                        android:layout_height="100dip"
+                        android:adjustViewBounds="false"
+                        android:background="@drawable/rectangletv_2"
+                        android:cropToPadding="false"
+                        android:scaleType="fitCenter"
+                        android:visibility="invisible"
+                        android:src="@drawable/profile_image" />
+
+                    <se.sensiblethings.app.chitchato.extras.CustomImageView
+                        android:id="@+id/cust_image_view_profile_PIC"
+                        android:layout_width="80dip"
+                        android:layout_height="80dip"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentEnd="true"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentRight="true"
+                        android:layout_alignParentStart="true"
+                        android:layout_alignParentTop="true"
+                        android:layout_gravity="center"
+                        android:layout_margin="5dp"
+                        android:background="@color/chitchato_mebratu_cyan"
+                        android:padding="6dip"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/profile_image"
+                        app:riv_border_color="@color/chitchato_mebratu_cyan"
+                        app:riv_border_width="0dip"
+                        app:riv_corner_radius="365dip"
+                        app:riv_mutate_background="true"
+                        app:riv_oval="false" />
+
+                    <TextView
+                        android:id="@+id/tv_click_profile_iamge"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="right"
+                        android:text="Click to add add your image"
+                        android:textColor="@color/chitchato_mebratu_blue"
+                        android:textAppearance="?android:attr/textAppearanceLarge"  >
+                    </TextView>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linear4_register"
+            android:layout_width="fill_parent"
+            android:layout_height="80dp"
+            android:background="@color/chitchato_limon"
+            android:orientation="horizontal"
+            android:paddingRight="1dp"
+            android:paddingTop="10dp"
+            tools:context=".MainActivity" >
+
+            <LinearLayout
+                android:id="@+id/linear5_register"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.9"
+                android:gravity="right"
+                android:orientation="horizontal"
+                android:paddingBottom="0dp"
+                android:paddingLeft="30dp"
+                android:paddingRight="30dp"
+                tools:context=".MainActivity" >
+
+                <Button
+                    android:id="@+id/btn_send_register"
+                    style="?android:attr/borderlessButtonStyle"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:background="@drawable/button_custom"
+                    android:text="Send"
+                    android:textColor="@color/white_overlay"
+                    android:textSize="30sp" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

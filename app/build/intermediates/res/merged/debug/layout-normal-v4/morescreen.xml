@@ -1,0 +1,448 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black_overlay">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/black_overlay"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.9"
+            android:background="@color/chitchato_mebratu_cyan"
+            android:orientation="horizontal"
+            android:paddingBottom="2dp"
+            android:paddingLeft="0dp"
+            android:paddingRight="0dp"
+            android:paddingTop="10dp">
+
+            <TextView
+                android:id="@+id/tv_empty_bar_m2mscreen"
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:background="@color/chitchato_mebratu_cyan"
+                android:gravity="center"
+                android:text="More"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="@color/white_overlay"></TextView>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linear1"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.1"
+            android:background="@color/background_color_1"
+            android:orientation="vertical"
+            android:paddingBottom="0dp"
+            android:paddingTop="2dp"
+            tools:context=".MainActivity">
+
+            <LinearLayout
+                android:id="@+id/linear1_1"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.1"
+                android:background="@color/background_color_1"
+                android:orientation="horizontal"
+                android:paddingBottom="2dp"
+                android:paddingLeft="0dp"
+                android:paddingTop="2dp"
+                tools:context=".MainActivity">
+
+                <LinearLayout
+                    android:id="@+id/linear2"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.35"
+                    android:gravity="left"
+                    android:background="@color/cust_color_1"
+                    android:minHeight="1550dp"
+                    android:orientation="vertical"
+                    android:paddingBottom="10dp"
+                    android:paddingRight="0dp"
+                    android:paddingTop="5dp"
+                    android:scrollbarAlwaysDrawVerticalTrack="true"
+                    android:scrollbarStyle="outsideOverlay"
+                    android:scrollbars="vertical|horizontal"
+                    android:showDividers="none|beginning|middle|end">
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="0.30"
+                        android:gravity="left"
+                        android:orientation="horizontal"
+                        android:paddingBottom="5dp"
+                        android:paddingRight="0dp"
+                        android:paddingTop="5dp"
+                        android:scrollbarAlwaysDrawVerticalTrack="true"
+                        android:scrollbarStyle="outsideOverlay"
+                        android:scrollbars="vertical|horizontal"
+                        android:showDividers="none|beginning|middle|end">
+
+                        <LinearLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:gravity="right"
+                            android:orientation="vertical"
+                            android:paddingBottom="0dp">
+
+
+                            <LinearLayout
+                                android:layout_width="fill_parent"
+                                android:layout_height="fill_parent"
+                                android:layout_weight="0.60"
+                                android:background="@color/cust_color_1"
+                                android:gravity="right"
+                                android:orientation="vertical"
+                                android:paddingBottom="10dp">
+
+                                <TextView
+                                    android:id="@+id/tv_more_screen_one_"
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginBottom="15dp"
+                                    android:layout_marginTop="15dp"
+                                    android:background="@color/chitchato_mebratu_cyan"
+                                    android:gravity="center"
+                                    android:maxHeight="40dp"
+                                    android:text="Bootstraps Across the Globe"
+                                    android:textAppearance="?android:attr/textAppearanceMedium"
+                                    android:textColor="@color/white_overlay"></TextView>
+                            </LinearLayout>
+
+
+                            <ImageButton
+                                android:id="@+id/imageButton1"
+                                android:layout_width="fill_parent"
+                                android:layout_height="fill_parent"
+                                android:layout_margin="5dp"
+                                android:layout_weight="0.45"
+                                android:background="@drawable/button_custom_lime"
+                                android:scaleType="fitCenter"
+                                android:src="@drawable/global_bootstrap_cyan" />
+
+
+                            <LinearLayout
+                                android:layout_width="fill_parent"
+                                android:layout_height="fill_parent"
+                                android:layout_weight="0.550"
+                                android:background="@color/cust_color_1"
+                                android:gravity="right"
+                                android:orientation="vertical"
+                                android:paddingBottom="0dp">
+
+                                <TextView
+                                    android:id="@+id/tv_more_screen_zero"
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="fill_parent"
+                                    android:layout_weight="0.70"
+                                    android:background="@color/cust_color_1"
+                                    android:gravity="center"
+                                    android:maxHeight="40dp"
+                                    android:text="1 Public Bootstrap: Tap to see"
+                                    android:textColor="@color/background_color_1"
+                                    android:textSize="12sp" />
+
+
+
+                                <TextView
+                                    android:id="@+id/tv_more_screen_one"
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="fill_parent"
+                                    android:layout_marginBottom="15dp"
+                                    android:layout_marginTop="15dp"
+                                    android:layout_weight="0.30"
+                                    android:background="@color/cust_color_1"
+                                    android:gravity="center"
+                                    android:maxHeight="40dp"
+                                    android:text="User Name"
+                                    android:textSize="40sp"
+                                    android:textColor="@color/background_color_1"></TextView>
+                            </LinearLayout>
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="0.35"
+                        android:gravity="left"
+                        android:orientation="vertical"
+                        android:paddingBottom="0dp"
+                        android:paddingRight="0dp"
+                        android:paddingTop="5dp"
+                        android:scrollbarAlwaysDrawVerticalTrack="true"
+                        android:scrollbarStyle="outsideOverlay"
+                        android:scrollbars="vertical|horizontal"
+                        android:showDividers="none|beginning|middle|end">
+
+                        <LinearLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:layout_gravity="center"
+                            android:background="@color/cust_color_1"
+                            android:layout_weight="0.5"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:paddingBottom="0dp">
+                            <LinearLayout
+                                android:layout_width="fill_parent"
+                                android:layout_height="fill_parent"
+                                android:gravity="right"
+                                android:layout_weight="0.70"
+                                android:orientation="vertical"
+                                android:paddingBottom="0dp">
+
+                            <TextView
+                                android:id="@+id/tv_more_screen_three"
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:background="@color/chitchato_mebratu_cyan"
+                                android:gravity="center"
+                                android:maxHeight="40dp"
+                                android:text="Advertise Local Bootstrap"
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textColor="@color/white_overlay"></TextView></LinearLayout>
+
+
+                            <ImageButton
+                                android:id="@+id/imageButton_ads"
+                                android:layout_width="fill_parent"
+                                android:layout_height="fill_parent"
+                                android:layout_gravity="center"
+                                android:layout_marginBottom="25dp"
+                                android:layout_marginLeft="10dp"
+                                android:layout_marginRight="10dp"
+                                android:layout_marginTop="25dp"
+                                android:layout_weight="0.30"
+                                android:background="@drawable/button_custom_lime"
+                                android:scaleType="center"
+                                android:src="@drawable/advertise_local_bts" />
+
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="0.35"
+                        android:gravity="left"
+                        android:orientation="vertical"
+                        android:paddingBottom="5dp"
+                        android:paddingRight="0dp"
+                        android:paddingTop="5dp"
+                        android:scrollbarAlwaysDrawVerticalTrack="true"
+                        android:scrollbarStyle="outsideOverlay"
+                        android:scrollbars="vertical|horizontal"
+                        android:showDividers="none|beginning|middle|end">
+
+                        <LinearLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:layout_weight="0.5"
+                            android:background="@color/cust_color_1"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            android:paddingBottom="0dp">
+
+                            <LinearLayout
+                                android:layout_width="fill_parent"
+                                android:layout_height="fill_parent"
+                                android:gravity="right"
+                                android:layout_weight="0.70"
+                                android:orientation="vertical"
+                                android:paddingBottom="0dp">
+
+                            <TextView
+                                android:id="@+id/tv_more_screen_two"
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+
+                                android:background="@color/chitchato_mebratu_cyan"
+                                android:gravity="center"
+                                android:maxHeight="40dp"
+                                android:text="Social "
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textColor="@color/white_overlay"></TextView></LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginBottom="10dp"
+                                android:layout_marginTop="30dp"
+                                android:layout_weight="0.35"
+                                android:gravity="center"
+                                android:orientation="horizontal"
+                                android:paddingBottom="0dp"
+                                android:scrollbarAlwaysDrawVerticalTrack="true"
+                                android:scrollbars="horizontal">
+
+                                <LinearLayout
+                                    android:layout_width="100dp"
+                                    android:layout_height="fill_parent"
+                                    android:gravity="right"
+                                    android:orientation="horizontal"
+                                    android:paddingBottom="0dp"
+                                    android:paddingLeft="20dp"
+                                    android:paddingRight="0dp"
+                                    android:scrollbarAlwaysDrawVerticalTrack="true"
+                                    android:scrollbars="horizontal">
+
+                                    <ImageButton
+                                        android:id="@+id/imgv_more_screen_fb"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:background="@drawable/button_custom_circle_cust"
+                                        android:paddingBottom="10dp"
+                                        android:paddingLeft="10dp"
+                                        android:paddingRight="10dp"
+                                        android:paddingTop="10dp"
+                                        android:scaleType="fitCenter"
+                                        android:src="@drawable/facebook" />
+                                </LinearLayout>
+
+                                <LinearLayout
+                                    android:layout_width="100dp"
+                                    android:layout_height="fill_parent"
+                                    android:gravity="right"
+                                    android:orientation="horizontal"
+                                    android:paddingBottom="0dp"
+                                    android:paddingLeft="10dp"
+                                    android:paddingRight="10dp"
+                                    android:scrollbarAlwaysDrawVerticalTrack="true"
+                                    android:scrollbars="horizontal">
+
+                                    <ImageButton
+                                        android:id="@+id/imgv_more_screen_gp"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:background="@drawable/button_custom_circle_cust"
+                                        android:paddingBottom="10dp"
+                                        android:paddingLeft="10dp"
+                                        android:paddingRight="10dp"
+                                        android:paddingTop="10dp"
+                                        android:scaleType="fitCenter"
+                                        android:src="@drawable/google_" />
+                                </LinearLayout>
+
+                                <LinearLayout
+                                    android:layout_width="100dp"
+                                    android:layout_height="fill_parent"
+                                    android:gravity="right"
+                                    android:orientation="horizontal"
+                                    android:paddingBottom="0dp"
+                                    android:paddingLeft="0dp"
+                                    android:paddingRight="20dp"
+                                    android:scrollbarAlwaysDrawVerticalTrack="true"
+                                    android:scrollbars="horizontal">
+
+                                    <ImageButton
+                                        android:id="@+id/imgv_more_screen_tt"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:background="@drawable/button_custom_circle_cust"
+                                        android:paddingBottom="10dp"
+                                        android:paddingLeft="10dp"
+                                        android:paddingRight="10dp"
+                                        android:paddingTop="10dp"
+                                        android:scaleType="fitCenter"
+                                        android:src="@drawable/twitter" />
+                                </LinearLayout>
+
+                            </LinearLayout>
+                        </LinearLayout>
+                    </LinearLayout>
+
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="0.20"
+                        android:gravity="left"
+                        android:background="@color/cust_color_1"
+                        android:orientation="vertical"
+                        android:paddingBottom="0dp"
+                        android:paddingRight="0dp"
+                        android:paddingTop="0dp"
+                        android:scrollbarAlwaysDrawVerticalTrack="true"
+                        android:scrollbarStyle="outsideOverlay"
+                        android:scrollbars="vertical|horizontal"
+                        android:showDividers="none|beginning|middle|end">
+
+                        <LinearLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:gravity="right"
+                            android:orientation="vertical"
+                            android:paddingBottom="0dp">
+
+                            <TextView
+                                android:id="@+id/tv_more_screen_four"
+                                android:layout_width="fill_parent"
+                                android:layout_height="fill_parent"
+                                android:layout_weight="0.90"
+                                android:background="@color/chitchato_mebratu_cyan"
+                                android:gravity="center"
+                                android:maxHeight="40dp"
+                                android:text="Settings "
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textColor="@color/white_overlay">
+
+                            </TextView>
+
+                            <ListView
+                                android:id="@+id/lv_settings"
+                                android:layout_width="fill_parent"
+                                android:layout_height="fill_parent"
+                                android:layout_weight="0.10"
+                                android:divider="@color/background_color_1"
+                                android:listSelector="@color/chitchato_mebratu_blue"
+                                android:dividerHeight="0.3dp"
+                                android:drawSelectorOnTop="false"></ListView>
+                        </LinearLayout>
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.8"
+                android:background="@color/chitchato_mebratu_cyan"
+                android:orientation="horizontal"
+                android:paddingBottom="0dp"
+                android:paddingLeft="15dp"
+                android:paddingRight="15dp"
+                android:paddingTop="0dp">
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:gravity="right"
+                    android:orientation="horizontal"
+                    android:paddingLeft="15dp"
+                    android:paddingRight="15dp">
+
+                    <Button
+                        android:id="@+id/btn_more_screen_one"
+                        style="?android:attr/borderlessButtonStyle"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@drawable/button_custom"
+                        android:minHeight="60dp"
+                        android:text="Exit"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="@color/white_overlay" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

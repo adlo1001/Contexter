@@ -1,0 +1,69 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_chitchato"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/action_chitchato"/>
+    <item
+        android:id="@+id/action_sensor_en"
+        android:orderInCategory="100"
+        android:showAsAction="always|collapseActionView"
+        android:title="@string/action_sensor_en"/>
+    <item
+        android:id="@+id/action_advanced"
+        android:orderInCategory="100"
+        android:showAsAction="collapseActionView"
+        android:title="@string/action_advanced"/>
+    <!--
+          item
+        android:id="@+id/action_register"
+        android:orderInCategory="100"
+        android:showAsAction="always|collapseActionView"
+        android:title="@string/action_register"/
+    -->
+    <!--
+        item
+        android:id="@+id/action_search"
+        android:orderInCategory="100"
+        android:showAsAction="always|collapseActionView"
+        android:title="@string/action_search"/
+    -->
+    <!--
+        item
+        android:id="@+id/action_language"
+        android:orderInCategory="100"
+        android:showAsAction="always|collapseActionView"
+        android:title="@string/action_language"/
+    -->
+    <!--
+        item
+        android:id="@+id/action_help"
+        android:orderInCategory="100"
+        android:showAsAction="always|collapseActionView"
+        android:title="@string/action_help"/
+    -->
+    <!--
+        item
+        android:id="@+id/action_about"
+        android:orderInCategory="100"
+        android:showAsAction="always|collapseActionView"
+        android:title="@string/action_about"/
+    -->
+    <!--
+         item
+        android:id="@+id/action_state"
+        android:checkable="false"
+        android:checked="true"/
+    -->
+
+
+    <!--
+        item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="always|collapseActionView"
+        android:title="@string/action_settings"/
+    -->
+
+</menu>

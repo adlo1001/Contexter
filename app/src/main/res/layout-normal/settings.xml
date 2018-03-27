@@ -1,0 +1,136 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black_overlay"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:id="@+id/linear1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="0.1"
+        android:background="@color/chitchato_mebratu_cyan"
+        android:orientation="vertical"
+        android:paddingBottom="2dp"
+        android:paddingTop="2dp" >
+
+        <LinearLayout
+            android:id="@+id/linear1_1"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.15"
+            android:background="@color/cust_color_1"
+            android:gravity="right"
+            android:orientation="vertical"
+            android:paddingBottom="2dp"
+            android:paddingLeft="30dp"
+            android:paddingRight="30dp"
+            android:paddingTop="2dp" >
+
+            <LinearLayout
+                android:id="@+id/linear2"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.2"
+                android:background="@drawable/rectangletv_3"
+                android:gravity="center"
+                android:orientation="vertical"
+                android:paddingBottom="10dp"
+                android:paddingLeft="30dp"
+                android:paddingRight="30dp"
+                android:paddingTop="10dp"
+                android:scrollbarAlwaysDrawVerticalTrack="true"
+                android:scrollbarStyle="outsideOverlay"
+                android:scrollbars="vertical|horizontal"
+                android:showDividers="none|beginning|middle|end" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.5"
+                    android:gravity="right"
+                    android:orientation="horizontal"
+                    android:paddingBottom="10dp" >
+
+                    <TextView
+                        android:id="@+id/edt_settings_Platform"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/rectangletv_1"
+                        android:gravity="center"
+                        android:hint="Enter Group Name here"
+                        android:paddingBottom="10dp"
+                        android:paddingTop="10dp"
+                        android:textColor="@color/chitchato_blue" >
+                    </TextView>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.5"
+                    android:gravity="right"
+                    android:orientation="horizontal"
+                    android:paddingBottom="10dp" >
+
+                    <TextView
+                        android:id="@+id/edt_settings_interest"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/rectangletv_1"
+                        android:gravity="center"
+                        android:hint="Enter Interest here"
+                        android:paddingBottom="10dp"
+                        android:paddingTop="10dp"
+                        android:textColor="@color/chitchato_blue" >
+                    </TextView>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.5"
+                    android:gravity="right"
+                    android:orientation="horizontal"
+                    android:paddingBottom="10dp" >
+
+                    <TextView
+                        android:id="@+id/edt_settings_age_limit"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/rectangletv_1"
+                        android:gravity="center"
+                        android:hint="Enter Age Limit here"
+                        android:paddingBottom="10dp"
+                        android:paddingTop="10dp"
+                        android:textColor="@color/chitchato_blue" >
+                    </TextView>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.5"
+                    android:gravity="right"
+                    android:orientation="horizontal"
+                    android:paddingBottom="10dp" >
+
+                    <TextView
+                        android:id="@+id/edt_settings_group_leader"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/rectangletv_1"
+                        android:gravity="center"
+                        android:hint="Enter Leader here"
+                        android:paddingBottom="10dp"
+                        android:paddingTop="10dp"
+                        android:textColor="@color/chitchato_blue" >
+                    </TextView>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

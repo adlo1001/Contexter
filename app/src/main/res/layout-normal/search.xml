@@ -1,0 +1,233 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color_1"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="0.9"
+        android:background="@color/chitchato_mebratu_cyan"
+        android:orientation="horizontal"
+        android:paddingBottom="2dp"
+        android:paddingLeft="0dp"
+        android:paddingRight="0dp"
+        android:paddingTop="10dp">
+
+        <TextView
+            android:id="@+id/tv_search_title"
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:background="@color/chitchato_mebratu_cyan"
+            android:gravity="center"
+            android:text="Search Group"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/white_overlay" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linear1_search"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="0.1"
+        android:background="@color/background_color_1"
+        android:orientation="vertical"
+        android:paddingBottom="0dp"
+        android:paddingTop="2dp">
+
+        <LinearLayout
+            android:id="@+id/linear1_1_search"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.1"
+            android:background="@color/background_color_1"
+            android:gravity="right"
+            android:orientation="vertical"
+            android:paddingBottom="2dp"
+
+            android:paddingTop="0dp">
+
+            <LinearLayout
+                android:id="@+id/linear2_search"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.2"
+                android:background="@color/cust_color_1"
+                android:gravity="center"
+                android:orientation="vertical"
+                android:paddingBottom="10dp"
+                android:paddingLeft="40dp"
+                android:paddingRight="40dp"
+                android:paddingTop="10dp"
+                android:scrollbarAlwaysDrawVerticalTrack="true"
+                android:scrollbarStyle="outsideOverlay"
+                android:scrollbars="vertical|horizontal"
+                android:showDividers="none|beginning|middle|end">
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.5"
+                    android:gravity="right"
+                    android:orientation="horizontal"
+                    android:paddingBottom="10dp">
+
+                    <EditText
+                        android:id="@+id/edt_group_name"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:background="@drawable/rectangletv_2"
+                        android:focusableInTouchMode="true"
+                        android:gravity="center"
+                        android:hint="Group Name, Interest, vicinity"
+                        android:paddingBottom="10dp"
+                        android:paddingTop="10dp"
+                        android:text=""
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="@color/chitchato_blue"></EditText>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.5"
+                    android:gravity="right"
+                    android:orientation="horizontal"
+                    android:paddingBottom="10dp">
+
+                    <EditText
+                        android:id="@+id/edt_interest_search"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:background="@drawable/rectangletv_2"
+                        android:gravity="center"
+                        android:hint="Interest"
+                        android:paddingBottom="10dp"
+                        android:paddingLeft="5dp"
+                        android:paddingTop="10dp"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="@color/chitchato_blue"
+                        android:visibility="visible"></EditText>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.5"
+                    android:gravity="right"
+                    android:orientation="horizontal"
+                    android:paddingBottom="10dp">
+
+                    <EditText
+                        android:id="@+id/edt_keyword_search"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:background="@drawable/rectangletv_2"
+                        android:gravity="center"
+                        android:hint="Age Limit eg. +18"
+                        android:paddingBottom="10dp"
+                        android:paddingLeft="5dp"
+                        android:paddingTop="10dp"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="@color/chitchato_blue"
+                        android:visibility="visible"></EditText>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.5"
+                    android:gravity="right"
+                    android:orientation="horizontal"
+                    android:paddingBottom="10dp">
+
+                    <EditText
+                        android:id="@+id/edt_leader_search"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:background="@drawable/rectangletv_2"
+                        android:gravity="center"
+                        android:hint="Leader Name"
+                        android:paddingBottom="10dp"
+                        android:paddingLeft="5dp"
+                        android:paddingTop="10dp"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="@color/chitchato_blue"
+                        android:visibility="visible"></EditText>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.5"
+                    android:gravity="right"
+                    android:orientation="horizontal"
+                    android:paddingBottom="10dp">
+
+                    <EditText
+                        android:id="@+id/edt_vicinity_name_"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:background="@drawable/rectangletv_2"
+                        android:gravity="center"
+                        android:hint="vicinity eg. Stockholm"
+                        android:paddingBottom="10dp"
+                        android:paddingLeft="5dp"
+                        android:paddingTop="10dp"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="@color/chitchato_blue"
+                        android:visibility="visible">
+
+                    </EditText>
+                </LinearLayout>
+            </LinearLayout>
+
+            <ProgressBar
+                android:id="@+id/progress_bar_1"
+                style="?android:attr/progressBarStyleLarge"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_gravity="center"
+                android:visibility="gone"></ProgressBar>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linear4_search"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.8"
+            android:background="@color/chitchato_mebratu_cyan"
+            android:orientation="horizontal"
+            android:paddingBottom="2dp"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:paddingTop="2dp"
+            tools:context=".MainActivity">
+
+            <LinearLayout
+                android:id="@+id/linear5_search"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="@color/chitchato_mebratu_cyan"
+                android:gravity="right"
+                android:orientation="horizontal"
+                android:paddingLeft="15dp"
+                android:paddingRight="15dp">
+
+                <Button
+                    android:id="@+id/btn_send_search"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:background="@drawable/button_custom"
+                    android:text="Search"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/white_overlay" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

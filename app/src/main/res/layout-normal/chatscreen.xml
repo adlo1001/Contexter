@@ -1,0 +1,261 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/chitchato_mebratu_cyan"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="0.9"
+        android:background="@color/background_color_1"
+        android:minHeight="70dp"
+        android:orientation="horizontal"
+        android:paddingBottom="2dp"
+        android:paddingLeft="0dp"
+        android:paddingRight="0dp"
+        android:paddingTop="0dp">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@color/chitchato_mebratu_cyan"
+            android:minHeight="70dp"
+            android:orientation="horizontal"
+            android:paddingBottom="2dp"
+            android:paddingLeft="0dp"
+            android:paddingRight="5dp"
+            android:paddingTop="10dp">
+
+            <TextView
+                android:id="@+id/tv_empty_bar_chatscreen"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_gravity="center"
+                android:layout_weight="0.15"
+                android:background="@color/chitchato_mebratu_cyan"
+                android:gravity="center"
+                android:minHeight="50dp"
+                android:text=""
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="@color/white_overlay"></TextView>
+
+            <ImageButton
+                android:id="@+id/btn_hide"
+                android:layout_width="278dp"
+                android:layout_height="40dp"
+                android:layout_gravity="left"
+                android:layout_weight="0.85"
+                android:adjustViewBounds="false"
+                android:background="@drawable/circlebtn_yellow_without_border"
+                android:cropToPadding="false"
+                android:gravity="center_horizontal"
+                android:minHeight="50dp"
+                android:minWidth="50dp"
+                android:src="@drawable/ic_action_hide" />
+
+            <ImageButton
+                android:id="@+id/btn_show"
+                android:layout_width="280dp"
+                android:layout_height="40dp"
+                android:layout_gravity="left"
+                android:layout_weight="0.85"
+                android:adjustViewBounds="false"
+                android:background="@drawable/circlebtn_yellow_without_border"
+                android:cropToPadding="false"
+                android:gravity="center_horizontal"
+                android:minHeight="50dp"
+                android:minWidth="50dp"
+                android:src="@drawable/ic_action_show"
+                android:visibility="gone" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linear1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="0.1"
+        android:background="@drawable/bk_pattern_one"
+        android:orientation="vertical"
+        android:paddingBottom="2dp"
+        android:paddingTop="2dp"
+        android:scrollbarStyle="outsideOverlay"
+        android:scrollbars="vertical"
+        tools:context=".MainActivity">
+
+        <LinearLayout
+            android:id="@+id/linear1_1"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.1"
+            android:background="@android:color/transparent"
+            android:orientation="horizontal"
+            android:paddingBottom="2dp"
+            android:paddingLeft="15dp"
+            android:paddingTop="2dp"
+            tools:context=".MainActivity">
+
+            <LinearLayout
+                android:id="@+id/linear2"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.25"
+                android:background="@android:color/transparent"
+                android:gravity="left"
+                android:orientation="vertical"
+                android:paddingBottom="10dp"
+                android:paddingRight="0dp"
+                android:paddingTop="10dp"
+                android:scrollbarAlwaysDrawVerticalTrack="true"
+                android:scrollbarStyle="outsideOverlay"
+                android:scrollbars="vertical|horizontal"
+                android:showDividers="none|beginning|middle|end">
+
+                <GridView
+                    android:id="@+id/gridView1"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:background="@android:color/transparent"
+                    android:listSelector="@android:color/transparent"
+                    android:numColumns="1"
+                    android:paddingLeft="3dp"
+                    android:paddingRight="3dp"
+                    android:scrollbarAlwaysDrawVerticalTrack="true"
+                    android:scrollbarStyle="insideOverlay"></GridView>
+
+                <ProgressBar
+                    android:id="@+id/progressBar1"
+                    style="?android:attr/progressBarStyleLargeInverse"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:layout_centerHorizontal="true"
+                    android:layout_gravity="center_vertical|center_horizontal|center"
+                    android:layout_marginTop="150dp"
+                    android:visibility="gone"></ProgressBar>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/linear_chatscreen_3"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_gravity="right"
+                android:layout_weight="0.7"
+                android:clickable="true"
+                android:gravity="right"
+                android:longClickable="true"
+                android:orientation="horizontal"
+                android:paddingRight="2dp"
+                android:paddingTop="15dp"
+                tools:context=".MainActivity">
+
+                <ListView
+                    android:id="@+id/listView2_active_peers"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_gravity="right"
+                    android:clickable="true"
+                    android:divider="@color/chitchato_mebratu_cyan"
+                    android:drawSelectorOnTop="false"
+                    android:listSelector="@color/chitchato_mebratu_cyan"
+                    android:visibility="gone"></ListView>
+
+                <ListView
+                    android:id="@+id/listView2"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_gravity="right"
+                    android:background="@android:color/transparent"
+                    android:divider="@color/chitchato_mebratu_cyan"
+                    android:drawSelectorOnTop="false"
+                    android:listSelector="@android:color/transparent">
+                </ListView>
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linear4"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="15dp"
+            android:layout_weight="0.9"
+            android:background="@android:color/transparent"
+            android:minHeight="70dp"
+            android:orientation="horizontal"
+            android:paddingBottom="2dp"
+            android:paddingRight="1dp"
+            android:paddingTop="2dp"
+            tools:context=".MainActivity">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.35"
+                android:background="@drawable/rectangletv_1"
+                android:gravity="left"
+                android:orientation="horizontal"
+                android:paddingBottom="2dp"
+                android:paddingLeft="2dp"
+                android:paddingRight="2dp"
+                android:paddingTop="2dp">
+
+                <EditText
+                    android:id="@+id/edt_chatScreen"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.2"
+                    android:background="@color/cust_color_1"
+                    android:focusable="true"
+                    android:focusableInTouchMode="true"
+                    android:gravity="center|left"
+                    android:hint=" enter text here"
+                    android:lines="1"
+                    android:minHeight="64dp"
+                    android:scrollHorizontally="true"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/oregon">
+
+                    <requestFocus />
+                </EditText>
+
+                <ImageButton
+                    android:id="@+id/img_btn_addfile"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.8"
+                    android:background="@color/cust_color_1"
+                    android:minHeight="70dp"
+                    android:paddingLeft="2dp"
+                    android:src="@drawable/ic_attachment" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/linear5"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.65"
+                android:background="@android:color/transparent"
+                android:gravity="right"
+                android:orientation="horizontal"
+                android:paddingLeft="1dp"
+                tools:context=".MainActivity">
+
+                <Button
+                    android:id="@+id/btn_send_chatscreen"
+                    style="?android:attr/borderlessButtonStyle"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:background="@drawable/button_custom"
+                    android:minHeight="64dp"
+                    android:paddingLeft="3dp"
+                    android:shadowColor="@color/red"
+                    android:text="Send"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/white_overlay" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

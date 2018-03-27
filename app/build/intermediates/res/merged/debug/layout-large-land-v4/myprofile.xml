@@ -1,0 +1,339 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black_overlay"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="0.8"
+        android:background="@color/chitchato_limon"
+        android:orientation="horizontal"
+        android:paddingBottom="2dp"
+        android:paddingLeft="0dp"
+        android:paddingRight="0dp"
+        android:paddingTop="10dp">
+
+        <TextView
+            android:id="@+id/tv_localPeer"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@color/chitchato_yellow"
+            android:gravity="center"
+            android:text="My Profile"
+            android:textColor="@color/white_overlay"
+            android:textSize="35dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linear1_local_peer"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="0.2"
+        android:background="@color/chitchato_limon"
+        android:orientation="vertical"
+        android:paddingBottom="2dp"
+        android:paddingTop="2dp">
+
+        <LinearLayout
+            android:id="@+id/linear1_1_local_peer"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.2"
+            android:background="@color/cust_color_1"
+            android:gravity="right"
+            android:orientation="vertical"
+            android:paddingBottom="2dp"
+            android:paddingLeft="30dp"
+            android:paddingRight="30dp"
+            android:paddingTop="2dp">
+
+            <LinearLayout
+                android:id="@+id/linear2_local_peer"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.2"
+                android:background="@drawable/rectangletv_3"
+                android:gravity="center"
+                android:minHeight="600dp"
+                android:orientation="vertical"
+                android:layout_marginLeft="200dp"
+                android:layout_marginRight="100dp"
+                android:paddingBottom="10dp"
+                android:paddingLeft="30dp"
+                android:paddingRight="30dp"
+                android:paddingTop="10dp"
+                android:scrollbarAlwaysDrawVerticalTrack="true"
+                android:scrollbarStyle="outsideOverlay"
+                android:scrollbars="vertical|horizontal"
+                android:showDividers="none|beginning|middle|end">
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    android:paddingBottom="10dp">
+
+                    <ImageButton
+                        android:id="@+id/img_btn_profile_PIC"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:adjustViewBounds="false"
+                        android:background="@color/chitchato_yellow"
+                        android:cropToPadding="false"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/profile_image"
+                        android:visibility="invisible" />
+
+                    <se.sensiblethings.app.chitchato.extras.CustomImageView
+                        android:id="@+id/cust_image_view_profile_PIC"
+                        android:layout_width="60dip"
+                        android:layout_height="60dip"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentEnd="true"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentRight="true"
+                        android:layout_alignParentStart="true"
+                        android:layout_alignParentTop="true"
+                        android:layout_gravity="center"
+                        android:layout_margin="5dp"
+                        android:background="@color/chitchato_mebratu_cyan"
+                        android:padding="6dip"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/profile_image"
+                        app:riv_border_color="@color/chitchato_mebratu_cyan"
+                        app:riv_border_width="0dip"
+                        app:riv_corner_radius="365dip"
+                        app:riv_mutate_background="true"
+                        app:riv_oval="false" />
+
+                    <TextView
+                        android:id="@+id/tv_click_profile_iamge"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="right"
+                        android:text="Tap here to add your image"
+                        android:textAppearance="?android:attr/textAppearanceLarge"
+                        android:textColor="@color/chitchato_mebratu_blue"></TextView>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="50dp"
+                    android:layout_marginRight="50dp"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    android:paddingBottom="5dp">
+
+                    <TextView
+                        android:id="@+id/tv_peerPro_name"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="0.65"
+                        android:gravity="left"
+                        android:paddingBottom="0dp"
+                        android:paddingTop="0dp"
+                        android:text="Name:"
+                        android:textAppearance="?android:attr/textAppearanceLarge"
+                        android:textColor="@color/chitchato_mebratu_blue"></TextView>
+
+                    <EditText
+                        android:id="@+id/edt_peerPro_name"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="0.35"
+                        android:background="@drawable/rectangletv_2"
+                        android:gravity="left"
+                        android:maxLines="1"
+                        android:hint="Peer Name"
+                        android:paddingBottom="0dp"
+                        android:paddingTop="0dp"
+                        android:textColor="@color/chitchato_mebratu_blue"
+                        android:textAppearance="?android:attr/textAppearanceLarge"></EditText>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:layout_marginLeft="50dp"
+                    android:layout_marginRight="50dp"
+                    android:orientation="horizontal"
+                    android:paddingBottom="5dp">
+
+                    <TextView
+                        android:id="@+id/tv_peerPro_nick"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="0.65"
+                        android:gravity="left"
+                        android:paddingBottom="0dp"
+                        android:paddingTop="0dp"
+                        android:text="Nickname:"
+                        android:textAppearance="?android:attr/textAppearanceLarge"
+                        android:textColor="@color/chitchato_mebratu_blue"></TextView>
+
+                    <EditText
+                        android:id="@+id/edt_peerPro_nick"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="0.35"
+                        android:background="@drawable/rectangletv_2"
+                        android:gravity="left"
+                        android:maxLines="1"
+                        android:hint="Peer nick"
+                        android:paddingBottom="0dp"
+                        android:paddingTop="0dp"
+                        android:textColor="@color/chitchato_mebratu_blue"
+                        android:textAppearance="?android:attr/textAppearanceLarge"></EditText>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:layout_marginLeft="50dp"
+                    android:layout_marginRight="50dp"
+                    android:orientation="horizontal"
+                    android:paddingBottom="5dp">
+
+                    <TextView
+                        android:id="@+id/tv_peerPro_sex"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="0.65"
+                        android:gravity="left"
+                        android:paddingBottom="0dp"
+                        android:paddingTop="0dp"
+                        android:text="Sex:"
+                        android:textAppearance="?android:attr/textAppearanceLarge"
+                        android:textColor="@color/chitchato_mebratu_blue"></TextView>
+
+                    <EditText
+                        android:id="@+id/edt_peerPro_sex"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="0.35"
+                        android:background="@drawable/rectangletv_2"
+                        android:gravity="left"
+                        android:hint="E.g. M, F,NA"
+                        android:paddingBottom="0dp"
+                        android:paddingTop="0dp"
+                        android:textColor="@color/chitchato_mebratu_blue"
+                        android:textAppearance="?android:attr/textAppearanceLarge"></EditText>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:layout_marginLeft="50dp"
+                    android:layout_marginRight="50dp"
+                    android:orientation="horizontal"
+                    android:paddingBottom="5dp">
+
+                    <TextView
+                        android:id="@+id/tv_peerPro_age"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="0.65"
+                        android:gravity="left"
+                        android:paddingBottom="0dp"
+                        android:paddingTop="0dp"
+                        android:text="Age:"
+                        android:textAppearance="?android:attr/textAppearanceLarge"
+                        android:textColor="@color/chitchato_mebratu_blue"></TextView>
+
+                    <EditText
+                        android:id="@+id/edt_peerPro_age"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="0.35"
+                        android:background="@drawable/rectangletv_2"
+                        android:gravity="left"
+                        android:hint="Peer age"
+                        android:maxLines="1"
+                        android:paddingBottom="0dp"
+                        android:paddingTop="0dp"
+                        android:textColor="@color/chitchato_mebratu_blue"
+                        android:textAppearance="?android:attr/textAppearanceLarge"></EditText>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:layout_marginLeft="50dp"
+                    android:layout_marginRight="50dp"
+                    android:orientation="horizontal"
+                    android:paddingBottom="5dp">
+
+                    <TextView
+                        android:id="@+id/tv_peerPro_group"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="0.65"
+                        android:gravity="left"
+                        android:paddingBottom="0dp"
+                        android:paddingTop="0dp"
+                        android:text="Portfolio"
+                        android:textAppearance="?android:attr/textAppearanceLarge"
+                        android:textColor="@color/chitchato_mebratu_blue"></TextView>
+
+                    <Spinner
+                        android:id="@+id/spinner_my_profile_portofolio"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="0.35"
+                        android:background="@drawable/rectangletv_2"
+                        android:gravity="left"
+                        android:paddingBottom="0dp"
+                        android:paddingTop="0dp"
+                        android:textAppearance="?android:attr/textAppearanceLarge"
+                        android:textColor="@color/chitchato_mebratu_blue" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linear4_myprofile___"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.8"
+            android:background="@color/cust_color_1"
+            android:orientation="horizontal"
+            android:paddingRight="1dp"
+            android:paddingTop="1dp"
+            tools:context=".MainActivity">
+
+            <LinearLayout
+                android:id="@+id/linear5_profile_pic"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="@color/chitchato_mebratu_cyan"
+                android:gravity="right"
+                android:orientation="horizontal"
+                android:paddingBottom="0dp"
+                android:paddingLeft="30dp"
+                android:paddingRight="30dp">
+
+
+                <Button
+                    android:id="@+id/button_refresh_my_profile"
+                    style="?android:attr/borderlessButtonStyle"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:background="@drawable/button_custom"
+                    android:text="Update"
+                    android:textColor="@color/white_overlay"
+                    android:textSize="30sp" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

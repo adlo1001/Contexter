@@ -1,0 +1,421 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/cust_color_1"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:paddingBottom="0dp"
+        android:paddingTop="0dp"
+        tools:context=".MainActivity">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.1"
+            android:background="@color/background_color_1"
+            android:orientation="vertical"
+            android:paddingBottom="2dp"
+            android:paddingTop="0dp">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.9"
+                android:background="@color/background_color_1"
+                android:gravity="right"
+                android:orientation="vertical"
+                android:paddingBottom="2dp"
+                android:paddingRight="0dp"
+                android:paddingTop="0dp">
+
+                <TextView
+                    android:id="@+id/tv_purge_chitchat"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:background="@color/chitchato_mebratu_cyan"
+                    android:gravity="center"
+                    android:text="Purge"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:textColor="@color/white_overlay" />
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.1"
+                android:background="@color/cust_color_1"
+                android:gravity="right"
+                android:orientation="vertical"
+                android:paddingBottom="0dp"
+                android:paddingRight="0dp"
+                android:paddingTop="20dp">
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="0.6"
+                    android:background="@drawable/rectangletv_1"
+                    android:gravity="left|center"
+                    android:orientation="vertical"
+                    android:paddingBottom="3dp"
+                    android:paddingRight="2dp"
+                    android:paddingTop="0dp">
+
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="0.5"
+                        android:gravity="left|center"
+                        android:orientation="horizontal"
+                        android:paddingBottom="2dp"
+                        android:paddingRight="2dp"
+                        android:paddingTop="0dp">
+
+                        <TextView
+                            android:id="@+id/tv_private_message_len"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="0.3"
+                            android:background="@color/cust_color_1"
+                            android:gravity="left|center"
+                            android:paddingBottom="10dp"
+                            android:paddingLeft="30dp"
+                            android:paddingTop="10dp"
+                            android:text="Private Message"
+                            android:textAppearance="?android:attr/textAppearanceSmall"
+                            android:textColor="@color/chitchato_mebratu_blue" />
+
+                        <EditText
+                            android:id="@+id/edt_private_message_len"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="0.6"
+                            android:background="@drawable/rectangletv_2"
+                            android:gravity="center"
+                            android:paddingBottom="10dp"
+                            android:paddingTop="10dp"
+                            android:text="10"
+                            android:textAppearance="?android:attr/textAppearanceSmall"
+                            android:textColor="@color/chitchato_mebratu_blue" />
+
+                        <Button
+                            android:id="@+id/btn_private_message_len"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="0.6"
+                            android:background="@drawable/button_custom"
+                            android:gravity="center"
+                            android:paddingBottom="10dp"
+                            android:paddingTop="10dp"
+                            android:text="Reset"
+                            android:textAppearance="?android:attr/textAppearanceSmall"
+                            android:textColor="@color/white_overlay" />
+                    </LinearLayout>
+
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_gravity="left"
+                        android:layout_weight="0.5"
+                        android:gravity="left|center"
+                        android:orientation="horizontal"
+                        android:paddingBottom="0dp"
+                        android:paddingRight="2dp"
+                        android:paddingTop="0dp">
+
+                        <TextView
+                            android:id="@+id/tv_public_message_len"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="0.3"
+                            android:background="@color/cust_color_1"
+                            android:gravity="left|center"
+                            android:paddingBottom="10dp"
+                            android:paddingLeft="30dp"
+                            android:paddingTop="10dp"
+                            android:text="Public Message"
+                            android:textAppearance="?android:attr/textAppearanceSmall"
+                            android:textColor="@color/chitchato_mebratu_blue" />
+
+                        <EditText
+                            android:id="@+id/edt_public_message_len"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="0.6"
+                            android:background="@drawable/rectangletv_2"
+                            android:gravity="center"
+                            android:paddingBottom="10dp"
+                            android:paddingTop="10dp"
+                            android:text="10"
+                            android:textAppearance="?android:attr/textAppearanceSmall"
+                            android:textColor="@color/chitchato_mebratu_blue" />
+
+                        <Button
+                            android:id="@+id/btn_public_message_len"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="0.6"
+                            android:background="@drawable/button_custom"
+                            android:gravity="center"
+                            android:paddingBottom="10dp"
+                            android:paddingTop="10dp"
+                            android:text="Reset"
+                            android:textAppearance="?android:attr/textAppearanceSmall"
+                            android:textColor="@color/white_overlay" />
+                    </LinearLayout>
+
+
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_marginTop="5dp"
+                    android:layout_weight="0.6"
+
+                    android:gravity="left|center"
+                    android:orientation="vertical"
+                    android:paddingBottom="2dp"
+                    android:paddingRight="2dp"
+                    android:paddingTop="2dp">
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="0.5"
+                        android:gravity="left|center"
+                        android:orientation="horizontal"
+                        android:paddingBottom="2dp"
+                        android:paddingRight="2dp"
+                        android:paddingTop="0dp">
+
+
+                        <TextView
+                            android:id="@+id/tv_label_grps"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="0.75"
+                            android:background="@color/cust_color_1"
+                            android:gravity="center"
+                            android:paddingBottom="10dp"
+                            android:paddingLeft="0dp"
+                            android:paddingTop="10dp"
+                            android:text="   Groups"
+                            android:textAppearance="?android:attr/textAppearanceSmall"
+                            android:textColor="@color/chitchato_mebratu_blue" />
+
+
+                        <Spinner
+                            android:id="@+id/spinner_my_groups_purg"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:layout_gravity="left"
+                            android:layout_weight="0.25"
+                            android:background="@drawable/rectangletv_2"
+                            android:gravity="left|center_vertical"
+                            android:hint="Group Name"
+                            android:prompt="@color/green_overlay"
+                            android:scrollbars="vertical"
+
+                            android:textAppearance="?android:attr/textAppearanceSmall"
+                            android:textColor="@color/chitchato_blue"
+                            tools:listitem="@android:layout/simple_spinner_dropdown_item" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="0.5"
+                        android:gravity="left|center"
+                        android:orientation="horizontal"
+                        android:paddingBottom="0dp"
+                        android:paddingRight="2dp"
+                        android:paddingTop="0dp">
+
+                        <TextView
+                            android:id="@+id/tv_bar_peer"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="0.5"
+                            android:background="@color/cust_color_1"
+                            android:gravity="center"
+                            android:paddingBottom="10dp"
+                            android:paddingTop="10dp"
+                            android:text="UCI"
+                            android:textAppearance="?android:attr/textAppearanceSmall"
+                            android:textColor="@color/chitchato_mebratu_blue" />
+
+                        <EditText
+                            android:id="@+id/edt_bar_peer"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="0.3"
+                            android:background="@drawable/rectangletv_1"
+                            android:gravity="center"
+                            android:hint="eg. user@miun.se/random"
+                            android:paddingBottom="10dp"
+                            android:paddingTop="10dp"
+                            android:text=""
+                            android:textAppearance="?android:attr/textAppearanceSmall"
+                            android:textColor="@color/chitchato_mebratu_blue" />
+
+                        <Button
+                            android:id="@+id/btn_bar_peer"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="0.5"
+                            android:background="@drawable/button_custom"
+                            android:gravity="center"
+                            android:paddingBottom="10dp"
+                            android:paddingTop="10dp"
+                            android:text="Bar"
+                            android:textAppearance="?android:attr/textAppearanceSmall"
+                            android:textColor="@color/white_overlay" />
+                    </LinearLayout>
+
+
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_margin="5dp"
+                    android:layout_weight="0.35"
+                    android:background="@drawable/rectangletv_1"
+                    android:gravity="left|center"
+                    android:orientation="vertical"
+                    android:paddingBottom="2dp"
+                    android:paddingRight="2dp"
+                    android:paddingTop="2dp">
+
+                    <RadioGroup
+                        android:id="@+id/radioGroup1"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_gravity="left"
+                        android:layout_weight="0.17"
+                        android:gravity="left"
+                        android:orientation="vertical"
+                        android:paddingBottom="5dp"
+                        android:paddingLeft="5dp"
+                        android:paddingTop="16dp">
+
+                        <RadioButton
+                            android:id="@+id/radio0_purge_all_user_files"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:checked="true"
+                            android:gravity="center_vertical|start|center_horizontal"
+                            android:paddingBottom="2dp"
+                            android:text="Purge All User Files from Contexter"
+                            android:textAppearance="?android:attr/textAppearanceSmall"
+                            android:textColor="@color/chitchato_mebratu_blue" />
+
+                        <RadioButton
+                            android:id="@+id/radio1_purge_only_own_group"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:paddingBottom="2dp"
+                            android:text="Purge only data related to My own Group"
+                            android:textAppearance="?android:attr/textAppearanceSmall"
+                            android:textColor="@color/chitchato_mebratu_blue" />
+
+                        <RadioButton
+                            android:id="@+id/radio2_delete_favorite_groups"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:paddingBottom="2dp"
+                            android:text="Delete Imported Groups"
+                            android:textAppearance="?android:attr/textAppearanceSmall"
+                            android:textColor="@color/chitchato_mebratu_blue" />
+
+                        <RadioButton
+                            android:id="@+id/radio3_return_toFreshly_installed"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:paddingBottom="2dp"
+                            android:paddingTop="2dp"
+                            android:text="Restore to the Freshly Installed"
+                            android:textAppearance="?android:attr/textAppearanceSmall"
+                            android:textColor="@color/chitchato_mebratu_blue" />
+                    </RadioGroup>
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_gravity="right"
+                        android:layout_weight="0.83"
+                        android:background="@android:color/transparent"
+                        android:orientation="horizontal"
+                        android:paddingBottom="4dp"
+                        android:paddingLeft="175dp"
+                        android:paddingRight="20dp"
+                        android:paddingTop="0dp">
+
+                        <LinearLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:gravity="right"
+                            android:orientation="horizontal"
+                            android:paddingLeft="1dp">
+
+                            <Button
+                                android:id="@+id/btn_purge_"
+                                style="?android:attr/borderlessButtonStyle"
+                                android:layout_width="fill_parent"
+                                android:layout_height="fill_parent"
+                                android:background="@drawable/button_custom"
+                                android:text="Purge"
+                                android:textAppearance="?android:attr/textAppearanceSmall"
+                                android:textColor="@color/white_overlay" />
+                        </LinearLayout>
+                    </LinearLayout>
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.9"
+            android:background="@color/chitchato_mebratu_cyan"
+            android:orientation="horizontal"
+            android:paddingBottom="0dp"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:paddingTop="0dp">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="right"
+                android:orientation="horizontal"
+                android:paddingLeft="1dp">
+
+                <Button
+                    android:id="@+id/btn_purge_exit"
+                    style="?android:attr/borderlessButtonStyle"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:background="@drawable/button_custom"
+                    android:text="Exit"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/white_overlay" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

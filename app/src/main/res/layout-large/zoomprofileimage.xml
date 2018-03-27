@@ -1,0 +1,62 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/linear_grditem_4"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@android:color/transparent"
+        android:gravity="center"
+        android:minHeight="100dp"
+        android:orientation="vertical"
+        android:paddingBottom="2dp"
+        android:paddingLeft="2dp"
+        android:paddingTop="0dp"
+        tools:context=".MainActivity">
+
+        <LinearLayout
+            android:id="@+id/imageView_lo_"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="0.2"
+            android:background="@android:color/transparent"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:paddingLeft="0dp"
+            android:paddingRight="0dp">
+
+            <ImageView
+                android:id="@+id/imageView_grditem_1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:minHeight="80dp"
+                android:minWidth="80dp"
+                android:scaleType="center"
+                android:src="@drawable/world_map_temp_two___________old" />
+
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tv_chat_screen_context_chatter"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="0.8"
+            android:gravity="center_horizontal"
+            android:lines="1"
+            android:maxHeight="80dp"
+            android:maxLines="1"
+            android:scrollHorizontally="true"
+            android:text="Chitchater"
+            android:textColor="@color/chitchato_mebratu_blue"
+            android:textSize="30sp" />
+    </LinearLayout>
+
+</LinearLayout>

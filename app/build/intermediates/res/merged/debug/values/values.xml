@@ -1,0 +1,1562 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="appliances">
+        <item>Door One</item>
+        <item>Door Two</item>
+        <item>Window One </item>
+        <item>Window Two </item>
+        <item>TV One</item>
+        <item>TV Two</item>
+    </string-array>
+    <string-array name="help_container_am">
+        <item name="tip_am">ጠቃሚ ምክሮች</item>
+        <item name="support_am">እርዳታ</item>
+        <item name="terms_am">መመሪያው </item>
+        <item name="policy_am">ፖሊሲ</item>
+        <item name="copyright_am">የቅጂ መብት</item>
+        <item name="social_am">ማኅበራዊ</item>
+    </string-array>
+    <string-array name="help_container_en">
+        <item>Tip</item>
+        <item>Support</item>
+        <item>Terms</item>
+        <item>Policy</item>
+        <item>Copyright</item>
+        <item>Social</item>
+    </string-array>
+    <string-array name="help_container_fr">
+        <item name="tip_fr">Astuce</item>
+        <item name="support_fr">Soutien</item>
+        <item name="terms_fr">Termes </item>
+        <item name="policy_fr">Polipolitique de confidentialit\'ecy</item>
+        <item name="copyright_fr">Copyright</item>
+        <item name="social_fr">Social</item>
+    </string-array>
+    <string-array name="help_container_pr">
+        <item name="tip_pr">Tips</item>
+        <item name="support_pr">Apoyo</item>
+        <item name="terms_pr">Términos</item>
+        <item name="policy_pr">Policy</item>
+        <item name="copyright_pr">Copyright</item>
+        <item name="social_pr">Social</item>
+    </string-array>
+    <string-array name="help_container_sp">
+        <item>Sugerencia</item>
+        <item>Asistencia </item>
+        <item>Términos </item>
+        <item>Política </item>
+        <item>Privilegio</item>
+        <item>Social</item>
+    </string-array>
+    <string-array name="help_container_sv">
+        <item name="tip_sv">Tips</item>
+        <item name="support_sv">Stöd</item>
+        <item name="terms_sv">Villkor</item>
+        <item name="policy_sv">Policy</item>
+        <item name="copyright_sv">Copyright</item>
+        <item name="social_sv">Sociala</item>
+    </string-array>
+    <string-array name="languages">
+        <item>English</item>
+        <item>Svenska</item>
+        <item>Español</item>
+        <item>Portugueses</item>
+        <item>Français</item>
+    </string-array>
+    <string-array name="languages_am">
+        <item>English_am</item>
+        <item>Svenska_am</item>
+        <item>Spanish_am</item>
+        <item>Portugese_am</item>
+        <item>French_am</item>
+        <item>አማርኛ_am</item>
+    </string-array>
+    <string-array name="languages_fr">
+        <item>English_fr</item>
+        <item>Svenska_fr</item>
+        <item>Spanish_fr</item>
+        <item>Portugese_fr</item>
+        <item>French_fr</item>
+        <item>አማርኛ_fr</item>
+    </string-array>
+    <string-array name="languages_pr">
+        <item>English_pr</item>
+        <item>Svenska_pr</item>
+        <item>Spanish_pr</item>
+        <item>Portugese_pr</item>
+        <item>French_pr</item>
+        <item>አማርኛ_pr</item>
+    </string-array>
+    <string-array name="languages_sp">
+        <item>English</item>
+        <item>Svenska</item>
+        <item>Español</item>
+        <item>Portugueses</item>
+        <item>Français</item>
+    </string-array>
+    <string-array name="languages_sv">
+        <item>English</item>
+        <item>Svenska</item>
+        <item>Spanish</item>
+        <item>Portugese</item>
+        <item>French</item>
+        <item>አማርኛ</item>
+    </string-array>
+    <string-array name="menu_array_am">
+        <item>ኮንቴክስት  </item>
+        <item>ቡደን</item>
+        <item>ፒር</item>
+        <item>ፍለጋ</item>
+        <item>ቋንቋ</item>
+        <item>መረጃ</item>
+        <item>ኮንቴክስተር</item>
+        <item> ውጣ</item>
+        >
+    </string-array>
+    <string-array name="menu_array_en">
+        <item>Context      </item>
+        <item>Group</item>
+        <item>UCI</item>
+        <item>Search</item>
+        <item>Language</item>
+        <item>Help</item>
+        <item>About</item>
+        <item>Quit</item>
+        >
+    </string-array>
+    <string-array name="menu_array_en_">
+        <item>α</item>
+        <item>β</item>
+        <item>γ</item>
+        <item>δ</item>
+        <item>ε</item>
+        <item>ζ</item>
+        <item>η</item>
+        <item>θ</item>
+    </string-array>
+    <string-array name="menu_array_fr">
+        <item>Context  </item>
+        <item>Groupe</item>
+        <item>UCI</item>
+        <item>Rechercher</item>
+        <item>Langue</item>
+        <item>Aid</item>
+        <item>Sur</item>
+        <item>Quitter</item>
+        >
+    </string-array>
+    <string-array name="menu_array_pr">
+        <item>Context  </item>
+        <item>Grupo</item>
+        <item>UCI</item>
+        <item>Procurar</item>
+        <item>Língua</item>
+        <item>Ajudar</item>
+        <item>Sobre</item>
+        <item>Desistir</item>
+        >
+    </string-array>
+    <string-array name="menu_array_sp">
+        <item>Context  </item>
+        <item>Grupo</item>
+        <item>UCI</item>
+        <item>Buscar</item>
+        <item>Idioma</item>
+        <item>Ayudar</item>
+        <item>Acerca de</item>
+        <item>Dejar de</item>
+        >
+    </string-array>
+    <string-array name="menu_array_sv">
+        <item>Context  </item>
+        <item>Grupp</item>
+        <item>UCI</item>
+        <item>Sök</item>
+        <item>Språk</item>
+        <item>Hjälp</item>
+        <item>om</item>
+        <item>Avsluta</item>
+        >
+    </string-array>
+    <string-array name="settings_am">
+        <item>ክሬዲት ለመግዛት</item>
+        <item>ቡትስትራፕ አክል</item>
+        <item>UCI አክል</item>
+        <item>መገልገያ አክል</item>
+        <item>ግላዊነት</item>
+        <item>ማሳወቂያዎች</item>
+        <item>መልዕክቶች</item>
+        <item>ቡትስትራፕር </item>
+        <item>ቡድኖች</item>
+        <item> ነባሪዎች ለመመለስ</item>
+    </string-array>
+    <string-array name="settings_en">
+        <item>Buy Credit</item>
+        <item>Add Bootstrap</item>
+        <item>Add UCI</item>
+        <item>Add Device</item>
+        <item>Privacy</item>
+        <item>Notifications</item>
+        <item>Messages</item>
+        <item>Bootstrapper </item>
+        <item>Groups</item>
+        <item>Extra</item>
+    </string-array>
+    <string-array name="settings_fr">
+        <item>Acheter du Crédit</item>
+        <item>Ajouter Bootstrap</item>
+        <item>Ajouter UCI</item>
+        <item>Ajouter Dispositif</item>
+        <item>Intimité</item>
+        <item>notifications</item>
+        <item>Messages</item>
+        <item>Bootstrapper </item>
+        <item>Groupes</item>
+        <item>Réinitialiser</item>
+    </string-array>
+    <string-array name="settings_pr">
+        <item>comprar crédito</item>
+        <item>Adicionar Bootstrap</item>
+        <item>Adicionar UCI</item>
+        <item>Adicionar Dispositivo</item>
+        <item>Privacidade</item>
+        <item>Notificações</item>
+        <item>Mensagens</item>
+        <item>Bootstrapper </item>
+        <item>Grupos</item>
+        <item>Restaurar padrões</item>
+    </string-array>
+    <string-array name="settings_sp">
+        <item>Compra Crédito</item>
+        <item>Añadir Bootstrap</item>
+        <item>Añadir UCI</item>
+        <item>Añadir dispositivo</item>
+        <item>Intimidad</item>
+        <item>Notificaciones</item>
+        <item>Mensajes</item>
+        <item>Bootstrapper</item>
+        <item>Grupos</item>
+        <item>Archivos </item>
+    </string-array>
+    <string-array name="settings_sv">
+        <item>Köp kredit</item>
+        <item>Lägg Bootstrap</item>
+        <item>Lägg UCI</item>
+        <item>Lägg Anordning</item>
+        <item>Privatliv</item>
+        <item>Aviseringar</item>
+        <item>Meddelanden</item>
+        <item>Bootstrapper </item>
+        <item>Grupper</item>
+        <item>Återgå till grundinställningarna</item>
+    </string-array>
+    <color name="aqua">#00FFFF</color>
+    <color name="background_color_1">#ffcccccc</color>
+    <color name="black">#000000</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="blue">#0000ff</color>
+    <color name="blue_other">#DAE2F8</color>
+    <color name="blue_overlay">#0000ff</color>
+    <color name="blue_overlay_1">#33b5e5</color>
+    <color name="chartreuse">#7FFF00</color>
+    <color name="chitchato_blue">#0070C0</color>
+    <color name="chitchato_border_color">#7F7F7F</color>
+    <color name="chitchato_limon">#18bc9c</color>
+    <color name="chitchato_limon_">#86B404</color>
+    <color name="chitchato_limon_old">#99FF66</color>
+    <color name="chitchato_limon_old_2">#C6FFA9</color>
+    <color name="chitchato_mebratu_blue">#2c3e50</color>
+    <color name="chitchato_mebratu_cyan">#18bc9c</color>
+    <color name="chitchato_yellow">#18bc9c</color>
+    <color name="chitchato_yellow_">#D7DF01</color>
+    <color name="chitchato_yellow_old">#FFFF99</color>
+    <color name="cust_color_1">#fff2f2f2</color>
+    <color name="fuchsia">#FF00FF</color>
+    <color name="gray_overlay">#ffcccccc</color>
+    <color name="green">#00ff00</color>
+    <color name="green_other">#008000</color>
+    <color name="green_overlay">#669900</color>
+    <color name="indigo">#4B0082</color>
+    <color name="layout_border_color">#FF111111</color>
+    <color name="maroon">#800000</color>
+    <color name="oregon">#993300</color>
+    <color name="red">#ff0000</color>
+    <color name="status_bar_color">#FF000000</color>
+    <color name="white">#ffffff</color>
+    <color name="white_overlay">#fff2f2f2</color>
+    <color name="yellow">#ffff00</color>
+    <declare-styleable name="RoundedImageView"><attr format="dimension" name="riv_corner_radius"/><attr format="dimension" name="riv_corner_radius_top_left"/><attr format="dimension" name="riv_corner_radius_top_right"/><attr format="dimension" name="riv_corner_radius_bottom_left"/><attr format="dimension" name="riv_corner_radius_bottom_right"/><attr format="dimension" name="riv_border_width"/><attr format="color" name="riv_border_color"/><attr format="boolean" name="riv_mutate_background"/><attr format="boolean" name="riv_oval"/><attr name="android:scaleType"/><attr name="riv_tile_mode"><enum name="clamp" value="0"/><enum name="repeat" value="1"/><enum name="mirror" value="2"/></attr><attr name="riv_tile_mode_x"><enum name="clamp" value="0"/><enum name="repeat" value="1"/><enum name="mirror" value="2"/></attr><attr name="riv_tile_mode_y"><enum name="clamp" value="0"/><enum name="repeat" value="1"/><enum name="mirror" value="2"/></attr></declare-styleable>
+    <declare-styleable name="draw_graph_view"><attr format="string" name="min_value"/><attr format="string" name="max_value"/><attr format="string" name="value_one"/><attr format="string" name="value_two"/><attr format="string" name="value_three"/><attr format="string" name="value_four"/><attr format="string" name="value_five"/><attr format="string" name="value_six"/><attr format="string" name="value_seven"/><attr format="string" name="value_eight"/><attr format="string" name="value_nine"/><attr format="string" name="value_ten"/><attr format="string" name="month"/><attr format="boolean" name="windowActionBar"/><attr format="boolean" name="windowNoTitle"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="listview_item_padding">16dp</dimen>
+    <dimen name="padding">16dp</dimen>
+    <integer name="contact_detail_info_percent">55</integer>
+    <integer name="contact_detail_photo_percent">45</integer>
+    <integer name="google_play_services_version">7095000</integer>
+    <string name="Menu_tv_am">ሜኑ</string>
+    <string name="Menu_tv_fr">Menu</string>
+    <string name="Menu_tv_pr">Cardápio</string>
+    <string name="Menu_tv_sv">Meny</string>
+    <string name="Welcome_tv_am"> እንኳን ወደ ኮንቴክስተር በደህና መጡ</string>
+    <string name="Welcome_tv_fr"> Bienvenue à Contexter</string>
+    <string name="Welcome_tv_pr"> Bem-vindo ao Contexter</string>
+    <string name="Welcome_tv_sp">Bienvenido a Contextos</string>
+    <string name="Welcome_tv_sv">Välkommen till Contexter</string>
+    <string name="about_text_am">\n
+        Contexter : "Contexter "\n
+                  ስሪት 1.0.0 የአልፋ ደረጃ  ነሐሴ 2015 እኤአ  ጀምሮ
+        Contexter የሞባይል አፕሊኬሽን  የቅጂ መብት ብህግ የተጠብቀ ነው።
+                  ሁሉም ተጓዳኝ ውሎች እና የመጠቀሚያ ስምምነቶች ድረ ገጹ ላይ ይገኛሉ. \n
+                  ለተጨማሪ www.contexter.mobi ይጎብኙ.</string>
+    <string name="about_text_en">Contexter 1.0.2 \n
+    Copyright 2016 12Stars Studio. All rights reserved.\n\n
+    Contexter is built on open platform: \n
+    MediaSense \n\n\n
+    Contexter is cross-platform distributed IoT Application. Contexter enables intercommunication between peoples, machines and both. Send Instant Messages and photos free of Charge. Advertise your interest, your group and your sales for free.  Sense your smart environment.\n Control house hold appliances.\n
+    \n    For more  Visit  www.contexter.mobi\n
+    </string>
+    <string name="about_text_fr">Contexter 1.0.2 \ n
+     Copyright 2016 Studio 12Stars. Tous droits réservés. \ N \ n
+     Contexter est construit sur une plateforme open source: \ n
+     Plateforme MediaSense \ n \ n \ n
+     Contexter est une application IoT distribuée multiplate-forme. Contexter permet l\'intercommunication entre les peuples, les machines et les deux. Envoyez des messages instantanés et des photos gratuitement. Annoncez votre intérêt, votre groupe et vos ventes gratuitement. Sentez votre environnement intelligent. \n Dispositifs de prise de contrôle de la maison. \n
+     \n Pour en savoir plus Visitez www.contexter.mobi \ n
+    </string>
+    <string name="about_text_pr">Contexter 1.0.2 \n
+    Copyright 2016 12Stars Studio. All rights reserved.\n\n
+    Contexter is built on open source platform: \n
+    MediaSense Platform \n\n\n
+    Contexter is cross-platform distributed IoT Application. Contexter enables intercommunication between peoples, machines and both. Send Instant Messages and photos free of Charge. Advertise your interest, your group and your sales for free.  Sense your smart environment.\n Control house hold appliances.\n
+    \n    For more  Visit  www.contexter.mobi\n
+    </string>
+    <string name="about_text_sp">Contexter 1.0.2 \n
+     Copyright 2016 Estudio 12Stars. Todos los derechos reservados. \n \n
+     Contexter se basa en la plataforma de código abierto: \n
+     Plataforma de MediaSense \n \n \n
+     Contexter es la Aplicación IoT distribuida entre plataformas. Contexter permite la intercomunicación entre los pueblos, las máquinas y ambos. Envíe mensajes instantáneos y fotos gratis. Anuncie su interés, su grupo y sus ventas de forma gratuita. Mire su entorno inteligente. \n Controla los dispositivos de mantenimiento en casa. \n
+     \n Para más información visite www.contexter.mobi \n
+    </string>
+    <string name="about_text_sv">\n
+       Contexter: "Contexter"
+Version 1.0.0 alpha sedan augusti 2015.
+Contexter Mobile är upphovsrätten .
+Alla motsvarande villkor och avtal de verktyg som används är tillgängliga på webbplatsen. \n
+För mer besök www.contexter.mobi.</string>
+    <string name="action_about">About</string>
+    <string name="action_about_am">ስለ ኮንቴክስተር </string>
+    <string name="action_about_fr">Informations</string>
+    <string name="action_about_pr">Sobre</string>
+    <string name="action_about_sp">Sobre </string>
+    <string name="action_about_sv">Om</string>
+    <string name="action_acceleration_am">ጥድፊያ</string>
+    <string name="action_acceleration_en">Motion</string>
+    <string name="action_acceleration_fr">Motion</string>
+    <string name="action_acceleration_pr">Motion</string>
+    <string name="action_acceleration_sp">Motion</string>
+    <string name="action_acceleration_sv">Motion</string>
+    <string name="action_add_bootstrap_am">ቡትስትራፕ አክል </string>
+    <string name="action_add_bootstrap_en">Add Bootstrap</string>
+    <string name="action_add_bootstrap_fr">Ajouter Bootstrap </string>
+    <string name="action_add_bootstrap_pr">Adicionar Bootstrap</string>
+    <string name="action_add_bootstrap_sp">AÃ±adir Bootstrap</string>
+    <string name="action_add_bootstrap_sv">Lägg Bootstrap</string>
+    <string name="action_adv_group_am">ቡድኖች ያስተዋውቁ</string>
+    <string name="action_adv_group_en">Advertise Groups</string>
+    <string name="action_adv_group_fr">Annoncez Groupes</string>
+    <string name="action_adv_group_pr">Anuncie Grupos</string>
+    <string name="action_adv_group_sp">Grupos Publicidad</string>
+    <string name="action_adv_group_sv">Annonsera Grupper</string>
+    <string name="action_advanced">Purge</string>
+    <string name="action_advanced_am">አጥፋ</string>
+    <string name="action_advanced_fr">Purge</string>
+    <string name="action_advanced_pr">Purga</string>
+    <string name="action_advanced_sp">Purga</string>
+    <string name="action_advanced_sv">Purge</string>
+    <string name="action_bootstrap_am">ቡትስትራፕ </string>
+    <string name="action_bootstrap_en">Bootstrap</string>
+    <string name="action_bootstrap_fr">Bootstrap</string>
+    <string name="action_bootstrap_ip_am">ቡትስትራፕ  IP:</string>
+    <string name="action_bootstrap_ip_fr">Bootstrap IP:</string>
+    <string name="action_bootstrap_ip_pr">Bootstrap IP:</string>
+    <string name="action_bootstrap_ip_sp">Bootstrap IP:</string>
+    <string name="action_bootstrap_ip_sv">Bootstrap IP:</string>
+    <string name="action_bootstrap_pr">Bootstrap</string>
+    <string name="action_bootstrap_sp">Bootstrap</string>
+    <string name="action_bootstrap_sv">Bootstrap</string>
+    <string name="action_chitchato">Contexter</string>
+    <string name="action_chitchato_am">ኮንቴክስት </string>
+    <string name="action_chitchato_fr">Contexter</string>
+    <string name="action_chitchato_pr">Contexter</string>
+    <string name="action_chitchato_sp">Contexter</string>
+    <string name="action_chitchato_sv">Contexter</string>
+    <string name="action_create">Create</string>
+    <string name="action_create_am">ፈልግ</string>
+    <string name="action_create_fr">Créer</string>
+    <string name="action_create_pr">Criar</string>
+    <string name="action_create_sp">Crear</string>
+    <string name="action_create_sv">Skapa</string>
+    <string name="action_debug_am">ዲብግ</string>
+    <string name="action_debug_fr">Debug</string>
+    <string name="action_debug_pr">Debug</string>
+    <string name="action_debug_sp">Debug</string>
+    <string name="action_debug_sv">Debug</string>
+    <string name="action_devices_am">መገልገያ ለመቆጣጠር</string>
+    <string name="action_devices_fr">Dispositifs de Contrôle</string>
+    <string name="action_devices_pr">Dispositivos para Controlar</string>
+    <string name="action_devices_sp">Dispositivos para el Control</string>
+    <string name="action_devices_sv">Anordningar för Att Kontrollera</string>
+    <string name="action_help">Help</string>
+    <string name="action_help_am">እርዳታ</string>
+    <string name="action_help_fr">aid</string>
+    <string name="action_help_pr">Ajudar</string>
+    <string name="action_help_sp">Ayuda</string>
+    <string name="action_help_sv">Hjälp</string>
+    <string name="action_language">Language</string>
+    <string name="action_language_am">ቋንቋ</string>
+    <string name="action_language_fr">langue</string>
+    <string name="action_language_pr">Língua</string>
+    <string name="action_language_sp">Idioma</string>
+    <string name="action_language_sv">Språk</string>
+    <string name="action_limunosity_am">የብርሃን መጠን </string>
+    <string name="action_limunosity_en">Limunosity</string>
+    <string name="action_limunosity_fr">Luminosité</string>
+    <string name="action_limunosity_pr">Luminosidade</string>
+    <string name="action_limunosity_sp">Luminosidad</string>
+    <string name="action_limunosity_sv">Luminositet</string>
+    <string name="action_location_am">መገኛ አካባቢ</string>
+    <string name="action_location_en">Location</string>
+    <string name="action_location_fr">Emplacement</string>
+    <string name="action_location_pr">Localização</string>
+    <string name="action_location_sp">UbicaciÃ³n</string>
+    <string name="action_location_sv">Plats</string>
+    <string name="action_more_am">ተጨማሪ</string>
+    <string name="action_more_fr">Plus</string>
+    <string name="action_more_pr">Más</string>
+    <string name="action_more_sp">MÃ¡s</string>
+    <string name="action_more_sv">Mer</string>
+    <string name="action_register">Register</string>
+    <string name="action_register_am">ተመዝገብ</string>
+    <string name="action_register_fr">s\'inscrire</string>
+    <string name="action_register_pr">Registre</string>
+    <string name="action_register_sp">Registro</string>
+    <string name="action_register_sv">Registrera</string>
+    <string name="action_search">Search</string>
+    <string name="action_search_am">ፈልግ</string>
+    <string name="action_search_fr">Rechercher</string>
+    <string name="action_search_pr">Pesquisa</string>
+    <string name="action_search_sp">Buscar</string>
+    <string name="action_search_sv">Sök</string>
+    <string name="action_sense">Sense</string>
+    <string name="action_sense_am">ሴንስ</string>
+    <string name="action_sense_fr">Sense</string>
+    <string name="action_sense_pr">Sense</string>
+    <string name="action_sense_sp">Sense</string>
+    <string name="action_sense_sv">Sense</string>
+    <string name="action_sensor_am">ሴንስሮች</string>
+    <string name="action_sensor_en">Sensors</string>
+    <string name="action_sensor_fr">Capteurs</string>
+    <string name="action_sensor_pr">Sensores</string>
+    <string name="action_sensor_sp">Sensores</string>
+    <string name="action_sensor_sv">Sensorer</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_settings_am">ቅንብሮች</string>
+    <string name="action_settings_fr">Paramètres</string>
+    <string name="action_settings_pr">Configurações</string>
+    <string name="action_settings_sp">Ajustes</string>
+    <string name="action_settings_sv">Inställningar</string>
+    <string name="action_sound_am">ድምፅ</string>
+    <string name="action_sound_en">Sound</string>
+    <string name="action_sound_fr">Son</string>
+    <string name="action_sound_pr">Som</string>
+    <string name="action_sound_sp">Sonido</string>
+    <string name="action_sound_sv">Ljud</string>
+    <string name="activity_contact_detail">Contact Detail</string>
+    <string name="activity_contact_detail_am">Contact Detail</string>
+    <string name="activity_contact_detail_sp">Detalles del Contacto</string>
+    <string name="activity_contacts_list">Contacts List</string>
+    <string name="activity_contacts_list_am">Contacts List</string>
+    <string name="activity_contacts_list_sp">Lista de contactos</string>
+    <string name="add_to_favorite_groups_am">ወደ ቺት ቻት ግሩፕ ጨምር</string>
+    <string name="add_to_favorite_groups_fr">Ajouter aux groupes préférés</string>
+    <string name="add_to_favorite_groups_pr">Adicionar aos Grupos Favoritos</string>
+    <string name="add_to_favorite_groups_sp">Añadir a Grupos Favoritos</string>
+    <string name="add_to_favorite_groups_sv">Lägg till favoritgrupper</string>
+    <string name="address_button_description">View Address</string>
+    <string name="address_button_description_am">View Address</string>
+    <string name="address_button_description_sp">Ver dirección</string>
+    <string name="address_found">Address Found</string>
+    <string name="address_found_fr">Address Found</string>
+    <string name="address_found_sp">Dirección encontrada</string>
+    <string name="address_found_sv">Adress Hittades</string>
+    <string name="advanced_search">Advanced</string>
+    <string name="advanced_search_fr">Avancée</string>
+    <string name="advanced_search_pr">Avançado</string>
+    <string name="advanced_search_sp">Avanzado</string>
+    <string name="advanced_search_sv">Avancerad</string>
+    <string name="age_am"> ዕድሜ</string>
+    <string name="age_fr"> Âge</string>
+    <string name="age_pr"> idade</string>
+    <string name="age_sp"> Edad</string>
+    <string name="age_sv"> ålder</string>
+    <string name="all_cleints">All Peers</string>
+    <string name="all_cleints_fr">Tous les pairs</string>
+    <string name="all_cleints_pr">Todos os pares</string>
+    <string name="all_cleints_sp">Todos los compañeros</string>
+    <string name="all_cleints_sv">Alla Klienter</string>
+    <string name="app_description">This is a sample app, demonstrating use of the Android system Contacts Provider.</string>
+    <string name="app_description_am">This is a sample app, demonstrating use of the Android system Contacts Provider.</string>
+    <string name="app_description_sp">This is a sample app, demonstrating use of the Android system Contacts Provider.</string>
+    <string name="app_name">Contexter</string>
+    <string name="busy_">busy</string>
+    <string name="busy__">busy</string>
+    <string name="busy__am">busy</string>
+    <string name="busy__fr">busy</string>
+    <string name="busy__pr">busy</string>
+    <string name="busy__sp">busy</string>
+    <string name="busy__sv">Upptagen</string>
+    <string name="busy_am">busy</string>
+    <string name="busy_fr">Occupé</string>
+    <string name="busy_pr">busy</string>
+    <string name="busy_sp">busy</string>
+    <string name="busy_sv">busy</string>
+    <string name="contacts_list_search_results_title">Contacts List Search for \"%s\"</string>
+    <string name="contacts_list_search_results_title_am">Contacts List Search for \"%s\"</string>
+    <string name="contacts_list_search_results_title_sp">Búsqueda de la lista de contactos \"%s\"</string>
+    <string name="context_chat_text_am"> conTexting</string>
+    <string name="context_chat_text_fr"> conTexting</string>
+    <string name="context_chat_text_pr"> conTexting </string>
+    <string name="context_chat_text_sp"> conTexting</string>
+    <string name="context_chat_text_sv"> conTexting</string>
+    <string name="contexter_readings">Contexter Readings</string>
+    <string name="contexter_readings_fr">Contexter Valeurs</string>
+    <string name="contexter_readings_pr">Contexter Valores</string>
+    <string name="contexter_readings_sp">Contexter Valores</string>
+    <string name="contexter_readings_sv">Contexter Värden</string>
+    <string name="control_am">\n M 2 M \nመቆጣጠሪያ</string>
+    <string name="control_fr">\n M 2 M \nContrôle</string>
+    <string name="control_pr">\n M 2 M \nControle</string>
+    <string name="control_sp">\n M 2 M \nControlar</string>
+    <string name="control_sv">\n M 2 M \nKontrollera</string>
+    <string name="copyright">Copyright</string>
+    <string name="copyright_am">Copyright</string>
+    <string name="copyright_fr">Copyright</string>
+    <string name="copyright_pr">Copyright</string>
+    <string name="create_group_am">ግሩፕ ፈልግ</string>
+    <string name="create_group_fr">Créer des groupes</string>
+    <string name="create_group_pr">crear Grupos</string>
+    <string name="create_group_sp">Crear Grupos</string>
+    <string name="create_group_sv">Skapa grupper</string>
+    <string name="create_tv_age_limit_am">የግሩፕ ዕድሜ ገደብ</string>
+    <string name="create_tv_age_limit_fr">Limite du âge Groupe</string>
+    <string name="create_tv_age_limit_pr">limite de idade do grupo</string>
+    <string name="create_tv_age_limit_sv">Grupp åldersgräns</string>
+    <string name="create_tv_group_interest_am">የግሩፕ ፍላጎት</string>
+    <string name="create_tv_group_interest_fr">Intérêt du groupe</string>
+    <string name="create_tv_group_interest_pr">interesse do grupo</string>
+    <string name="create_tv_group_interest_sv">Grupper intresse</string>
+    <string name="create_tv_group_name_am">የግሩፕ ስም</string>
+    <string name="create_tv_group_name_fr">Nom de groupe</string>
+    <string name="create_tv_group_name_pr">nome do grupo</string>
+    <string name="create_tv_group_name_sv">Gruppnamn</string>
+    <string name="create_tv_team_leader_am">ግሩፕ መሪ ስም</string>
+    <string name="create_tv_team_leader_fr">Le chef du groupe</string>
+    <string name="create_tv_team_leader_pr">líder de grupo</string>
+    <string name="create_tv_team_leader_sv">Gruppledare</string>
+    <string name="delete_am">አጥፋ</string>
+    <string name="delete_fr">Effacer</string>
+    <string name="delete_groups_am"> ፈይሎችህን ከኮንቴክስተር ላይ አጥፋ</string>
+    <string name="delete_groups_fr">Supprimer les groupes</string>
+    <string name="delete_groups_pr"> Exclua todos os arquivos de Contexter</string>
+    <string name="delete_groups_sp"> Eliminar grupos de Contexter </string>
+    <string name="delete_groups_sv"> Radera Grupper Från Context</string>
+    <string name="delete_pr">Excluir</string>
+    <string name="delete_sp">Borrar</string>
+    <string name="delete_sv">Radera</string>
+    <string name="done_am">ፈፅም</string>
+    <string name="done_fr">Done_FR</string>
+    <string name="done_pr">Feito</string>
+    <string name="done_sp">Done_sp</string>
+    <string name="done_sv">Upptagen</string>
+    <string name="enter_profile_pic_am">ምስል አስገባ</string>
+    <string name="enter_profile_pic_fr">Choisir une photo de profil</string>
+    <string name="enter_profile_pic_pr">Digite Imagem Perfil</string>
+    <string name="enter_profile_pic_sp">Introduzca Foto de Perfil</string>
+    <string name="enter_profile_pic_sv">Ange profilbild</string>
+    <string name="error_am">ችግር</string>
+    <string name="error_fr">Erreur</string>
+    <string name="error_pr">Erro</string>
+    <string name="error_sp">Error</string>
+    <string name="error_sv">Fel</string>
+    <string name="exit_am">ውጣ</string>
+    <string name="exit_fr">Sortie</string>
+    <string name="exit_pr">Saída</string>
+    <string name="exit_sp">Salida</string>
+    <string name="exit_sv">utgång</string>
+    <string name="extra_settings_en">
+       Note:  Free advertisements are limited.\n To advertise unlimited generate a code.
+    </string>
+    <string name="extra_settings_fr">
+     Note: Les publicités gratuites sont limitées. \n Pour annoncer un nombre illimité de générer un code.
+    </string>
+    <string name="extra_settings_pr">
+       Note:  Free advertisements are limited.\n To advertise unlimited generate a code.
+    </string>
+    <string name="extra_settings_sp">
+      Nota: Los anuncios gratuitos son limitados. \ N Para anunciar ilimitado generar un código.
+    </string>
+    <string name="get_offline">Offline</string>
+    <string name="get_offline_am">ከመስመር ውጭ</string>
+    <string name="get_offline_fr">déconnecté </string>
+    <string name="get_offline_pr">Off-line</string>
+    <string name="get_offline_sp">Desconectado </string>
+    <string name="get_offline_sv">Offline</string>
+    <string name="get_online">Online</string>
+    <string name="get_online_am">መስመር ላይ</string>
+    <string name="get_online_fr">en ligne</string>
+    <string name="get_online_pr">Online_pr</string>
+    <string name="get_online_sp">Online_sp</string>
+    <string name="get_online_sv">Online</string>
+    <string name="help_text_1_1_am"> Context is any information about the immediate environment in which an object is located. If an object by some means gets any useful information about its immediate environment and able to provide that information for farther data processing then that Object is said to be context aware.
+                    A system is context-aware if it uses context to provide relevant information and/or services to the user, where relevancy depends on the user\'s task. "Therefore, Context-aware application is an application which provides services to the users based on current context of the computing device and surrounding environments.</string>
+    <string name="help_text_1_1_en"> Context is any information about the immediate environment in which an object is located. If an object by some means gets any useful information about its immediate environment and able to provide that information for farther data processing then that Object is said to be context aware.
+                    A system is context-aware if it uses context to provide relevant information and/or services to the user, where relevancy depends on the user\'s task. "Therefore, Context-aware application is an application which provides services to the users based on current context of the computing device and surrounding environments.</string>
+    <string name="help_text_1_1_fr"> Le contexte est toute l\'information sur l\'environnement immédiat dans un objet est situé. Si un objet pour quelque moyen obtient toutes les informations utiles sur son environnement immédiat et capable de fournir cette information pour le traitement de données plus lointain alors cet objet est dit être contexte conscient.
+                      Un système est conscient du contexte s\'il utilise le contexte pour fournir des informations et / ou des services pertinents à l\'utilisateur, la pertinence dépend de la tâche de l\'utilisateur. \"Par conséquent, Context-aware application est une application qui fournit des services aux utilisateurs sur la base du contexte actuel de la périphérique informatique et environnements environnants.</string>
+    <string name="help_text_1_1_pr"> Context is any information about the immediate environment in which an object is located. If an object by some means gets any useful information about its immediate environment and able to provide that information for farther data processing then that Object is said to be context aware.
+                    A system is context-aware if it uses context to provide relevant information and/or services to the user, where relevancy depends on the user\'s task. "Therefore, Context-aware application is an application which provides services to the users based on current context of the computing device and surrounding environments.</string>
+    <string name="help_text_1_1_sp"> Context is any information about the immediate environment in which an object is located. If an object by some means gets any useful information about its immediate environment and able to provide that information for farther data processing then that Object is said to be context aware.
+                    A system is context-aware if it uses context to provide relevant information and/or services to the user, where relevancy depends on the user\'s task. "Therefore, Context-aware application is an application which provides services to the users based on current context of the computing device and surrounding environments.</string>
+    <string name="help_text_1_1_sv"> Kontext är någon information om den omedelbara miljö i vilken ett föremål befinner sig. Om ett objekt på något sätt får någon användbar information om sin närmiljö och kan ge den informationen för längre databehandling då objekt sägs vara kontext medveten.                      Ett system är kontextmedveten om den använder kontext för att ge relevant information och / eller tjänster för användaren, där relevans beror på användarens \'s uppgift. "Därför, kontextmedvetna program är ett program som tillhandahåller tjänster till användare baserat på nuvarande ramen för datorenhet och omgivande miljöer.</string>
+    <string name="help_text_1_am"> What is Context? \n</string>
+    <string name="help_text_1_en"> What is Context? \n</string>
+    <string name="help_text_1_fr"> Qu\'est-ce que Contexte? \n</string>
+    <string name="help_text_1_pr"> What is Context? \n</string>
+    <string name="help_text_1_sp"> ¿Qué es Contexto\n</string>
+    <string name="help_text_1_sv"> Vad är Kontext?\n</string>
+    <string name="help_text_2_1_am">        Texting is nothing but just Texting. Other peers cant read others context information. As opposed to the Texting, conTexting allows other friends to
+        read data from sensors and other sources about you .</string>
+    <string name="help_text_2_1_en">        Texting is nothing but just Texting. Other peers cant read others context information. As opposed to the Texting, conTexting allows other friends to
+        read data from sensors and other sources about you .</string>
+    <string name="help_text_2_1_fr">        Les textes ne sont rien d\'autre que des textes. D\'autres pairs ne peuvent pas lire d\'autres informations contextuelles. Contrairement à Texting, conTexting permet à d\'autres amis de
+         Lire des données provenant de capteurs et d\'autres sources à votre sujet.</string>
+    <string name="help_text_2_1_pr">        Texting is nothing but just Texting. Other peers cant read others context information. As opposed to the Texting, conTexting allows other friends to
+        read data from sensors and other sources about you .</string>
+    <string name="help_text_2_1_sp">        Los mensajes de texto no son más que mensajes de texto. Otros compañeros no pueden leer otra información de contexto. A diferencia de Texting, conTexting permite a otros amigos
+         Leer datos de sensores y otras fuentes sobre usted.</string>
+    <string name="help_text_2_1_sv"> Textning är bara Texting. Andra kamrater cant läsa andra kontextinformation . Till skillnad från textning, conTexting tillåter andra vänner till          läsa data från sensorer och andra källor om dig.</string>
+    <string name="help_text_2_am"> What is the difference between the two modes ? \n</string>
+    <string name="help_text_2_en"> What is the difference between the two modes ? \n</string>
+    <string name="help_text_2_fr">Quelle est la différence entre les deux modes? \n</string>
+    <string name="help_text_2_pr"> What is the difference between the two modes ? \n</string>
+    <string name="help_text_2_sp"> ¿Cuál es la diferencia entre los dos modos \n</string>
+    <string name="help_text_2_sv"> Vad är skillnaden mellan de två lägena ? \n</string>
+    <string name="help_text_3_1_am">Creating a group of your own is as easy as registering to existing group.  Enter your information so that people can easily find you.
+                                  \n</string>
+    <string name="help_text_3_1_en">Creating a group of your own is as easy as registering to existing group.  Enter your information so that people can easily find you.
+                                  \n</string>
+    <string name="help_text_3_1_fr">Créer un groupe de votre propre est aussi simple que l\'inscription à un groupe existant. Entrez vos informations afin que les gens puissent vous trouver facilement.
+                                  \n</string>
+    <string name="help_text_3_1_pr">Creating a group of your own is as easy as registering to existing group.  Enter your information so that people can easily find you.
+                                  \n</string>
+    <string name="help_text_3_1_sp">Crear un grupo propio es tan fácil como registrarse en un grupo existente. Ingrese su información para que la gente pueda encontrarle fácilmente.
+                                  \n</string>
+    <string name="help_text_3_1_sv">Skapa en grupp av dina egna är lika enkelt som att registrera att befintlig grupp. Ange din information så att människor lätt kan hitta dig. \n</string>
+    <string name="help_text_3_am"> How to Create a  Group ? \n</string>
+    <string name="help_text_3_en"> How to Create a  Group ? \n</string>
+    <string name="help_text_3_fr">Comment créer un groupe? \n</string>
+    <string name="help_text_3_pr"> How to Create a  Group ? \n</string>
+    <string name="help_text_3_sp"> ¿Cómo crear un grupo \n</string>
+    <string name="help_text_3_sv"> Hur man skapar en grupp? \n</string>
+    <string name="help_text_4_1_am">In order to Join a group you should import the groups to your device. Search groups and add them to your favorites list. Once you imported to your device join the groups. you can join as many groups as you would  like.
+                                  \n</string>
+    <string name="help_text_4_1_en">In order to Join a group you should import the groups to your device. Search groups and add them to your favorites list. Once you imported to your device join the groups. you can join as many groups as you would  like.
+                                  \n</string>
+    <string name="help_text_4_1_fr">Pour rejoindre un groupe, vous devez importer les groupes sur votre appareil. Recherchez des groupes et ajoutez-les à votre liste de favoris. Une fois que vous avez importé votre appareil, rejoignez les groupes. Vous pouvez rejoindre autant de groupes que vous le souhaitez.
+                                  \n</string>
+    <string name="help_text_4_1_pr">In order to Join a group you should import the groups to your device. Search groups and add them to your favorites list. Once you imported to your device join the groups. you can join as many groups as you would  like.
+                                  \n</string>
+    <string name="help_text_4_1_sp">Para unirse a un grupo, debe importar los grupos a su dispositivo. Busca grupos y agrégalos a tu lista de favoritos. Una vez que haya importado a su dispositivo, únase a los grupos. Puedes unirte a tantos grupos como quieras.
+                                  \n</string>
+    <string name="help_text_4_1_sv">För att delta i en grupp bör du importera grupperna till enheten. Sök grupper och lägga till dem i din favoritlista . När du har importerat till enheten gå med i grupper. du kan gå så många grupper som du vill. \n</string>
+    <string name="help_text_4_am"> Join a Group \n</string>
+    <string name="help_text_4_en"> Join a Group \n</string>
+    <string name="help_text_4_fr">Rejoindre un groupe \n</string>
+    <string name="help_text_4_pr"> Join a Group \n</string>
+    <string name="help_text_4_sp"> Únete a un grupo \n</string>
+    <string name="help_text_4_sv"> Gå med i en grupp \n</string>
+    <string name="help_text_5_1_am">To keep your contextual information to yourself, you should use Texting.
+                                 \n</string>
+    <string name="help_text_5_1_en">To keep your contextual information to yourself, you should use Texting.
+                                 \n</string>
+    <string name="help_text_5_1_fr">Pour conserver vos informations contextuelles, vous devez utiliser Texting.
+                                 \n</string>
+    <string name="help_text_5_1_pr">To keep your contextual information to yourself, you should use Texting.
+                                 \n</string>
+    <string name="help_text_5_1_sp">Para mantener su información contextual a sí mismo, debe usar Texting.
+                                 \n</string>
+    <string name="help_text_5_1_sv">För att hålla din kontextuell information för dig själv, bör du använda Texting. \n</string>
+    <string name="help_text_5_am"> How to stay anonymous and keep your privacy? \n</string>
+    <string name="help_text_5_en"> How to stay anonymous and keep your privacy? \n</string>
+    <string name="help_text_5_fr"> Comment rester anonyme et garder votre vie privée? \n</string>
+    <string name="help_text_5_pr"> How to stay anonymous and keep your privacy? \n</string>
+    <string name="help_text_5_sp"> ¿Cómo mantenerse anónimo y mantener su privacidad? \n</string>
+    <string name="help_text_5_sv"> Hur man vara anonym och hålla ditt privatliv?\n</string>
+    <string name="help_text_am">        In the peer-to-peer paradigm, Internet hosts that would normally be
+considered "clients" not only initiate sessions to peer nodes, but
+also accept sessions initiated by peer nodes. The initiator and the
+responder might lie behind different NAT devices with neither
+endpoint having a permanent IP address or other form of public
+network presence. A common online gaming architecture, for example,
+involves all participating application hosts contacting a publicly
+addressable rendezvous server for registering themselves and
+discovering peer hosts. Subsequent to the communication with the
+rendezvous server, the hosts establish direct connections with each
+other for fast and efficient propagation of updates during game play.
+Similarly, a file sharing application might contact a well-known
+rendezvous server for resource discovery or searching, but establish
+direct connections with peer hosts for data transfer.</string>
+    <string name="help_text_fr"> Dans le paradigme peer-to-peer, les hôtes Internet qui seraient normalement
+Les «clients» non seulement initient des sessions aux nœuds pairs, mais
+Acceptent également des sessions initiées par des nœuds pairs. L\'initiateur et le
+Répondeur peut se trouver derrière différents périphériques NAT sans
+Endpoint ayant une adresse IP permanente ou une autre forme de
+Réseau. Une architecture de jeu en ligne commune, par exemple,
+Implique que tous les hôtes d\'application participants communiquent avec un
+Serveur de rendez-vous adressable pour s\'inscrire et
+La découverte des hôtes homologues. À la suite de la communication avec le
+Rendezvous, les hôtes établissent des connexions directes avec
+Autres pour la propagation rapide et efficace des mises à jour pendant le jeu.
+De même, une application de partage de fichiers peut contacter une application bien connue
+Serveur de rendez-vous pour la découverte ou la recherche de
+Des connexions directes avec des hôtes homologues pour le transfert de données.</string>
+    <string name="help_text_pr">        In the peer-to-peer paradigm, Internet hosts that would normally be
+considered "clients" not only initiate sessions to peer nodes, but
+also accept sessions initiated by peer nodes. The initiator and the
+responder might lie behind different NAT devices with neither
+endpoint having a permanent IP address or other form of public
+network presence. A common online gaming architecture, for example,
+involves all participating application hosts contacting a publicly
+addressable rendezvous server for registering themselves and
+discovering peer hosts. Subsequent to the communication with the
+rendezvous server, the hosts establish direct connections with each
+other for fast and efficient propagation of updates during game play.
+Similarly, a file sharing application might contact a well-known
+rendezvous server for resource discovery or searching, but establish
+direct connections with peer hosts for data transfer.</string>
+    <string name="help_text_sv"> I peer-to-peer-paradigm, Internet värdar som normalt skulle vara betraktas som "kunder" inte bara initiera sessioner to peer noder, men också acceptera sessioner startas av en annan noder. Initiativtagaren och svars kan ligga bakom olika NAT-enheter med varken endpoint har en permanent IP-adress eller annan form av offentlig nätverk närvaro. En vanlig spel arkitektur, till exempel, involverar alla deltagande programvärdar i kontakt med en offentligt adresser rendezvous server för att registrera sig och upptäcka peer-värdar. Efter det att kommunikationen med rendezvous server, värdarna upprätta direkta förbindelser med varandra andra för snabb och effektiv spridning av uppdateringar under spelets gång. På samma sätt kan en fildelning ansökan kontakta ett välkänt rendezvous server för resurs upptäckt eller söka, men etablera direkta förbindelser med kamrat värdar för dataöverföring.</string>
+    <string name="help_tv_am">መርጃ</string>
+    <string name="help_tv_fr">Aid</string>
+    <string name="help_tv_pr">Socorro</string>
+    <string name="help_tv_sv">Hjälp</string>
+    <string name="hint_enter_group_age_limit_am">ዕድሜ</string>
+    <string name="hint_enter_group_age_limit_fr">Limite</string>
+    <string name="hint_enter_group_age_limit_pr">Limite</string>
+    <string name="hint_enter_group_age_limit_sp">LÃ­mite de edad</string>
+    <string name="hint_enter_group_age_limit_sv">åldersgräns</string>
+    <string name="hint_enter_group_interest_am">ግሩፕ ዓላማ..</string>
+    <string name="hint_enter_group_interest_fr">Intérêt</string>
+    <string name="hint_enter_group_interest_pr">Interesse</string>
+    <string name="hint_enter_group_interest_sp">InterÃ©s</string>
+    <string name="hint_enter_group_interest_sv">Intressera</string>
+    <string name="hint_enter_group_leader_am">ግሩፕ መሪ..</string>
+    <string name="hint_enter_group_leader_fr">Le chef</string>
+    <string name="hint_enter_group_leader_pr">Líder</string>
+    <string name="hint_enter_group_leader_sp">Lider</string>
+    <string name="hint_enter_group_leader_sv">Gruppledare</string>
+    <string name="hint_enter_group_name_am">ግሩፕ ስም..</string>
+    <string name="hint_enter_group_name_fr">Nom</string>
+    <string name="hint_enter_group_name_pr">Nome</string>
+    <string name="hint_enter_group_name_sp">Nombre del Grupo</string>
+    <string name="hint_enter_group_name_sv">Gruppnamn</string>
+    <string name="hint_enter_group_nickname_am">ቅጽል ስም..</string>
+    <string name="hint_enter_group_nickname_fr">Surnom</string>
+    <string name="hint_enter_group_nickname_pr"> Apelido</string>
+    <string name="hint_enter_group_nickname_sp">Apodo</string>
+    <string name="hint_enter_group_nickname_sv">Smeknamn</string>
+    <string name="hint_enter_group_password_am">ግሩፕ ፓስዎርድ..</string>
+    <string name="hint_enter_group_password_fr">Mot du passe</string>
+    <string name="hint_enter_group_password_pr">Senha</string>
+    <string name="hint_enter_group_password_sp">ContraseÃ±a</string>
+    <string name="hint_enter_group_password_sv">Lösenord</string>
+    <string name="hint_enter_group_vicinity_am">አካባቢ</string>
+    <string name="hint_enter_group_vicinity_fr">Environs</string>
+    <string name="hint_enter_group_vicinity_pr">Vizinhança</string>
+    <string name="hint_enter_group_vicinity_sp">Vecindad</string>
+    <string name="hint_enter_group_vicinity_sv">Närhetr</string>
+    <string name="hint_enter_txt_am">እዚህ ፃፍ..</string>
+    <string name="hint_enter_txt_en">enter text here</string>
+    <string name="hint_enter_txt_fr">entrez le texte Ici</string>
+    <string name="hint_enter_txt_pr">digite texto aqui</string>
+    <string name="hint_enter_txt_sp">introduzca el texto</string>
+    <string name="hint_enter_txt_sv">ange text här</string>
+    <string name="hint_tv_am_">እዚህ ጽሀፍ አስገባ</string>
+    <string name="hint_tv_fr_">Entrez le Texte Ici</string>
+    <string name="hint_tv_pr_">Digite texto aqui</string>
+    <string name="hint_tv_sv_">Ange Text här</string>
+    <string name="imageview_description">Contact Thumbnail</string>
+    <string name="imageview_description_am">Contact Thumbnail</string>
+    <string name="imageview_description_sp">Contactar con Thumbnail</string>
+    <string name="invalid_lat_long_used">Invalid location</string>
+    <string name="invalid_lat_long_used_fr">Invalid location</string>
+    <string name="invalid_lat_long_used_sp">Locación invalida</string>
+    <string name="invalid_lat_long_used_sv">Ogiltig Plats</string>
+    <string name="language_am">አማርኛ</string>
+    <string name="language_en">English</string>
+    <string name="language_fr"> Langue </string>
+    <string name="language_pr">Portugese</string>
+    <string name="language_sp">Idioma</string>
+    <string name="language_sv">Svenska</string>
+    <string name="lv_button">default</string>
+    <string name="lv_button_am">ነባሪ</string>
+    <string name="lv_button_fr">default_fr</string>
+    <string name="lv_button_pr">Default</string>
+    <string name="lv_button_sp">default_sp</string>
+    <string name="lv_button_sv">Default</string>
+    <string name="menu_add_contact">Add Contact</string>
+    <string name="menu_add_contact_am">Add Contact</string>
+    <string name="menu_add_contact_sp">Agregar contacto</string>
+    <string name="menu_edit_contact">Edit Contact</string>
+    <string name="menu_edit_contact_am">Edit Contact</string>
+    <string name="menu_edit_contact_sp">Editar contacto</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_search_am">Search</string>
+    <string name="menu_search_sp">Buscar</string>
+    <string name="menu_tv_en">Meny</string>
+    <string name="menu_tv_sp">Menú</string>
+    <string name="my_profile_am">ፕሮፋይል</string>
+    <string name="my_profile_fr">Profil</string>
+    <string name="my_profile_pr">Perfil</string>
+    <string name="my_profile_sp">Perfil</string>
+    <string name="my_profile_sv">Profil</string>
+    <string name="name_am"> ስም</string>
+    <string name="name_fr"> prénom</string>
+    <string name="name_pr"> nome</string>
+    <string name="name_sp"> Nombre</string>
+    <string name="name_sv"> Namn</string>
+    <string name="nick_am"> ቅጽል</string>
+    <string name="nick_fr"> surnom</string>
+    <string name="nick_pr"> apelido</string>
+    <string name="nick_sp"> Apodo</string>
+    <string name="nick_sv"> Smeknamn</string>
+    <string name="no_address">Not Using Contexter</string>
+    <string name="no_address_am">Not Using Contexter</string>
+    <string name="no_address_found">No Address Found</string>
+    <string name="no_address_found_fr">No Address Found</string>
+    <string name="no_address_found_sp">No se encontró dirección</string>
+    <string name="no_address_found_sv">Vi hittade ingen adress</string>
+    <string name="no_address_sp">No utilizar el Contexter</string>
+    <string name="no_contact_selected">No Contact Selected</string>
+    <string name="no_contact_selected_am">No Contact Selected</string>
+    <string name="no_contact_selected_sp">No Hay Contacto Seleccionado</string>
+    <string name="no_contacts">No Contacts Found</string>
+    <string name="no_contacts_am">No Contacts Found</string>
+    <string name="no_contacts_sp">No se han encontrado contactos</string>
+    <string name="no_intent_found">No application found to handle this action</string>
+    <string name="no_intent_found_am">No application found to handle this action</string>
+    <string name="no_intent_found_sp">No se ha encontrado ninguna aplicación para manejar esta acción</string>
+    <string name="no_valid_working_bs_ip">No valid or working Bootstrap IP</string>
+    <string name="no_valid_working_bs_ip_fr">Aucune IP Bootstrap valide ou en cours de fonctionnement</string>
+    <string name="no_valid_working_bs_ip_pr">No valid or working Bootstrap IP</string>
+    <string name="no_valid_working_bs_ip_sp">No hay IP de Bootstrap válido o en funcionamiento</string>
+    <string name="no_valid_working_bs_ip_sv">Ingen giltig eller arbetar Bootstrap IP</string>
+    <string name="notification_five_am">ስኬት! ቡድን ተፈጥሯል.</string>
+    <string name="notification_five_en">Success! Group Created.</string>
+    <string name="notification_five_fr">Le succès! Groupe créé.!</string>
+    <string name="notification_five_pr">Sucesso! Grupo criado.</string>
+    <string name="notification_five_sp">¡Éxito! Fecha de creación.</string>
+    <string name="notification_five_sv">Framgång! Grupp skapad.</string>
+    <string name="notification_four_am">በመመዝገብ ላይ ሳለ ስህተት አጋጥሟል. የተለየ የቡድን ስም ይሞክሩ!</string>
+    <string name="notification_four_en">Error Encountered while  Registering . Try with diffent group name!</string>
+    <string name="notification_four_fr">Erreur Rencontrés lors de l\'enregistrement. Essayez avec le nom de groupe différent!</string>
+    <string name="notification_four_pr">Erro encontrado ao se registrar. Experimente com diferentes nome do grupo!</string>
+    <string name="notification_four_sp">Se encontró un error mientras se registra. Pruebe con diferente nombre del grupo!</string>
+    <string name="notification_four_sv">Fel uppstod när Registrera. Försök med olika gruppnamn ! </string>
+    <string name="notification_one_am">መጀመሪያ መመዝገብ አለብህ! </string>
+    <string name="notification_one_en">Oops... you need to register first  </string>
+    <string name="notification_one_fr">vous devez d\'abord vous inscrire </string>
+    <string name="notification_one_pr">você precisa se registrar primeiro</string>
+    <string name="notification_one_sp">Es necesario registrarse primero</string>
+    <string name="notification_one_sv">måste du registrera först </string>
+    <string name="notification_seven_am">ይቅርታ, ቡድን ምዝገባ ስኬታማ አይደለም።</string>
+    <string name="notification_seven_en">Sorry, Registration Not Successful.</string>
+    <string name="notification_seven_fr">Désolé, Enregistrement Non réussie.</string>
+    <string name="notification_seven_pr">Desculpe, o registo não bem sucedida.</string>
+    <string name="notification_seven_sp">Lo sentimos, el registro no exitosa.</string>
+    <string name="notification_seven_sv">Registrering är inte framgångsrik.</string>
+    <string name="notification_six_am">ይቅርታ, ቡድን አልተፈጠርም።</string>
+    <string name="notification_six_en">Sorry, Group Not Created.</string>
+    <string name="notification_six_fr">Désolé, Groupe non créé.</string>
+    <string name="notification_six_pr">Desculpe, Grupo não criado.</string>
+    <string name="notification_six_sp">Lo sentimos, no se crea Grupo..</string>
+    <string name="notification_six_sv">gruppen inte skapade.</string>
+    <string name="notification_three_am">በመጀመሪያ ቡድኖች ፈልግ እና አስመጣ ! የተወዳጅ ቡድኖች ዝርዝር ውስጥ ምንም ቡድኖች የሉም::</string>
+    <string name="notification_three_en">Please Search and Import Groups First! No Groups in the Favorite Groups List.</string>
+    <string name="notification_three_fr">S\'il vous plaît Recherche et l\'importation Groupes Première! Aucun groupe dans la liste des Groupes Favoris. </string>
+    <string name="notification_three_pr">Por favor, procure e importar grupos em primeiro lugar! Não há grupos na lista de grupos favoritos.</string>
+    <string name="notification_three_sp">Por favor, grupos de búsqueda y de importación En primer lugar! No hay grupos en la lista de grupos favoritos.</string>
+    <string name="notification_three_sv">Sök och Import Grupper först! Inga grupper i Favoritgrupper listan. </string>
+    <string name="notification_two_am">በይነመረብ ግንኙነት ይመልከቱ!</string>
+    <string name="notification_two_en">Check Connection.</string>
+    <string name="notification_two_fr">Vérifier la connexion. </string>
+    <string name="notification_two_pr">Verifique a conexão.</string>
+    <string name="notification_two_sp">Compruebe la conexión.</string>
+    <string name="notification_two_sv">Kontrollera anslutning. </string>
+    <string name="opening_chat_msgs">Opening  Messages</string>
+    <string name="opening_chat_msgs__">Opening Chat Messages</string>
+    <string name="opening_chat_msgs__am">Opening Messages</string>
+    <string name="opening_chat_msgs__fr">Opening Messages</string>
+    <string name="opening_chat_msgs__pr">Opening Messages</string>
+    <string name="opening_chat_msgs__sp">Opening Messages</string>
+    <string name="opening_chat_msgs__sv">Öppningschattmeddelanden</string>
+    <string name="opening_chat_msgs_am">Opening Messages</string>
+    <string name="opening_chat_msgs_fr">Chargement des messages en cours...</string>
+    <string name="opening_chat_msgs_pr">Opening Messages</string>
+    <string name="opening_chat_msgs_sp">Apertura de mensajes</string>
+    <string name="opening_chat_msgs_sv">Öppningschattmeddelanden</string>
+    <string name="ordinary_chat_text_am"> Texting</string>
+    <string name="ordinary_chat_text_fr"> Texting</string>
+    <string name="ordinary_chat_text_pr"> Texting</string>
+    <string name="ordinary_chat_text_sp"> Texting</string>
+    <string name="ordinary_chat_text_sv"> Texting</string>
+    <string name="picture_gallery_am">ፎቶዎች</string>
+    <string name="picture_gallery_fr">Galerie de Photos</string>
+    <string name="picture_gallery_pr">Galeria de imagens</string>
+    <string name="picture_gallery_sp">GalerÃ­a de imÃ¡genes</string>
+    <string name="picture_gallery_sv">Bildgalleri</string>
+    <string name="policy">Policy</string>
+    <string name="policy_am">Policy</string>
+    <string name="policy_fr">Politique</string>
+    <string name="policy_pr">Policy</string>
+    <string name="portfolio_am"> ፖርትፎሊዮ</string>
+    <string name="portfolio_fr"> Portefeuille </string>
+    <string name="portfolio_pr"> Porfolio</string>
+    <string name="portfolio_sp"> Porfolio</string>
+    <string name="portfolio_sv"> Portfolio</string>
+    <string name="pr_chat_tv_am">ፕራይቬት ቻት</string>
+    <string name="pr_chat_tv_fr">Conversation Privée</string>
+    <string name="pr_chat_tv_pr">Conversar privada</string>
+    <string name="pr_chat_tv_sp">Privado</string>
+    <string name="pr_chat_tv_sv">Privat</string>
+    <string name="private_chat_am">ፕራይቬት ቻት</string>
+    <string name="private_chat_fr"> Conversation privée</string>
+    <string name="private_chat_pr"> Conversar privada</string>
+    <string name="private_chat_sp"> Private</string>
+    <string name="private_chat_sv"> Privatt</string>
+    <string name="private_msg">Private Message</string>
+    <string name="private_msg_fr">Message Privé</string>
+    <string name="private_msg_pr">Mensaje privado</string>
+    <string name="private_msg_sp">Mensaje privado</string>
+    <string name="private_msg_sv">Privat Meddelande</string>
+    <string name="public_msg">Public Message</string>
+    <string name="public_msg_fr">Message Public</string>
+    <string name="public_msg_pr">Mensaje público</string>
+    <string name="public_msg_sp">Mensaje Público</string>
+    <string name="public_msg_sv">Public Meddelande</string>
+    <string name="purge_tv_1_am"> ሁሉንም ፈይሎችህን ከኮንቴክስተር ላይ አጥፋ</string>
+    <string name="purge_tv_1_fr"> purge des fichiers Contexter</string>
+    <string name="purge_tv_1_pr"> Purgar todo o arquivo do Contexter</string>
+    <string name="purge_tv_1_sp"> Elimine Todos Los Archivos</string>
+    <string name="purge_tv_1_sv"> Ta bort alla filer från Context </string>
+    <string name="purge_tv_2_am"> የፈጠርከውን ግሩፕ እና የተገናኙ ፋይሎችን አጥፋ</string>
+    <string name="purge_tv_2_fr">purger vos groupes et les fichiers connexes</string>
+    <string name="purge_tv_2_pr"> Apague seus grupos e arquivos relacionados</string>
+    <string name="purge_tv_2_sp">Eliminar archivos relacionados con Creados grupos</string>
+    <string name="purge_tv_2_sv">Ta bort Filer och relaterad information</string>
+    <string name="purge_tv_3_am"> ምንም ሳታስቀር ፋይሎችህን አጥፋ</string>
+    <string name="purge_tv_3_fr">purger tous vos fichiers</string>
+    <string name="purge_tv_3_pr"> Apagar todos os arquivos</string>
+    <string name="purge_tv_3_sp">Elimine Todos Los Archivos</string>
+    <string name="purge_tv_3_sv">Ta bort alla filer</string>
+    <string name="purge_tv_4_am">ሁሉንም የተጠቃሚ ፋይሎች ከኮንቴክስተር ላይ አጥፋ </string>
+    <string name="purge_tv_4_fr">Purger tous les fichiers utilisateur de Context</string>
+    <string name="purge_tv_4_pr">Limpar todos os arquivos de usuário de Context</string>
+    <string name="purge_tv_4_sp">Purgar todos los archivos de usuario de Context</string>
+    <string name="purge_tv_4_sv">Rensa alla användarfiler från Context</string>
+    <string name="purge_tv_am"> ፈይሎችህን አጥፋ</string>
+    <string name="purge_tv_fr"> Purge</string>
+    <string name="purge_tv_pr">Purga</string>
+    <string name="purge_tv_sp"> Purga</string>
+    <string name="purge_tv_sv"> Ta bort filer  </string>
+    <string name="refresh_am">  አድስ</string>
+    <string name="refresh_fr"> Rafraîchir</string>
+    <string name="refresh_pr"> refrescar</string>
+    <string name="refresh_sp">Refrescar</string>
+    <string name="refresh_sv">Uppdaterings</string>
+    <string name="register_nick_name_am">የኮንቴክስተር  ስም  </string>
+    <string name="register_nick_name_fr">Surnom</string>
+    <string name="register_nick_name_pr">apelido</string>
+    <string name="register_nick_name_sv">Smeknamn</string>
+    <string name="register_tv_age_am">እድሜ</string>
+    <string name="register_tv_age_fr">Âge</string>
+    <string name="register_tv_age_pr">idade</string>
+    <string name="register_tv_age_sv">ålder</string>
+    <string name="register_tv_name_am">ስም</string>
+    <string name="register_tv_name_fr">prénom</string>
+    <string name="register_tv_name_pr">nome</string>
+    <string name="register_tv_name_sv">Namn</string>
+    <string name="remove_am"> ሁሉንም ፈይሎችህን ከኮንቴክስተር ላይ አጥፋ</string>
+    <string name="remove_fr"> Supprimer tous vos fichiers de </string>
+    <string name="remove_pr"> Exclua todos os arquivos de Contexter</string>
+    <string name="remove_sp"> Eliminar Archivos de Contexter</string>
+    <string name="remove_sv">Ta Bort Filer Från Contexter</string>
+    <string name="search_group_am">ግሩፕ ፈልግ</string>
+    <string name="search_group_fr">Rechercher des groupes</string>
+    <string name="search_group_pr">Buscar Grupos</string>
+    <string name="search_group_sp">Buscar Grupos</string>
+    <string name="search_group_sv">Sök Grupper</string>
+    <string name="search_hint">Find contacts</string>
+    <string name="search_hint_am">Find contacts</string>
+    <string name="search_hint_sp">Find contacts</string>
+    <string name="search_match_other">Matches Other Field</string>
+    <string name="search_match_other_am">Matches Other Field</string>
+    <string name="search_match_other_sp">Otros campos</string>
+    <string name="search_results_tv_am">የፍለጋ ውጤት</string>
+    <string name="search_results_tv_fr">Résultats du la recherche</string>
+    <string name="search_results_tv_pr">Procurar Resultados</string>
+    <string name="search_results_tv_sp">Resultados de la bÃºsqueda</string>
+    <string name="search_results_tv_sv">Sökresultat</string>
+    <string name="search_tv_age_limit_am">የግሩፕ ዕድሜ ገደብ</string>
+    <string name="search_tv_age_limit_fr">Limite du âge Groupe</string>
+    <string name="search_tv_age_limit_pr">limite de idade do grupo</string>
+    <string name="search_tv_age_limit_sv">Grupp åldersgräns</string>
+    <string name="search_tv_group_interest_am">የግሩፕ ፍላጎት</string>
+    <string name="search_tv_group_interest_fr">Intérêt du groupe</string>
+    <string name="search_tv_group_interest_pr">interesse do grupo</string>
+    <string name="search_tv_group_interest_sv">Grupper intresse</string>
+    <string name="search_tv_group_name_am">የግሩፕ ስም</string>
+    <string name="search_tv_group_name_fr">Nom du groupe</string>
+    <string name="search_tv_group_name_pr">nome do grupo</string>
+    <string name="search_tv_group_name_sv">Gruppnamn</string>
+    <string name="search_tv_team_leader_am">ግሩፕ መሪ ስም</string>
+    <string name="search_tv_team_leader_fr">Le chef du groupe</string>
+    <string name="search_tv_team_leader_pr">líder de grupo</string>
+    <string name="search_tv_team_leader_sv">Gruppledare</string>
+    <string name="send_btn_am">ወደ ፊት ቀጥል</string>
+    <string name="send_btn_am_">ስደድ</string>
+    <string name="send_btn_fr"> Envoyer</string>
+    <string name="send_btn_fr_">Envoyer</string>
+    <string name="send_btn_pr"> Mandar</string>
+    <string name="send_btn_pr_">Enviar</string>
+    <string name="send_btn_sp">Siguiente</string>
+    <string name="send_btn_sp_">Enviar</string>
+    <string name="send_btn_sv">Nästa</string>
+    <string name="send_btn_sv_">Skicka</string>
+    <string name="sensor_readings">Sensor Readings</string>
+    <string name="sensor_readings_fr">Valeurs du capteur</string>
+    <string name="sensor_readings_pr">Valores do sensor</string>
+    <string name="sensor_readings_sp">Valores del sensor</string>
+    <string name="sensor_readings_sv">Sensorvärden</string>
+    <string name="service_not_available">Service not available</string>
+    <string name="service_not_available_fr">Service not available</string>
+    <string name="service_not_available_sp">Servicio no disponible</string>
+    <string name="sex_am"> ፆታ</string>
+    <string name="sex_fr"> Sexe</string>
+    <string name="sex_pr"> Sexo</string>
+    <string name="sex_sp"> Sexo</string>
+    <string name="sex_sv"> Sex</string>
+    <string name="social">Social</string>
+    <string name="social_am">ማኅበራዊ</string>
+    <string name="social_fr">Social</string>
+    <string name="social_pr">Social</string>
+    <string name="social_sp">Social</string>
+    <string name="social_sv">Sociala</string>
+    <string name="string_choices_one_0"> Just a moment!  SensibleThings platform is starting.</string>
+    <string name="string_choices_one_0_fr"> Just a moment!  SensibleThings platform is starting.</string>
+    <string name="string_choices_one_0_pr"> Just a moment!  SensibleThings platform is starting.</string>
+    <string name="string_choices_one_0_sp"> Just a moment!  SensibleThings platform is starting.</string>
+    <string name="string_choices_one_0_sv"> Just a moment!  SensibleThings platform is starting.</string>
+    <string name="string_create_group_one_0">Error Encountered -- Unable to load group</string>
+    <string name="string_create_group_one_0_fr">Erreur rencontrée - Impossible de charger le groupe</string>
+    <string name="string_create_group_one_0_pr">Error Encountered -- Unable to load group</string>
+    <string name="string_create_group_one_0_sp">Error encontrado - No se puede cargar el grupo</string>
+    <string name="string_create_group_one_0_sv">Fel Stött - Det går inte att läsa grupp</string>
+    <string name="string_create_group_one_1">Congratulations! \nGroup created Successfully!</string>
+    <string name="string_create_group_one_10">Add Group Name</string>
+    <string name="string_create_group_one_10_fr">Ajouter un nom de groupe</string>
+    <string name="string_create_group_one_10_pr">Ajouter un nom de groupe</string>
+    <string name="string_create_group_one_10_sp">Agregar nombre de grupo</string>
+    <string name="string_create_group_one_10_sv">Lägg till gruppnamn </string>
+    <string name="string_create_group_one_1_fr">Félicitations à vous! \nGroupe créée avec succès!</string>
+    <string name="string_create_group_one_1_pr">Congratulations! \nGroup created Successfully!</string>
+    <string name="string_create_group_one_1_sp">¡Felicitaciones! \ NGrupo creado con éxito!</string>
+    <string name="string_create_group_one_1_sv">Grattis! \nGroup skapats!</string>
+    <string name="string_create_group_one_2">Group Name Invalid!</string>
+    <string name="string_create_group_one_2_fr">Nom du groupe Invalid!</string>
+    <string name="string_create_group_one_2_pr">Group Name Invalid!</string>
+    <string name="string_create_group_one_2_sp">Nombre de grupo no válido!</string>
+    <string name="string_create_group_one_2_sv">Gruppnamn Ogiltig!</string>
+    <string name="string_create_group_one_3">Invalid Group Interest!</string>
+    <string name="string_create_group_one_3_fr">Invalid Group Interest!</string>
+    <string name="string_create_group_one_3_pr">Invalid Group Interest!</string>
+    <string name="string_create_group_one_3_sp">Interés de grupo no válido!</string>
+    <string name="string_create_group_one_3_sv">Ogiltig Koncernen Ränte!</string>
+    <string name="string_create_group_one_4">Age Limit Invalid!</string>
+    <string name="string_create_group_one_4_fr">Limite d\'âge non valide!</string>
+    <string name="string_create_group_one_4_pr">Age Limit Invalid!</string>
+    <string name="string_create_group_one_4_sp">Límite de edad no válido!</string>
+    <string name="string_create_group_one_4_sv">Åldersgräns Ogiltig!</string>
+    <string name="string_create_group_one_5">Group Leader Name Invalid!</string>
+    <string name="string_create_group_one_5_fr">Nom du leader du groupe Invalid!</string>
+    <string name="string_create_group_one_5_pr">Group Leader Name Invalid!</string>
+    <string name="string_create_group_one_5_sp">Nombre del líder del grupo No válido!</string>
+    <string name="string_create_group_one_5_sv">Gruppledare Namn Ogiltig!</string>
+    <string name="string_create_group_one_6">Invalid! Add [M F or NA]</string>
+    <string name="string_create_group_one_6_fr">Invalide! Ajouter [M F ou NA]</string>
+    <string name="string_create_group_one_6_pr">Invalid! Add [M F or NA]</string>
+    <string name="string_create_group_one_6_sp">¡Inválido! Añadir [M F o NA]</string>
+    <string name="string_create_group_one_6_sv">Ogiltig! Tillsätt [M F eller NA]</string>
+    <string name="string_create_group_one_7">Congratulations!\nGroup updated successfully!</string>
+    <string name="string_create_group_one_7_fr">Félicitations! \nLe groupe a été mis à jour avec succès!</string>
+    <string name="string_create_group_one_7_pr">Congratulations!\nGroup updated successfully!</string>
+    <string name="string_create_group_one_7_sp">¡Enhorabuena! \nGrupo actualizado con éxito!</string>
+    <string name="string_create_group_one_7_sv">Grattis! \nGroup uppdaterats!</string>
+    <string name="string_create_group_one_8">Congratulations!\nGroup deleted successfully!</string>
+    <string name="string_create_group_one_8_fr">Félicitations! \nLe groupe a été supprimé avec succès!</string>
+    <string name="string_create_group_one_8_pr">Congratulations!\nGroup deleted successfully!</string>
+    <string name="string_create_group_one_8_sp">¡Enhorabuena! \nGrupo eliminado correctamente!</string>
+    <string name="string_create_group_one_8_sv">Grattis! \nGroup raderats !</string>
+    <string name="string_create_group_one_9">Error! profile picture upload failed</string>
+    <string name="string_create_group_one_9_fr">Erreur! Le téléchargement de photos de profil a échoué</string>
+    <string name="string_create_group_one_9_pr">Error! profile picture upload failed</string>
+    <string name="string_create_group_one_9_sp">¡Error! Fallo en la carga de la imagen de perfil</string>
+    <string name="string_create_group_one_9_sv">Fel! profilbild Uppladdningen misslyckades</string>
+    <string name="string_create_group_two_0">Oops ... Groups cant open.</string>
+    <string name="string_create_group_two_0_fr">Oops ... Groups cant open.</string>
+    <string name="string_create_group_two_0_pr">Oops ... Groups cant open.</string>
+    <string name="string_create_group_two_0_sp">Oops ... Groups cant open.</string>
+    <string name="string_create_group_two_0_sv">Oops ... Groups cant open.</string>
+    <string name="string_dialog_one_0"> Do you want to quit this?</string>
+    <string name="string_dialog_one_0_0"> Yes </string>
+    <string name="string_dialog_one_0_0_fr"> Oui </string>
+    <string name="string_dialog_one_0_0_pr"> Yes </string>
+    <string name="string_dialog_one_0_0_sp"> SÍ </string>
+    <string name="string_dialog_one_0_0_sv"> Ja </string>
+    <string name="string_dialog_one_0_1"> No </string>
+    <string name="string_dialog_one_0_1_fr"> Non </string>
+    <string name="string_dialog_one_0_1_pr"> No </string>
+    <string name="string_dialog_one_0_1_sp"> NO </string>
+    <string name="string_dialog_one_0_1_sv"> Nej </string>
+    <string name="string_dialog_one_0_fr"> Voulez-vous quitter ce?</string>
+    <string name="string_dialog_one_0_pr"> Do you want to quit this?</string>
+    <string name="string_dialog_one_0_sp">¿Quieres dejar esto?</string>
+    <string name="string_dialog_one_0_sv"> Vill du avsluta detta?</string>
+    <string name="string_dialog_one_1"> Try another Bootstrap! Problem to start platform</string>
+    <string name="string_dialog_one_10">Groups not found.  Import or create groups.   </string>
+    <string name="string_dialog_one_10_fr">    Groupes non trouvés. Importez ou créez des groupes.  </string>
+    <string name="string_dialog_one_10_pr">    Groups not found.  Import or create groups.   </string>
+    <string name="string_dialog_one_10_sp">    Grupos no encontrados. Importe o cree grupos.   </string>
+    <string name="string_dialog_one_10_sv">    Grupper hittades inte. Import eller skapa grupper. </string>
+    <string name="string_dialog_one_11"> Do you want to open Advertisements? </string>
+    <string name="string_dialog_one_11_0"> Next</string>
+    <string name="string_dialog_one_11_0_fr"> Suivant</string>
+    <string name="string_dialog_one_11_0_pr"> Next</string>
+    <string name="string_dialog_one_11_0_sp"> Siguiente</string>
+    <string name="string_dialog_one_11_0_sv"> Nästa</string>
+    <string name="string_dialog_one_11_1"> Cancel</string>
+    <string name="string_dialog_one_11_1_fr"> Invalidate</string>
+    <string name="string_dialog_one_11_1_pr"> Cancel</string>
+    <string name="string_dialog_one_11_1_sp"> Cancelar</string>
+    <string name="string_dialog_one_11_1_sv">Avboka</string>
+    <string name="string_dialog_one_11_fr"> Voulez-vous ouvrir Publicités? </string>
+    <string name="string_dialog_one_11_pr"> Do you want to open Advertisements? </string>
+    <string name="string_dialog_one_11_sp"> ¿Quieres abrir Anuncios? </string>
+    <string name="string_dialog_one_11_sv"> Vill du öppna Annonser?</string>
+    <string name="string_dialog_one_1_fr"> Essayez un autre Bootstrap! Problème de démarrage de la plateforme</string>
+    <string name="string_dialog_one_1_pr"> Try another Bootstrap! Problem to start platform</string>
+    <string name="string_dialog_one_1_sp"> ¡Prueba otro Bootstrap! Problema para iniciar la plataforma</string>
+    <string name="string_dialog_one_1_sv"> Försök med en annan Bootstrap! Problem att starta plattform</string>
+    <string name="string_dialog_one_2"> Advertising Group: </string>
+    <string name="string_dialog_one_2_fr"> Publicité Groupe:</string>
+    <string name="string_dialog_one_2_pr"> Advertising Group: </string>
+    <string name="string_dialog_one_2_sp"> Publicidad Grupo: </string>
+    <string name="string_dialog_one_2_sv"> Reklam Grupp:</string>
+    <string name="string_dialog_one_3"> We accept BitCoins. Get Account for free at CoinBase</string>
+    <string name="string_dialog_one_3_fr"> Nous acceptons BitCoins. Obtenez un compte gratuit sur CoinBase</string>
+    <string name="string_dialog_one_3_pr"> We accept BitCoins. Get Account for free at CoinBase</string>
+    <string name="string_dialog_one_3_sp"> Aceptamos BitCoins. Obtenga una cuenta gratis en CoinBase</string>
+    <string name="string_dialog_one_3_sv"> Vi accepterar Bitcoins. Få konto gratis på CoinBase</string>
+    <string name="string_dialog_one_4_0"> Tap your Favorite Group to go public</string>
+    <string name="string_dialog_one_4_0_fr"> Appuyez sur votre groupe de favoris pour aller au public</string>
+    <string name="string_dialog_one_4_0_pr"> Tap your Favorite Group to go public</string>
+    <string name="string_dialog_one_4_0_sp"> Toque en su grupo favorito para ir al público</string>
+    <string name="string_dialog_one_4_0_sv"> Tryck på din favoritgrupp att gå allmänheten</string>
+    <string name="string_dialog_one_4_1"> Tap-Long your Favorite Group to go private</string>
+    <string name="string_dialog_one_4_1_fr"> Tap-Long votre groupe préféré pour aller en privé</string>
+    <string name="string_dialog_one_4_1_pr"> Tap-Long your Favorite Group to go private</string>
+    <string name="string_dialog_one_4_1_sp"> Toque-Long su grupo favorito para ir privado</string>
+    <string name="string_dialog_one_4_1_sv"> Tryck-Longt på ditt favoritgrupp att gå privat</string>
+    <string name="string_dialog_one_5_0"> Tap your Friend for Messaging</string>
+    <string name="string_dialog_one_5_0_fr"> Appuyez sur votre ami pour la messagerie</string>
+    <string name="string_dialog_one_5_0_pr"> Tap your Friend for Messaging</string>
+    <string name="string_dialog_one_5_0_sp"> Toque a su amigo para enviar mensajes</string>
+    <string name="string_dialog_one_5_0_sv"> Tryck på din vän för Messaging </string>
+    <string name="string_dialog_one_5_1"> Tap-Long your Friend to make call</string>
+    <string name="string_dialog_one_5_1_fr"> Tap-Long votre ami pour faire l\'appel</string>
+    <string name="string_dialog_one_5_1_pr"> Tap-Long your Friend to make call</string>
+    <string name="string_dialog_one_5_1_sp"> Toque largo su amigo para hacer una llamada</string>
+    <string name="string_dialog_one_5_1_sv"> Tryck-Longt på  din vän att göra samtal</string>
+    <string name="string_dialog_one_6"> Do you want to open Advertisements? </string>
+    <string name="string_dialog_one_6_fr"> Voulez-vous ouvrir Publicités? </string>
+    <string name="string_dialog_one_6_pr"> Do you want to open Advertisements? </string>
+    <string name="string_dialog_one_6_sp"> ¿Quieres abrir Anuncios?</string>
+    <string name="string_dialog_one_6_sv"> Vill du öppna Annonser? </string>
+    <string name="string_dialog_one_7"> This version does not support voice. </string>
+    <string name="string_dialog_one_7_fr"> Cette version ne prend pas en charge la voix.</string>
+    <string name="string_dialog_one_7_pr"> This version does not support voice. </string>
+    <string name="string_dialog_one_7_sp"> Esta versión no es compatible con la voz. </string>
+    <string name="string_dialog_one_7_sv"> Denna version stöder inte röst. </string>
+    <string name="string_dialog_one_8"> Local Contexting Possible.  You need to add public bootstraps. </string>
+    <string name="string_dialog_one_8_fr">Contexte local possible. Vous devez ajouter des bootstraps publics. </string>
+    <string name="string_dialog_one_8_pr"> "Local Contexting Possible.  You need to add public bootstraps. </string>
+    <string name="string_dialog_one_8_sp"> Contexto local posible. Necesita agregar bootstraps públicos. </string>
+    <string name="string_dialog_one_8_sv"> Lokal Contexting Möjligt. Du måste lägga till offentliga bootstraps. </string>
+    <string name="string_dialog_one_9">       Delete Message  ?       </string>
+    <string name="string_dialog_one_9_fr"> Supprimer le message? </string>
+    <string name="string_dialog_one_9_pr">       Delete Message  ?       </string>
+    <string name="string_dialog_one_9_sp">      Borrar mensaje ?       </string>
+    <string name="string_dialog_one_9_sv">     Radera meddelande?       </string>
+    <string name="string_group_0">New Group</string>
+    <string name="string_group_0_fr">nouveau groupe</string>
+    <string name="string_group_0_pr">Novo Grupo</string>
+    <string name="string_group_0_sp">Nuevo Grupo</string>
+    <string name="string_group_0_sv">Ny Grupp</string>
+    <string name="string_group_1">Update Group</string>
+    <string name="string_group_1_fr">Groupe de mise à jour</string>
+    <string name="string_group_1_pr">Grupo de atualização</string>
+    <string name="string_group_1_sp">Grupo de actualización</string>
+    <string name="string_group_1_sv">Uppdatering Grupp</string>
+    <string name="string_group_2">Delete Group</string>
+    <string name="string_group_2_fr">Supprimer le groupe</string>
+    <string name="string_group_2_pr">Excluir Grupo</string>
+    <string name="string_group_2_sp">Eliminar grupo</string>
+    <string name="string_group_2_sv">Ta bort grupp</string>
+    <string name="string_group_3">View Group</string>
+    <string name="string_group_3_fr">Voir le groupe</string>
+    <string name="string_group_3_pr">Ver Grupo</string>
+    <string name="string_group_3_sp">Ver grupo</string>
+    <string name="string_group_3_sv">Visa Grupper</string>
+    <string name="string_group_container_0">New</string>
+    <string name="string_group_container_0_fr">Nouveau groupe</string>
+    <string name="string_group_container_0_pr">novo Grupo</string>
+    <string name="string_group_container_0_sp">nuevo Grupo</string>
+    <string name="string_group_container_0_sv">ny Grupp</string>
+    <string name="string_group_container_1">Update</string>
+    <string name="string_group_container_1_fr">Mise à jour du</string>
+    <string name="string_group_container_1_pr">atualização</string>
+    <string name="string_group_container_1_sp">actualización</string>
+    <string name="string_group_container_1_sv">Uppdatera </string>
+    <string name="string_group_container_2">Delete</string>
+    <string name="string_group_container_2_fr"> Supprimer </string>
+    <string name="string_group_container_2_pr"> excluir</string>
+    <string name="string_group_container_2_sp"> eliminar </string>
+    <string name="string_group_container_2_sv">   Ta bort</string>
+    <string name="string_group_container_3">Open</string>
+    <string name="string_group_container_3_fr">Afficher</string>
+    <string name="string_group_container_3_pr">Ver </string>
+    <string name="string_group_container_3_sp"> Ver</string>
+    <string name="string_group_container_3_sv"> visa</string>
+    <string name="string_main_one_0">Something went wrong with private mode! You may go private if you have friends</string>
+    <string name="string_main_one_0_fr">Quelque chose s\'est mal passé en mode privé! Vous pouvez aller en privé si vous avez des amis</string>
+    <string name="string_main_one_0_pr">Something went wrong with private mode! You may go private if you have friends</string>
+    <string name="string_main_one_0_sp">¡Algo salió mal con el modo privado! Puedes ir privado si tienes amigos</string>
+    <string name="string_main_one_0_sv">Något gick fel med privat läge! Du kan gå privat om du har vänner</string>
+    <string name="string_main_one_1">Invalid Option! Choose Your Group. </string>
+    <string name="string_main_one_10">Groups not Imported. Import Groups</string>
+    <string name="string_main_one_10_fr">Groupes non importés. Importer des groupes</string>
+    <string name="string_main_one_10_pr">Groups not Imported. Import Groups</string>
+    <string name="string_main_one_10_sp">Grupos no importados. Importar grupos</string>
+    <string name="string_main_one_10_sv">Grupper som inte importerats. Import Grupper</string>
+    <string name="string_main_one_11">Join the Group .\nSend UCI Registration</string>
+    <string name="string_main_one_11_fr">Rejoindre le groupe. \nEnvoyer l\'enregistrement UCI</string>
+    <string name="string_main_one_11_pr">Join the Group .\nSend UCI Registration</string>
+    <string name="string_main_one_11_sp">Únete al grupo. \nEnvío del registro UCI</string>
+    <string name="string_main_one_11_sv">Gå med i gruppen. \n Skicka UCI Registrering</string>
+    <string name="string_main_one_12">Something went wrong with private mode! You may go private if you have friends  </string>
+    <string name="string_main_one_12_fr">Quelque chose s\'est mal passé en mode privé! Vous pouvez aller en privé si vous avez des amis</string>
+    <string name="string_main_one_12_pr">Something went wrong with private mode! You may go private if you have friends  </string>
+    <string name="string_main_one_12_sp">¡Algo salió mal con el modo privado! Puedes ir privado si tienes amigos</string>
+    <string name="string_main_one_12_sv">Något gick fel med privat läge! Du kan gå privat om du har vänner</string>
+    <string name="string_main_one_13">Contexter needs bootstrap.\nAdd  bootstrap IP to embark on MediaSense.</string>
+    <string name="string_main_one_13_0">" ~Welcome~ ! \n" "You may start sending messages!"</string>
+    <string name="string_main_one_13_0_fr"> ~ Bienvenue ~ Vous pouvez commencer à envoyer des messages!</string>
+    <string name="string_main_one_13_0_pr">Bem-vindo Você pode começar a enviar mensagens!</string>
+    <string name="string_main_one_13_0_sp">~ Bienvenido ~ Puede empezar a enviar mensajes!</string>
+    <string name="string_main_one_13_0_sv">~Welcome~ ! \n" "You may start sending messages!</string>
+    <string name="string_main_one_13_fr">Contexter a besoin de bootstrap. \nAjoutez bootstrap IP pour lancer MediaSense.</string>
+    <string name="string_main_one_13_pr">Contexter precisa de bootstrap. \nAdicione bootstrap IP para embarcar no MediaSense.</string>
+    <string name="string_main_one_13_sp">Contexter necesita bootstrap. \nAñadir IP de arranque para iniciar MediaSense.</string>
+    <string name="string_main_one_13_sv">Contexter behöver bootstrap. \nLägg bootstrap IP att inleda Medias.</string>
+    <string name="string_main_one_1_fr">Option non valide! Choisissez votre groupe. </string>
+    <string name="string_main_one_1_pr">Invalid Option! Choose Your Group. </string>
+    <string name="string_main_one_1_sp">¡Opción inválida! Elija su grupo. </string>
+    <string name="string_main_one_1_sv">Ogiltig flagga! Välj din grupp. </string>
+    <string name="string_main_one_2">Invalid UCI!  Message not delivered.</string>
+    <string name="string_main_one_2_fr">UCI non valide! Message non livré.</string>
+    <string name="string_main_one_2_pr">Invalid UCI!  Message not delivered.</string>
+    <string name="string_main_one_2_sp">UCI no válido! Mensaje no entregado.</string>
+    <string name="string_main_one_2_sv">Ogiltig UCI! Meddelande inte levererats.</string>
+    <string name="string_main_one_3">Something went wrong with the platform.\n Try sending message again</string>
+    <string name="string_main_one_3_fr">Quelque chose ne va pas avec la plate-forme. \n Essayez d\'envoyer le message à nouveau</string>
+    <string name="string_main_one_3_pr">Something went wrong with the platform.\n Try sending message again</string>
+    <string name="string_main_one_3_sp">Se ha producido un error en la plataforma. \n Intenta enviar de nuevo el mensaje</string>
+    <string name="string_main_one_3_sv">Något gick fel med plattformen. \n Försök skicka meddelandet igen</string>
+    <string name="string_main_one_4">Contexter needs connection.\n Message not sent \n Unable to reach the Platform</string>
+    <string name="string_main_one_4_fr">Contexter a besoin d\'une connexion. \n Message non envoyé \n Impossible d\'accéder à la plate-forme</string>
+    <string name="string_main_one_4_pr">Contexter needs connection.\n Message not sent \n Unable to reach the Platform</string>
+    <string name="string_main_one_4_sp">Contexter necesita conexión. \n Mensaje no enviado \n No se puede acceder a la Plataforma</string>
+    <string name="string_main_one_4_sv">Contexter behöver anslutning. \n Meddelandet skickades inte \n Det går inte att nå plattformen</string>
+    <string name="string_main_one_5">NOTE: Messages are going to be recycled after </string>
+    <string name="string_main_one_5_fr">REMARQUE: Les messages seront recyclés après</string>
+    <string name="string_main_one_5_pr">NOTE: Messages are going to be recycled after </string>
+    <string name="string_main_one_5_sp">NOTA: Los mensajes se van a reciclar después de </string>
+    <string name="string_main_one_5_sv">OBS: Meddelanden kommer att återvinnas efter</string>
+    <string name="string_main_one_6">Image size too big. It should be 1MB max.</string>
+    <string name="string_main_one_6_fr">Taille d\'image trop grande. Il doit être 1Mo max.</string>
+    <string name="string_main_one_6_pr">Image size too big. It should be 1MB max.</string>
+    <string name="string_main_one_6_sp">Tamaño de imagen demasiado grande. Debe ser 1 MB máximo.</string>
+    <string name="string_main_one_6_sv">Bildstorleken är för stor. Det bör vara 1 MB max.</string>
+    <string name="string_main_one_7">Local-contexting possible.\nAdd public bootstraps to widen your world. </string>
+    <string name="string_main_one_7_fr">Local-contexting possible. \nAjouter des bootstraps publics pour élargir votre monde. </string>
+    <string name="string_main_one_7_pr">Local-contexting possible.\nAdd public bootstraps to widen your world. </string>
+    <string name="string_main_one_7_sp">Posible contextualización local. \nAñadir bootstraps públicos para ampliar tu mundo. </string>
+    <string name="string_main_one_7_sv">Lokala-contexting möjligt. \nLägg offentliga bootstraps att vidga din värld.</string>
+    <string name="string_main_one_8">MediaSense is not running .\nTry another bootstrap to embark on the Platform. </string>
+    <string name="string_main_one_8_1">MediaSense is running.</string>
+    <string name="string_main_one_8_1_fr">MediaSense est en cours d\'exécution.</string>
+    <string name="string_main_one_8_1_pr">O MediaSense está em execução</string>
+    <string name="string_main_one_8_1_sp">MediaSense is running.</string>
+    <string name="string_main_one_8_1_sv">Mediasense är igång.</string>
+    <string name="string_main_one_8_fr">MediaSense n\'est pas en cours d\'exécution. \nEssayez un autre bootstrap pour lancer la plate-forme.</string>
+    <string name="string_main_one_8_pr">O MediaSense não está sendo executado. \nTente outro bootstrap para embarcar na Plataforma.</string>
+    <string name="string_main_one_8_sp">MediaSense no se está ejecutando. \nTrate de otro bootstrap para embarcarse en la Plataforma. </string>
+    <string name="string_main_one_8_sv">Mediasense är igång inte. \nFörsök annan bootstrap att inleda plattformen.</string>
+    <string name="string_main_one_9"> # Service disconnected # </string>
+    <string name="string_main_one_9_fr"> # Service déconnecté # </string>
+    <string name="string_main_one_9_pr"> # Service disconnected # </string>
+    <string name="string_main_one_9_sp"> # Servicio desconectado # </string>
+    <string name="string_main_one_9_sv"> # Tjänsten kopplas bort # </string>
+    <string name="string_more">Unknown Peer</string>
+    <string name="string_more_bst">1 Public Bootstrap . Tap to see</string>
+    <string name="string_more_bst_fr">1 Bootstrap public. Appuyez pour voir</string>
+    <string name="string_more_bst_pr">1 Bootstrap público. Toque para ver</string>
+    <string name="string_more_bst_sp">1 Bootstrap público. Toca para ver</string>
+    <string name="string_more_bst_sv">1 Public Bootstrap. Tryck här för att se</string>
+    <string name="string_more_extra_0">Silent</string>
+    <string name="string_more_extra_0_fr">Silencieux</string>
+    <string name="string_more_extra_0_pr">Silencioso</string>
+    <string name="string_more_extra_0_sp">Silent</string>
+    <string name="string_more_extra_0_sv">Tyst</string>
+    <string name="string_more_extra_1">No Vibrations</string>
+    <string name="string_more_extra_1_fr">Pas de Vibrations</string>
+    <string name="string_more_extra_1_pr">Sem vibrações</string>
+    <string name="string_more_extra_1_sp">No Vibrations</string>
+    <string name="string_more_extra_1_sv">Inga Vibrationer</string>
+    <string name="string_more_extra_2">No Background Patterns</string>
+    <string name="string_more_extra_2_fr">Aucun motif d\'arrière-plan</string>
+    <string name="string_more_extra_2_pr">Sem padrões de fundo</string>
+    <string name="string_more_extra_2_sp">Sem padrões de fundo</string>
+    <string name="string_more_extra_2_sv">Inga bakgrundsmönster</string>
+    <string name="string_more_extra_3">No Wisper</string>
+    <string name="string_more_extra_3_fr">Aucun murmure</string>
+    <string name="string_more_extra_3_pr">Sem sussurro</string>
+    <string name="string_more_extra_3_sp">Sem sussurro</string>
+    <string name="string_more_extra_3_sv">Ingen Whisper</string>
+    <string name="string_more_extra_4">Dont Notify</string>
+    <string name="string_more_extra_4_fr">Ne pas prévenir</string>
+    <string name="string_more_extra_4_pr">Não Notificar</string>
+    <string name="string_more_extra_4_sp">Não Notificar</string>
+    <string name="string_more_extra_4_sv">Dont Meddela</string>
+    <string name="string_more_extra_5">Have discounts on various items</string>
+    <string name="string_more_extra_5_fr">Avez-rabais sur divers articles</string>
+    <string name="string_more_extra_5_pr">Tem descontos em vários itens</string>
+    <string name="string_more_extra_5_sp">Tem descontos em vários itens</string>
+    <string name="string_more_extra_5_sv">Har rabatt på olika poster</string>
+    <string name="string_more_fr">Peer inconnu</string>
+    <string name="string_more_one_0">Note: We accept BitCoins. Get account for free at CoinBase."</string>
+    <string name="string_more_one_0_fr">Note: We accept BitCoins. Get account for free at CoinBase."</string>
+    <string name="string_more_one_0_pr">Note: We accept BitCoins. Get account for free at CoinBase."</string>
+    <string name="string_more_one_0_sp">Note: We accept BitCoins. Get account for free at CoinBase."</string>
+    <string name="string_more_one_0_sv">Note: We accept BitCoins. Get account for free at CoinBase."</string>
+    <string name="string_more_pr">Desconhecido Peer</string>
+    <string name="string_more_sp">Desconocido Peer</string>
+    <string name="string_more_sv">Okänt Peer</string>
+    <string name="string_register_one_0">Join Request Delivered.</string>
+    <string name="string_register_one_0_fr">Demande de jointure livrée.</string>
+    <string name="string_register_one_0_pr">Solicitação de Junção Entregue.</string>
+    <string name="string_register_one_0_sp">Join Request Delivered.</string>
+    <string name="string_register_one_0_sv">Gå med förfrågan levereras.</string>
+    <string name="string_register_one_1">Oops .. Invalid Nickname! Use single word</string>
+    <string name="string_register_one_1_fr">Oops .. Pseudo invalide! Utiliser un seul mot</string>
+    <string name="string_register_one_1_pr">Ops .. Apelido inválido! Use uma única palavra</string>
+    <string name="string_register_one_1_sp">Oops .. Invalid Nickname! Use single word</string>
+    <string name="string_register_one_1_sv">Oj .. Ogiltig Nick! Använd ord</string>
+    <string name="string_register_one_2">Oops .. Invalid Age Value!</string>
+    <string name="string_register_one_2_fr">Oops .. Valeur d\'âge non valide!</string>
+    <string name="string_register_one_2_pr">Ops .. Valor de idade inválido</string>
+    <string name="string_register_one_2_sp">Oops .. Invalid Age Value!</string>
+    <string name="string_register_one_2_sv">Oj .. Ogiltig Age!</string>
+    <string name="string_register_one_3">Oops .. Something Went wrong!</string>
+    <string name="string_register_one_3_fr">Oups .. Quelque chose a mal tourné!</string>
+    <string name="string_register_one_3_pr">Ops .. Algo correu mal</string>
+    <string name="string_register_one_3_sp">Oops .. Something Went wrong!</string>
+    <string name="string_register_one_3_sv">Hoppsan! Något gick fel!</string>
+    <string name="string_search_one_0">Invalid Search Key!  Empty  not allowed. </string>
+    <string name="string_search_one_0_fr">Clé de recherche non valide! Vide non autorisé. </string>
+    <string name="string_search_one_0_pr">Chave de pesquisa inválida! Vazio não é permitido. </string>
+    <string name="string_search_one_0_sp">Invalid Search Key!  Empty  not allowed. </string>
+    <string name="string_search_one_0_sv">Ogiltig Sök nyckeln! Töm inte tillåtet.</string>
+    <string name="string_search_one_1">Platform not started. Try another Bootstrap! </string>
+    <string name="string_search_one_1_fr">La plate-forme n\'a pas démarré. Essayez un autre Bootstrap!</string>
+    <string name="string_search_one_1_pr">Plataforma não iniciada. Tente outro Bootstrap! </string>
+    <string name="string_search_one_1_sp">La plataforma no se ha iniciado. ¡Prueba otro Bootstrap!</string>
+    <string name="string_search_one_1_sv">Plattform inte startat. Försök med en annan Bootstrap!</string>
+    <string name="string_search_one_2">Contexter needs connection.\nPlatform not started         </string>
+    <string name="string_search_one_2_fr">Contexter a besoin de connection.Platform non démarré </string>
+    <string name="string_search_one_2_pr">Contexter precisa de conexão.\nPlataforma não iniciada         </string>
+    <string name="string_search_one_2_sp">Contexter precisa de conexão.Plataforma não iniciada      </string>
+    <string name="string_search_one_2_sv">Contexter behöver connection.\nPlatform inte börjat</string>
+    <string name="support">Support</string>
+    <string name="support_am">Support</string>
+    <string name="support_fr">Support</string>
+    <string name="support_pr">Suporte</string>
+    <string name="tap_here_to_add_image_am">ምስል ለማከል እዚህ መታ አድርግ</string>
+    <string name="tap_here_to_add_image_en">Tap here to add image</string>
+    <string name="tap_here_to_add_image_fr">Appuyez ici pour ajouter l\'image</string>
+    <string name="tap_here_to_add_image_pr">Toque aqui para adicionar uma imagem</string>
+    <string name="tap_here_to_add_image_sp">Toque aqui para adicionar uma imagem</string>
+    <string name="tap_here_to_add_image_sv">Tryck här för att lägga till en bild</string>
+    <string name="terms">Terms</string>
+    <string name="terms_am">Terms</string>
+    <string name="terms_fr">Terms</string>
+    <string name="terms_pr">Termos </string>
+    <string name="tip">Tip</string>
+    <string name="tip_am">Tip</string>
+    <string name="tip_fr">Astuce</string>
+    <string name="tip_pr">Dicas</string>
+    <string name="tips_text_am">
+                To Begin with :> \n
+				1. Search Groups on the left menu. \n
+				2. Import your favorite Groups.  \n
+				3. Register UCI  \n  4. Done!.\n
+				5. You are a Contexter!.\n
+				   visit  www.contexter.mobi
+    </string>
+    <string name="tips_text_en">         To Begin with :> \n
+				1. Search Groups on the grid \n   menu \' Search Groups\' \n
+				2. Import your favorite Groups.  \n
+				3. Register UCI  \n
+				4. Done!.\n
+				5. You are inside Contexter.\n
+
+        How it works:
+				For more visit  www.contexter.mobi </string>
+    <string name="tips_text_fr">
+        Commencer par:> \ n
+        1. Ajouter bootstrap ou démarrer comme bootstrap
+        2. Rechercher des groupes sur la grille \ n menu \'Rechercher des groupes \' \ n
+        3. Importez vos Groupes préférés. \n
+        4. Enregistrement UCI \ n
+        5. Terminé!. \n
+        6. Vous êtes dans Contexter. \n
+
+        Comment cela fonctionne:
+        Pour plus de visitez www.contexter.mobi
+
+    </string>
+    <string name="tips_text_pr">         To Begin with :> \n
+				1. Search Groups on the grid \n   menu \' Search Groups\' \n
+				2. Import your favorite Groups.  \n
+				3. Register UCI  \n
+				4. Done!.\n
+				5. You are inside Contexter.\n
+
+        How it works:
+				For more visit  www.contexter.mobi </string>
+    <string name="tips_text_sp">
+        Comenzar con:> \n
+        1. Añadir bootstrap o iniciar como bootstrap
+        2. Grupos de búsqueda en la cuadrícula \n menú \'Grupos de búsqueda \' \n
+        3. Importe sus grupos favoritos. \n
+        4. Registrar UCI \n
+        5. Hecho!. \n
+        6. Estás dentro de Contexter. \n
+         Cómo funciona:
+Para más visita www.contexter.mobi
+    </string>
+    <string name="tips_text_sv">
+        Till att börja med:> \n
+        1. Lägg bootstrap eller starta som bootstrap \n
+        2. Sök Grupper på nätet \ n menyn \'Sök Grupper \' \n
+        3. Importera dina favoritgrupper . \n
+        4. Register UCI \n
+        5. Klart!. \n
+        6. Du är inne Contexter. \n
+   Hur det fungerar:
+För mer besök www.contexter.mobi
+    </string>
+    <string name="update_am"> አዘምን</string>
+    <string name="update_fr"> Mettre à jour</string>
+    <string name="update_pr">atualizar</string>
+    <string name="update_sp"> Refrescar  </string>
+    <string name="update_sv"> Uppdatera</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+
+        -->
+    </style>
+    <style name="AppTheme" parent="android:Theme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="ContactListView">
+        <item name="android:verticalScrollbarPosition">right</item>
+        <item name="android:fastScrollAlwaysVisible">true</item>
+        <item name="android:scrollbarStyle">outsideInset</item>
+    </style>
+    <style name="TransparentProgressDialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTitleStyle">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+    <style name="action_bootstrap_ip_en">Bootstrap IP</style>
+    <style name="action_bootstrap_ip_fr">Bootstrap IP</style>
+    <style name="action_bootstrap_ip_sv">Bootstrap IP</style>
+    <style name="addressButton"/>
+    <style name="addressDetail" parent="@android:style/TextAppearance.Medium">
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textIsSelectable">true</item>
+    </style>
+    <style name="addressHeader" parent="@android:style/TextAppearance.Small">
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="contactNameTitle" parent="@android:style/TextAppearance.Large">
+        <item name="android:textSize">38sp</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textIsSelectable">true</item>
+    </style>
+    <style name="listViewActivatedStyle"/>
+    <style name="quickContactBadgeStyle">
+        <item name="android:background">@drawable/quickcontact_badge_small</item>
+    </style>
+    <style name="searchTextHiglight">
+        <item name="android:textColor">@color/chitchato_mebratu_cyan</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="spinner_style_one" parent="android:Widget.Spinner">
+        <item name="android:progressDrawable"> @drawable/spinner_progress_one</item>
+    </style>
+</resources>
