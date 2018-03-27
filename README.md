@@ -1,0 +1,5 @@
+# Contexter
+Contexter is cross-platform distributed IoT Application. Contexter enables intercommunication between peoples, machines and both. Send Instant Messages and photos free of Charge. Advertise your interest, your group and your sales for free. 
+
+Contexting is a term we used to refer all instant messaging supplemented with context message from context-aware systems or devices. Contexting includes all Machine to Machine messagings , Machine to Person messagings and Person to Machine messagings. Contexter is a peer-to-peer , free app which you need to achieve intercommunication between smart house hold appliances . A fully distributed application where no big servers or small servers take a part. No party or no one keeps information of users but the users themselves hold their own information in their devices. In the contexting mode the app supports GPS based current Address , Speed of a person holding the device , luminosity of the object holding , sound pressure level around the person holding the smart device.
+
